@@ -2,7 +2,7 @@
 <Defs>
   <DesignationCategoryDef>
     <defName>AviaryJurassicRimworld</defName>
-    <label>Aviary and Misc</label>
+    <label>Aviary-Misc</label>
     <description>Aviary related structures and other miscellaneous decor.</description>
     <order>650</order>
     <specialDesignatorClasses>
