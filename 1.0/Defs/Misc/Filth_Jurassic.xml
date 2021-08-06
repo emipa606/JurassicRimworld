@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="BaseFilth">
+    <defName>FilthChemical</defName>
+    <label>chemical spillage</label>
+    <statBases>
+      <Beauty>-30</Beauty>
+      <Cleanliness>-10</Cleanliness>
+    </statBases>
+    <graphicData>
+      <drawSize>1.0</drawSize>
+      <texPath>Things/Filth/Spatter</texPath>
+      <color>(15, 174, 255, 180)</color>
+    </graphicData>
+    <filth>
+      <rainWashes>true</rainWashes>
+      <cleaningWorkToReduceThickness>70</cleaningWorkToReduceThickness>
+      <canFilthAttach>true</canFilthAttach>
+    </filth>
+  </ThingDef>
+  <ThingDef ParentName="BaseFilth">
+    <defName>AmberChunks</defName>
+    <label>amber chunks</label>
+    <graphicData>
+      <texPath>Things/Filth/AmberChunks</texPath>
+    </graphicData>
+    <filth>
+      <cleaningWorkToReduceThickness>35</cleaningWorkToReduceThickness>
+    </filth>
+  </ThingDef>
+</Defs>

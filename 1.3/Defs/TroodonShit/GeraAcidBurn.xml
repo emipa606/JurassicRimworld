@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <DamageDef Name="AcidBase">
+    <defName>GeraAcidBurn</defName>
+    <label>acid burn</label>
+    <workerClass>DamageWorker_Stab</workerClass>
+    <externalViolence>true</externalViolence>
+    <deathMessage>{0} has been acid burned to death.</deathMessage>
+    <hediff>GeraAcidBurn</hediff>
+    <hediffSolid>GeraAcidBurn</hediffSolid>
+    <impactSoundType>Slice</impactSoundType>
+    <armorCategory>Blunt</armorCategory>
+    <stabChanceOfForcedInternal>0.6</stabChanceOfForcedInternal>
+    <overkillPctToDestroyPart>0.4~1.0</overkillPctToDestroyPart>
+  </DamageDef>
+  <HediffDef ParentName="InjuryBase">
+    <defName>GeraAcidBurn</defName>
+    <label>acid burn</label>
+    <labelNoun>an acid burn</labelNoun>
+    <description>A severe rash of an acid burn. Can cause infection if left untreated.</description>
+    <comps>
+      <li Class="HediffCompProperties_TendDuration">
+        <labelTendedWell>bandaged</labelTendedWell>
+        <labelTendedWellInner>sutured</labelTendedWellInner>
+        <labelSolidTendedWell>set</labelSolidTendedWell>
+      </li>
+      <li Class="HediffCompProperties_Infecter">
+        <infectionChance>0.80</infectionChance>
+      </li>
+      <li Class="HediffCompProperties_GetsPermanent">
+        <permanentLabel>acid burn scar</permanentLabel>
+      </li>
+    </comps>
+    <injuryProps>
+      <painPerSeverity>0.0125</painPerSeverity>
+      <averagePainPerSeverityPermanent>0.00625</averagePainPerSeverityPermanent>
+      <bleedRate>0</bleedRate>
+      <canMerge>false</canMerge>
+      <destroyedLabel>burned</destroyedLabel>
+      <destroyedOutLabel>burned off</destroyedOutLabel>
+    </injuryProps>
+  </HediffDef>
+  <ToolCapacityDef>
+    <defName>GeraAcidBurn</defName>
+  </ToolCapacityDef>
+  <ManeuverDef>
+    <defName>GeraAcidBurn</defName>
+    <requiredCapacity>GeraAcidBurn</requiredCapacity>
+    <verb>
+      <verbClass>Verb_MeleeAttackDamage</verbClass>
+      <meleeDamageDef>GeraAcidBurn</meleeDamageDef>
+    </verb>
+    <logEntryDef>MeleeAttack</logEntryDef>
+    <combatLogRulesHit>Maneuver_Smash_MeleeHit</combatLogRulesHit>
+    <combatLogRulesDeflect>Maneuver_Smash_MeleeDeflect</combatLogRulesDeflect>
+    <combatLogRulesMiss>Maneuver_Smash_MeleeMiss</combatLogRulesMiss>
+    <combatLogRulesDodge>Maneuver_Smash_MeleeDodge</combatLogRulesDodge>
+  </ManeuverDef>
+</Defs>

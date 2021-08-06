@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="AnimalDinoThingBase">
+    <defName>JRWSupersaurusReconstruct</defName>
+    <label>Supersaurus</label>
+    <description>-- &gt; INGEN INTERNAL CASE FILE #03927-1985 [SUPERSAURUS VIVIANAE] CODENAME: MONUMENT &gt;908
+
+A beautiful sauropod with a jade-like hide. Gathering in large herds, these massive creatures spend the majority of the day grazing to sate their hearty appetite.</description>
+    <statBases>
+      <MoveSpeed>3.0</MoveSpeed>
+      <ComfyTemperatureMin>-10</ComfyTemperatureMin>
+      <MarketValue>2000</MarketValue>
+    </statBases>
+    <tools>
+      <li>
+        <label>left foot</label>
+        <capacities>
+          <li>Blunt</li>
+        </capacities>
+        <power>30</power>
+        <cooldownTime>2</cooldownTime>
+        <linkedBodyPartsGroup>FrontLeftLeg</linkedBodyPartsGroup>
+      </li>
+      <li>
+        <label>right foot</label>
+        <capacities>
+          <li>Blunt</li>
+        </capacities>
+        <power>30</power>
+        <cooldownTime>2</cooldownTime>
+        <linkedBodyPartsGroup>FrontRightLeg</linkedBodyPartsGroup>
+      </li>
+      <li>
+        <label>head</label>
+        <capacities>
+          <li>Blunt</li>
+        </capacities>
+        <power>17</power>
+        <cooldownTime>2</cooldownTime>
+        <linkedBodyPartsGroup>HeadAttackTool</linkedBodyPartsGroup>
+        <ensureLinkedBodyPartsGroupAlwaysUsable>true</ensureLinkedBodyPartsGroupAlwaysUsable>
+        <chanceFactor>0.2</chanceFactor>
+      </li>
+    </tools>
+    <comps>
+      <li Class="CompProperties_EggLayer">
+        <eggFertilizedDef>SupersaurusEggReconstructed</eggFertilizedDef>
+        <eggFertilizationCountMax>1</eggFertilizationCountMax>
+        <eggLayIntervalDays>14.0</eggLayIntervalDays>
+        <eggProgressUnfertilizedMax>0.5</eggProgressUnfertilizedMax>
+        <eggCountRange>
+          <min>1</min>
+          <max>3</max>
+        </eggCountRange>
+      </li>
+    </comps>
+    <race>
+      <body>QuadrupedAnimalWithHooves</body>
+      <herdAnimal>true</herdAnimal>
+      <baseHungerRate>1.0</baseHungerRate>
+      <baseBodySize>5.75</baseBodySize>
+      <baseHealthScale>6.0</baseHealthScale>
+      <packAnimal>true</packAnimal>
+      <predator>false</predator>
+      <foodType>VegetarianRoughAnimal</foodType>
+      <leatherDef>Leather_LargeDino</leatherDef>
+      <gestationPeriodDays>30</gestationPeriodDays>
+      <trainability>Advanced</trainability>
+      <wildness>0</wildness>
+      <manhunterOnTameFailChance>0</manhunterOnTameFailChance>
+      <manhunterOnDamageChance>0.25</manhunterOnDamageChance>
+      <useMeatFrom>JRWAcrocanthosaurus</useMeatFrom>
+      <nuzzleMtbHours>120</nuzzleMtbHours>
+      <lifeExpectancy>100</lifeExpectancy>
+      <lifeStageAges>
+        <li>
+          <def>AnimalBaby</def>
+          <minAge>0</minAge>
+        </li>
+        <li>
+          <def>AnimalJuvenile</def>
+          <minAge>0.01</minAge>
+        </li>
+        <li>
+          <def>AnimalAdult</def>
+          <minAge>0.02</minAge>
+          <soundWounded>Pawn_Camarasaurus_Wounded</soundWounded>
+          <soundDeath>Pawn_Camarasaurus_Death</soundDeath>
+          <soundCall>Pawn_Camarasaurus_Call</soundCall>
+          <soundAngry>Pawn_Camarasaurus_Angry</soundAngry>
+        </li>
+      </lifeStageAges>
+      <soundMeleeHitPawn>Pawn_Melee_BigBash_HitPawn</soundMeleeHitPawn>
+      <soundMeleeHitBuilding>Pawn_Melee_BigBash_HitBuilding</soundMeleeHitBuilding>
+      <soundMeleeMiss>Pawn_Melee_BigBash_Miss</soundMeleeMiss>
+      <wildBiomes>
+        <TropicalRainforest>0</TropicalRainforest>
+        <BorealForest>0</BorealForest>
+      </wildBiomes>
+    </race>
+    <tradeTags>
+      <li>HerbivoreDinosaur</li>
+    </tradeTags>
+  </ThingDef>
+  <PawnKindDef ParentName="AnimalKindBase">
+    <defName>JRWSupersaurusReconstruct</defName>
+    <label>Supersaurus</label>
+    <race>JRWSupersaurusReconstruct</race>
+    <combatPower>150</combatPower>
+    <ecoSystemWeight>0</ecoSystemWeight>
+    <lifeStages>
+      <li>
+        <label>Supersaurus hatchling</label>
+        <bodyGraphicData>
+          <texPath>Things/Pawn/Animal/Supersaurus</texPath>
+          <drawSize>10</drawSize>
+          <shadowData>
+            <volume>(0.3, 0.3, 0.3)</volume>
+            <offset>(0,0,0)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Spooky/SauroDessicated</texPath>
+          <drawSize>3</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Pawn/Animal/Supersaurus</texPath>
+          <drawSize>10</drawSize>
+          <shadowData>
+            <volume>(0.3, 0.3, 0.3)</volume>
+            <offset>(0,0,-0.2)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Spooky/SauroDessicated</texPath>
+          <drawSize>3</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Pawn/Animal/Supersaurus</texPath>
+          <drawSize>10</drawSize>
+          <shadowData>
+            <volume>(0.3, 0.3, 0.3)</volume>
+            <offset>(0,0,-0.3)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Spooky/SauroDessicated</texPath>
+          <drawSize>3</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+    </lifeStages>
+  </PawnKindDef>
+</Defs>

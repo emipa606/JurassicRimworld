@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <TraderKindDef>
+    <defName>Orbital_Herbivore</defName>
+    <label>orbital herbivore trader</label>
+    <commonality>2</commonality>
+    <orbital>true</orbital>
+    <stockGenerators>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>Silver</thingDef>
+        <countRange>
+          <min>2000</min>
+          <max>4000</max>
+        </countRange>
+      </li>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>ComponentIndustrial</thingDef>
+        <countRange>
+          <min>5</min>
+          <max>30</max>
+        </countRange>
+      </li>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>Amber</thingDef>
+        <countRange>
+          <min>80</min>
+          <max>100</max>
+        </countRange>
+      </li>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>DNA</thingDef>
+        <countRange>
+          <min>10</min>
+          <max>25</max>
+        </countRange>
+      </li>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>MedicineUltratech</thingDef>
+        <countRange>
+          <min>5</min>
+          <max>30</max>
+        </countRange>
+      </li>
+      <li Class="StockGenerator_Animals">
+        <checkTemperature>false</checkTemperature>
+        <tradeTagsSell>
+          <li>HerbivoreDinosaur</li>
+        </tradeTagsSell>
+        <tradeTagsBuy>
+          <li>HerbivoreDinosaur</li>
+        </tradeTagsBuy>
+        <kindCountRange>
+          <min>5</min>
+          <max>10</max>
+        </kindCountRange>
+        <countRange>
+          <min>5</min>
+          <max>10</max>
+        </countRange>
+      </li>
+      <li Class="StockGenerator_BuyWeirdOrganic" />
+    </stockGenerators>
+  </TraderKindDef>
+  <TraderKindDef>
+    <defName>Orbital_Carnivore</defName>
+    <label>orbital carnivore trader</label>
+    <commonality>2</commonality>
+    <orbital>true</orbital>
+    <stockGenerators>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>Silver</thingDef>
+        <countRange>
+          <min>2000</min>
+          <max>4000</max>
+        </countRange>
+      </li>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>ComponentIndustrial</thingDef>
+        <countRange>
+          <min>5</min>
+          <max>30</max>
+        </countRange>
+      </li>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>Amber</thingDef>
+        <countRange>
+          <min>80</min>
+          <max>100</max>
+        </countRange>
+      </li>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>DNA</thingDef>
+        <countRange>
+          <min>10</min>
+          <max>25</max>
+        </countRange>
+      </li>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>MedicineUltratech</thingDef>
+        <countRange>
+          <min>5</min>
+          <max>30</max>
+        </countRange>
+      </li>
+      <li Class="StockGenerator_Animals">
+        <checkTemperature>false</checkTemperature>
+        <tradeTagsSell>
+          <li>CarnivoreDinosaur</li>
+        </tradeTagsSell>
+        <tradeTagsBuy>
+          <li>CarnivoreDinosaur</li>
+        </tradeTagsBuy>
+        <kindCountRange>
+          <min>5</min>
+          <max>10</max>
+        </kindCountRange>
+        <countRange>
+          <min>5</min>
+          <max>10</max>
+        </countRange>
+      </li>
+      <li Class="StockGenerator_BuyWeirdOrganic" />
+    </stockGenerators>
+  </TraderKindDef>
+</Defs>

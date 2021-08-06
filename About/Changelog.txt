@@ -1,0 +1,4 @@
+# Changelog for JurassicRimworld
+
+1.0.0.0 - First publish
+

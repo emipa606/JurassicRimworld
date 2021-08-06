@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="OrganicProductBase">
+    <defName>GutloadedBugs</defName>
+    <label>gutloaded bugs</label>
+    <thingCategories>
+      <li>Foods</li>
+    </thingCategories>
+    <description>Giant bugs and grubs reared to be morbidly large and full of nutrients and protein. An insectivore buffet.</description>
+    <stackLimit>25</stackLimit>
+    <graphicData>
+      <texPath>Things/Item/Resource/GutloadedBugs</texPath>
+    </graphicData>
+    <socialPropernessMatters>true</socialPropernessMatters>
+    <statBases>
+      <MarketValue>1.1</MarketValue>
+      <Mass>0.015</Mass>
+      <Nutrition>0.05</Nutrition>
+      <FoodPoisonChanceFixedHuman>0.10</FoodPoisonChanceFixedHuman>
+    </statBases>
+    <ingestible>
+      <foodType>Meat</foodType>
+      <preferability>RawBad</preferability>
+      <tasteThought>AteGutloadedBugs</tasteThought>
+      <ingestEffect>EatMeat</ingestEffect>
+      <optimalityOffsetHumanlikes>-30</optimalityOffsetHumanlikes>
+      <optimalityOffsetFeedingAnimals>15</optimalityOffsetFeedingAnimals>
+      <ingestSound>RawVegetable_Eat</ingestSound>
+    </ingestible>
+  </ThingDef>
+</Defs>

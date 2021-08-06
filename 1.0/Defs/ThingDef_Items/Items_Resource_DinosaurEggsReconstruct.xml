@@ -1,0 +1,2340 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="EggFertBase">
+    <defName>TyrannosaurusEggReconstructed</defName>
+    <label>tyrannosaurus rex egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Tyrannosaurus rex specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>TyrannosaurusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>GallimimusEggReconstructed</defName>
+    <label>gallimimus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Gallimimus bullatus specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>GallimimusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>DilophosaurusEggReconstructed</defName>
+    <label>dilophosaurus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Dilophosaurus wetherilli specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>DilophosaurusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>SpinosaurusEggReconstructed</defName>
+    <label>spinosaurus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Spinosaurus aegyptiacus specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>SpinosaurusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>TriceratopsEggReconstructed</defName>
+    <label>triceratops egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Triceratops horridus specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>TriceratopsReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>StegosaurusEggReconstructed</defName>
+    <label>stegosaurus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Stegosaurus stenops specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>StegosaurusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>ParasaurolophusEggReconstructed</defName>
+    <label>parasaurolophus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Parasaurolophus walkeri specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>ParasaurolophusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>PachycephalosaurusEggReconstructed</defName>
+    <label>pachycephalosaurus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Pachycephalosaurus wyomingensis specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>PachycephalosaurusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>AnkylosaurusEggReconstructed</defName>
+    <label>ankylosaurus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Ankylosaurus magniventris specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>AnkylosaurusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>CamarasaurusEggReconstructed</defName>
+    <label>camarasaurus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Camarasaurus supremus specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>CamarasaurusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>CeratosaurusEggReconstructed</defName>
+    <label>ceratosaurus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Ceratosaurus nasicornis specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>CeratosaurusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>PteranodonEggReconstructed</defName>
+    <label>pteranodon egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Pteranodon longiceps specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>PteranodonReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>YiEggReconstructed</defName>
+    <label>yi egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Yi qi specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>YiReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>CryolophosaurusEggReconstructed</defName>
+    <label>Cryolophosaurus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Cryolophosaurus ellioti specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>CryolophosaurusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>AntarctopeltaEggReconstructed</defName>
+    <label>antarctopelta egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into an Antarctopelta oliveroi specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>AntarctopeltaReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>BrachiosaurusEggReconstructed</defName>
+    <label>brachiosaurus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Brachiosaurus altithorax specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>BrachiosaurusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>CoelophysisEggReconstructed</defName>
+    <label>coelophysis egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Coelophysis bauri specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>CoelophysisReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>StyracosaurusEggReconstructed</defName>
+    <label>styracosaurus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Styracosaurus albertensis specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>StyracosaurusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>NanuqsaurusEggReconstructed</defName>
+    <label>nanuqsaurus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Nanuqsaurus hoglundi specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>NanuqsaurusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>HalszkaraptorEggReconstructed</defName>
+    <label>halszkaraptor egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Halszkaraptor escuilliei specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>HalszkaraptorReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>AcrocanthosaurusEggReconstructed</defName>
+    <label>acrocanthosaurus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Acrocanthosaurus atokensis specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>AcrocanthosaurusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>AlbertosaurusEggReconstructed</defName>
+    <label>albertosaurus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Albertosaurus sarcophagus specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>AlbertosaurusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>AllosaurusEggReconstructed</defName>
+    <label>allosaurus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Allosaurus fragilis specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>AllosaurusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>ApatosaurusEggReconstructed</defName>
+    <label>apatosaurus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Apatosaurus ajax specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>ApatosaurusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>BaryonyxEggReconstructed</defName>
+    <label>Baryonyx egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Baryonyx walkeri specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>BaryonyxReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>CarcharodontosaurusEggReconstructed</defName>
+    <label>carcharodontosaurus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Carcharodontosaurus saharicus specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>CarcharodontosaurusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>CompsognathusEggReconstructed</defName>
+    <label>compsognathus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Compsognathus longipes specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>CompsognathusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>CorythosaurusEggReconstructed</defName>
+    <label>corythosaurus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Corythosaurus casuarius specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>CorythosaurusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>DryosaurusEggReconstructed</defName>
+    <label>Dryosaurus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Dryosaurus altus specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>DryosaurusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>EdmontosaurusEggReconstructed</defName>
+    <label>edmontosaurus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Edmontosaurus regalis specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>EdmontosaurusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>EuoplocephalusEggReconstructed</defName>
+    <label>Euoplocephalus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Euoplocephalus tutus specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>EuoplocephalusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>HomalocephaleEggReconstructed</defName>
+    <label>Homalocephale egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Homalocephale calathocercos specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>HomalocephaleReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>KentrosaurusEggReconstructed</defName>
+    <label>Kentrosaurus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Kentrosaurus aethiopicus specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>KentrosaurusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>OuranosaurusEggReconstructed</defName>
+    <label>Ouranosaurus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Ouranosaurus nigeriensis specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>OuranosaurusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>OviraptorEggReconstructed</defName>
+    <label>Oviraptor egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Oviraptor philoceratops specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>OviraptorReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>TorosaurusEggReconstructed</defName>
+    <label>Torosaurus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Torosaurus latus specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>TorosaurusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>VelociraptorEggReconstructed</defName>
+    <label>Velociraptor egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Velociraptor sornaensis specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>VelociraptorReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>YangchuanosaurusEggReconstructed</defName>
+    <label>Yangchuanosaurus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Yangchuanosaurus shangyouensis specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>YangchuanosaurusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>YutyrannusEggReconstructed</defName>
+    <label>Yutyrannus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Yutyrannus huali specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>YutyrannusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>RhabdodonEggReconstructed</defName>
+    <label>Rhabdodon egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Rhabdodon priscus specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>RhabdodonReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>MochlodonEggReconstructed</defName>
+    <label>Mochlodon egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Mochlodon vorosi specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>MochlodonReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>TenontosaurusEggReconstructed</defName>
+    <label>Tenontosaurus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Tenontosaurus dossi specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>TenontosaurusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>ZalmoxesEggReconstructed</defName>
+    <label>Zalmoxes egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Zalmoxes robustus specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>ZalmoxesReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>CamptosaurusEggReconstructed</defName>
+    <label>Camptosaurus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Camptosaurus dispar specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>CamptosaurusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>SupersaurusEggReconstructed</defName>
+    <label>Supersaurus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Supersaurus vivianae specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>SupersaurusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>ArgentinosaurusEggReconstructed</defName>
+    <label>Argentinosaurus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Argentinosaurus huinculensis specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>ArgentinosaurusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>SaltasaurusEggReconstructed</defName>
+    <label>Saltasaurus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Saltasaurus loricatus specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>SaltasaurusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>CoahuilaceratopsEggReconstructed</defName>
+    <label>Coahuilaceratops egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Coahuilaceratops magnacuerna specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>CoahuilaceratopsReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>NasutoceratopsEggReconstructed</defName>
+    <label>Nasutoceratops egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Nasutoceratops titusi specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>NasutoceratopsReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>KosmoceratopsEggReconstructed</defName>
+    <label>Kosmoceratops egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Kosmoceratops richardsoni specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>KosmoceratopsReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>PachyrhinosaurusEggReconstructed</defName>
+    <label>Pachyrhinosaurus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Pachyrhinosaurus canadensis specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>PachyrhinosaurusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>HypsilophodonEggReconstructed</defName>
+    <label>Hypsilophodon egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Hypsilophodon foxii specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>HypsilophodonReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>DracorexEggReconstructed</defName>
+    <label>Dracorex egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Dracorex hogwartsia specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>DracorexReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>GasosaurusEggReconstructed</defName>
+    <label>Gasosaurus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Gasosaurus constructus specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>GasosaurusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>CaihongEggReconstructed</defName>
+    <label>Caihong egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Caihong juji specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>CaihongReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>ArchaeopteryxEggReconstructed</defName>
+    <label>Archaeopteryx egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Archaeopteryx siemensii specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>ArchaeopteryxReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>ValdosaurusEggReconstructed</defName>
+    <label>Valdosaurus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Valdosaurus canaliculatus specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>ValdosaurusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>QantassaurusEggReconstructed</defName>
+    <label>Qantassaurus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Qantassaurus intrepidus specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>QantassaurusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>ZephyrosaurusEggReconstructed</defName>
+    <label>Zephyrosaurus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Zephyrosaurus schaffi specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>ZephyrosaurusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>EstemmenosuchusEggReconstructed</defName>
+    <label>Estemmenosuchus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Estemmenosuchus mirabilis specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>EstemmenosuchusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>ScutosaurusEggReconstructed</defName>
+    <label>Scutosaurus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Scutosaurus karpinskii specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>ScutosaurusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>HolcorobeusEggReconstructed</defName>
+    <label>Holcorobeus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Holcorobeus atrosulcatus specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/InsectEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>HolcorobeusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>MeganeuraEggReconstructed</defName>
+    <label>Meganeura egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Meganeura monyi specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/InsectEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>MeganeuraReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>ManipulatorEggReconstructed</defName>
+    <label>Manipulator egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Manipulator modificaputis specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/InsectEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>ManipulatorReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>DimetrodonEggReconstructed</defName>
+    <label>Dimetrodon egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Dimetrodon grandis specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>DimetrodonReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>EdaphosaurusEggReconstructed</defName>
+    <label>Edaphosaurus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Edaphosaurus boanerges specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>EdaphosaurusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>ProtovermesEggReconstructed</defName>
+    <label>Protovermes egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Protovermes rimiensis specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>ProtovermesReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>IndominusEggReconstructed</defName>
+    <label>Indominus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Indominus rex specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>Indominus</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>ArthropleuraEggReconstructed</defName>
+    <label>Arthropleura egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Arthropleura armata specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/InsectEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>ArthropleuraReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>EuphoberiaEggReconstructed</defName>
+    <label>Euphoberia egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Euphoberia armigera specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/InsectEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>EuphoberiaReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>ProtosolpugaEggReconstructed</defName>
+    <label>Protosolpuga egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Protosolpuga carbonaria specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/InsectEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>ProtosolpugaReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>MetriacanthosaurusEggReconstructed</defName>
+    <label>Metriacanthosaurus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Metriacanthosaurus parkeri specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>MetriacanthosaurusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>GeosternbergiaEggReconstructed</defName>
+    <label>Geosternbergia egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Geosternbergia sternbergi specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>GeosternbergiaReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>TupandactylusEggReconstructed</defName>
+    <label>Tupandactylus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Tupandactylus imperator specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>TupandactylusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>NyctosaurusEggReconstructed</defName>
+    <label>Nyctosaurus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Nyctosaurus gracilis specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>NyctosaurusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>RhamphorhynchusEggReconstructed</defName>
+    <label>Rhamphorhynchus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Rhamphorhynchus muensteri specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>RhamphorhynchusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>StaurikosaurusEggReconstructed</defName>
+    <label>Staurikosaurus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Staurikosaurus pricei specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>StaurikosaurusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>TroodonEggReconstructed</defName>
+    <label>Troodon egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Troodon pectinodon specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>TroodonReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>CarnotaurusEggReconstructed</defName>
+    <label>Carnotaurus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Carnotaurus sastrei specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>CarnotaurusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>SuchomimusEggReconstructed</defName>
+    <label>Suchomimus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Suchomimus tenerensis specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>SuchomimusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>TanystropheusEggReconstructed</defName>
+    <label>Tanystropheus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Tanystropheus longobardicus specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>TanystropheusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>OrnithosuchusEggReconstructed</defName>
+    <label>Ornithosuchus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Ornithosuchus woodwardi specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>OrnithosuchusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>PrestosuchusEggReconstructed</defName>
+    <label>Prestosuchus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Prestosuchus chiniquensis specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>PrestosuchusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>KaprosuchusEggReconstructed</defName>
+    <label>Kaprosuchus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Kaprosuchus saharicus specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>KaprosuchusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>DesmatosuchusEggReconstructed</defName>
+    <label>Desmatosuchus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Desmatosuchus spurensis specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>DesmatosuchusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>DeinosuchusEggReconstructed</defName>
+    <label>Deinosuchus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Deinosuchus rugosus specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>DeinosuchusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>SarcosuchusEggReconstructed</defName>
+    <label>Sarcosuchus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Sarcosuchus imperator specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>SarcosuchusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>MicroceratusEggReconstructed</defName>
+    <label>Microceratus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Microceratus gobiensis specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>MicroceratusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>DeinonychusEggReconstructed</defName>
+    <label>Deinonychus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Deinonychus antirrhopus specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>DeinonychusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>PulmonoscorpiusEggReconstructed</defName>
+    <label>Pulmonoscorpius egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Pulmonoscorpius kirktonensis specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/InsectEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>PulmonoscorpiusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>LycaenopsEggReconstructed</defName>
+    <label>Lycaenops egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Lycaenops ornatus specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>LycaenopsReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>PsittacosaurusEggReconstructed</defName>
+    <label>Psittacosaurus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Psittacosaurus mongoliensis specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>PsittacosaurusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>QuetzalcoatlusEggReconstructed</defName>
+    <label>Quetzalcoatlus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Quetzalcoatlus northropi specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>QuetzalcoatlusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>TherizinosaurusEggReconstructed</defName>
+    <label>Therizinosaurus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Therizinosaurus cheloniformis specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>TherizinosaurusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>IndoraptorEggReconstructed</defName>
+    <label>Indoraptor egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Indoraptor specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>Indoraptor</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>MacrelcanaEggReconstructed</defName>
+    <label>Macrelcana egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Macrelcana ungeri specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/InsectEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>MacrelcanaReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>DromaeosaurusEggReconstructed</defName>
+    <label>dromaeosaurus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Dromaeosaurus albertensis specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>JRWDromaeosaurusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>StygimolochEggReconstructed</defName>
+    <label>stygimoloch egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Stygimoloch spinifer specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>JRWStygimolochReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>ProtoceratopsEggReconstructed</defName>
+    <label>protoceratops egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Protoceratops andrewski specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>JRWProtoceratopsReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>BagaceratopsEggReconstructed</defName>
+    <label>Bagaceratops egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Bagaceratops rozhdestvenskyi specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>JRWBagaceratopsReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>HylonomusEggReconstructed</defName>
+    <label>Hylonomus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Hylonomus lyelli specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>JRWHylonomusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>DiplocaulusEggReconstructed</defName>
+    <label>Diplocaulus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Diplocaulus magnicornus specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/AmphibEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>JRWDiplocaulusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>AdaliaEggReconstructed</defName>
+    <label>Adalia egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Adalia subversa specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/InsectEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>JRWAdaliaReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>PlatyhystrixEggReconstructed</defName>
+    <label>Platyhystrix egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Platyhystrix rugosus specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/AmphibEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>JRWPlatyhystrixReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>HynerpetonEggReconstructed</defName>
+    <label>Hynerpeton egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Hynerpeton bassetti specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/AmphibEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>JRWHynerpetonReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>BerniciaEggReconstructed</defName>
+    <label>Bernicia egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Bernicia praecursor specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/InsectEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>JRWBerniciaReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>TermitotronEggReconstructed</defName>
+    <label>Termitotron egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Termitotron vendeese specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/InsectEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>JRWTermitotronReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>CyclosphaeromaEggReconstructed</defName>
+    <label>Cyclosphaeroma egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Cyclosphaeroma trilobatum specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/InsectEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>JRWCyclosphaeromaReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>OphiacodonEggReconstructed</defName>
+    <label>Ophiacodon egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into an Ophiacodon mirus specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>JRWOphiacodonReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>GeralinuraEggReconstructed</defName>
+    <label>Geralinura egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Geralinura britannica specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/InsectEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>JRWGeralinuraReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>ParksosaurusEggReconstructed</defName>
+    <label>Parksosaurus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into an Parksosaurus warreni specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>JRWParksosaurusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>BrachytrachelopanEggReconstructed</defName>
+    <label>Brachytrachelopan egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into an Brachytrachelopan mesai specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>JRWBrachytrachelopanReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>BaseopsisEggReconstructed</defName>
+    <label>Baseopsis egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Baseopsis sibirica specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/InsectEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>JRWBaseopsisReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>KileskusEggReconstructed</defName>
+    <label>Kileskus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into an Kileskus aristotocus specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>JRWKileskusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>IschigualastiaEggReconstructed</defName>
+    <label>Ischigualastia egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into an Ischigualastia jenseni specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>JRWIschigualastiaReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>UdanoceratopsEggReconstructed</defName>
+    <label>Udanoceratops egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into an Udanoceratops tschizhovi specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>JRWUdanoceratopsReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>GorgonopsEggReconstructed</defName>
+    <label>Gorgonops egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into an Gorgonops whaitsi specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>JRWGorgonopsReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>GiganotosaurusEggReconstructed</defName>
+    <label>Giganotosaurus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into an Giganotosaurus carolinii specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>JRWGiganotosaurusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>BecklespinaxEggReconstructed</defName>
+    <label>Becklespinax egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into an Becklespinax altispinax specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>JRWBecklespinaxReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>EnigmosaurusEggReconstructed</defName>
+    <label>Enigmosaurus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into an Enigmosaurus mongoliensis specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>JRWEnigmosaurusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>RajasaurusEggReconstructed</defName>
+    <label>Rajasaurus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Rajasaurus narmadensis specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>JRWRajasaurusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>SegnosaurusEggReconstructed</defName>
+    <label>Segnosaurus egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Segnosaurus galbinensis specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>JRWSegnosaurusReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>BeelzebufoEggReconstructed</defName>
+    <label>Beelzebufo egg (recon.)</label>
+    <description>A reconstructed dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Beelzebufo ampinga specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/AmphibEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>JRWBeelzebufoReconstruct</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+</Defs>

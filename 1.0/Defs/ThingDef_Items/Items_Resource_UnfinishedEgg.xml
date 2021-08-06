@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="UnfinishedBase">
+    <defName>UnfinishedEgg</defName>
+    <label>semi-reconstructed egg</label>
+    <graphicData>
+      <texPath>Things/Item/Resource/UnfinishedEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <stuffCategories />
+  </ThingDef>
+</Defs>

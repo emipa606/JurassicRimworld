@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="AnimalDinoThingBase">
+    <defName>Allosaurus</defName>
+    <label>Allosaurus</label>
+    <description>-- &gt; INGEN INTERNAL CASE FILE #08822-1877 [ALLOSAURUS FRAGILIS] CODENAME: NEMEAN &gt;27
+
+A large, blood red theropod with a distinctly curved neck. They are known to sport a very foul temper once provoked.</description>
+    <statBases>
+      <MoveSpeed>6.0</MoveSpeed>
+      <ComfyTemperatureMin>-10</ComfyTemperatureMin>
+      <MarketValue>1000</MarketValue>
+    </statBases>
+    <tools>
+      <li>
+        <capacities>
+          <li>Bite</li>
+        </capacities>
+        <power>35</power>
+        <cooldownTime>2.6</cooldownTime>
+        <linkedBodyPartsGroup>Teeth</linkedBodyPartsGroup>
+        <chanceFactor>1</chanceFactor>
+        <surpriseAttack>
+          <extraMeleeDamages>
+            <li>
+              <def>Stun</def>
+              <amount>14</amount>
+            </li>
+          </extraMeleeDamages>
+        </surpriseAttack>
+      </li>
+    </tools>
+    <comps>
+      <li Class="CompProperties_EggLayer">
+        <eggFertilizedDef>AllosaurusEggFertilized</eggFertilizedDef>
+        <eggFertilizationCountMax>1</eggFertilizationCountMax>
+        <eggLayIntervalDays>14.0</eggLayIntervalDays>
+        <eggProgressUnfertilizedMax>0.5</eggProgressUnfertilizedMax>
+        <eggCountRange>
+          <min>1</min>
+          <max>3</max>
+        </eggCountRange>
+      </li>
+    </comps>
+    <race>
+      <body>QuadrupedAnimalWithPawsAndTail</body>
+      <herdAnimal>false</herdAnimal>
+      <baseHungerRate>1.0</baseHungerRate>
+      <baseBodySize>5.75</baseBodySize>
+      <baseHealthScale>6.0</baseHealthScale>
+      <packAnimal>true</packAnimal>
+      <predator>true</predator>
+      <foodType>CarnivoreAnimal</foodType>
+      <leatherDef>Leather_LargeDino</leatherDef>
+      <trainability>Advanced</trainability>
+      <wildness>0.85</wildness>
+      <manhunterOnTameFailChance>0.80</manhunterOnTameFailChance>
+      <manhunterOnDamageChance>0.99</manhunterOnDamageChance>
+      <useMeatFrom>Acrocanthosaurus</useMeatFrom>
+      <nuzzleMtbHours>120</nuzzleMtbHours>
+      <lifeExpectancy>80</lifeExpectancy>
+      <lifeStageAges>
+        <li>
+          <def>AnimalBaby</def>
+          <minAge>0</minAge>
+        </li>
+        <li>
+          <def>AnimalJuvenile</def>
+          <minAge>1.0</minAge>
+        </li>
+        <li>
+          <def>AnimalAdult</def>
+          <minAge>3.0</minAge>
+          <soundWounded>Pawn_Allosaurus_Wounded</soundWounded>
+          <soundDeath>Pawn_Allosaurus_Death</soundDeath>
+          <soundCall>Pawn_Allosaurus_Call</soundCall>
+          <soundAngry>Pawn_Allosaurus_Angry</soundAngry>
+        </li>
+      </lifeStageAges>
+      <soundMeleeHitPawn>Pawn_Melee_BigBash_HitPawn</soundMeleeHitPawn>
+      <soundMeleeHitBuilding>Pawn_Melee_BigBash_HitBuilding</soundMeleeHitBuilding>
+      <soundMeleeMiss>Pawn_Melee_BigBash_Miss</soundMeleeMiss>
+      <wildBiomes>
+        <TropicalRainforest>0.08</TropicalRainforest>
+        <TemperateForest>0.09</TemperateForest>
+        <BorealForest>0.09</BorealForest>
+      </wildBiomes>
+    </race>
+    <tradeTags>
+      <li>CarnivoreDinosaur</li>
+    </tradeTags>
+  </ThingDef>
+  <PawnKindDef ParentName="AnimalKindBase">
+    <defName>Allosaurus</defName>
+    <label>Allosaurus</label>
+    <race>Allosaurus</race>
+    <combatPower>150</combatPower>
+    <ecoSystemWeight>1.5</ecoSystemWeight>
+    <lifeStages>
+      <li>
+        <label>Allosaurus hatchling</label>
+        <bodyGraphicData>
+          <texPath>Things/Pawn/Animal/Allosaurus</texPath>
+          <drawSize>4</drawSize>
+          <shadowData>
+            <volume>(0.3, 0.3, 0.3)</volume>
+            <offset>(0,0,0)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Spooky/TyrannoDessicated</texPath>
+          <drawSize>1.0</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Pawn/Animal/Allosaurus</texPath>
+          <drawSize>6</drawSize>
+          <shadowData>
+            <volume>(0.3, 0.3, 0.3)</volume>
+            <offset>(0,0,-0.2)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Spooky/TyrannoDessicated</texPath>
+          <drawSize>2.5</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Pawn/Animal/Allosaurus</texPath>
+          <drawSize>8</drawSize>
+          <shadowData>
+            <volume>(0.3, 0.3, 0.3)</volume>
+            <offset>(0,0,-0.3)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Spooky/TyrannoDessicated</texPath>
+          <drawSize>2.5</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+    </lifeStages>
+  </PawnKindDef>
+</Defs>

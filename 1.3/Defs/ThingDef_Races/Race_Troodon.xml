@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="AnimalDinoThingBase">
+    <defName>JRWTroodon</defName>
+    <label>Troodon</label>
+    <description>-- &gt; INGEN INTERNAL CASE FILE #IG74726f6f646f6e
+[TROODON PECTINODON]
+
+WOUNDING TOOTH
+
+Bred on Isla Sorna during the initial testing phase of Jurassic Park, Troodon were considered to be too dangerous for public display, and were ordered to be destroyed. Instead, they were studied in secret, though the power outage on the island that caused the 1993 Isla Incident let them roam free. Their bite is extremely venemous, causing sickness followed by extreme mental break, followed swiftly by paralysis then death. Half eaten victims within the paralysis stage are converted into living nests by females of the species.</description>
+    <statBases>
+      <MoveSpeed>7.5</MoveSpeed>
+      <ComfyTemperatureMin>-10</ComfyTemperatureMin>
+      <MarketValue>500</MarketValue>
+    </statBases>
+    <tools>
+      <li>
+        <label>left claw</label>
+        <capacities>
+          <li>Scratch</li>
+        </capacities>
+        <power>8</power>
+        <cooldownTime>2</cooldownTime>
+        <linkedBodyPartsGroup>FrontLeftPaw</linkedBodyPartsGroup>
+        <chanceFactor>0.1</chanceFactor>
+      </li>
+      <li>
+        <label>right claw</label>
+        <capacities>
+          <li>Scratch</li>
+        </capacities>
+        <power>8</power>
+        <cooldownTime>2</cooldownTime>
+        <linkedBodyPartsGroup>FrontRightPaw</linkedBodyPartsGroup>
+        <chanceFactor>0.1</chanceFactor>
+      </li>
+      <li>
+        <label>teeth</label>
+        <capacities>
+          <li>TroodonVenomBite</li>
+        </capacities>
+        <power>10</power>
+        <cooldownTime>2</cooldownTime>
+        <linkedBodyPartsGroup>Teeth</linkedBodyPartsGroup>
+        <chanceFactor>1</chanceFactor>
+      </li>
+    </tools>
+    <comps>
+      <li Class="CompProperties_EggLayer">
+        <eggFertilizedDef>TroodonEggFertilized</eggFertilizedDef>
+        <eggFertilizationCountMax>1</eggFertilizationCountMax>
+        <eggLayIntervalDays>14.0</eggLayIntervalDays>
+        <eggProgressUnfertilizedMax>0.5</eggProgressUnfertilizedMax>
+        <eggCountRange>
+          <min>1</min>
+          <max>3</max>
+        </eggCountRange>
+      </li>
+    </comps>
+    <race>
+      <body>QuadrupedAnimalWithPawsAndTail</body>
+      <herdAnimal>true</herdAnimal>
+      <baseHungerRate>0.5</baseHungerRate>
+      <baseBodySize>4</baseBodySize>
+      <baseHealthScale>2.0</baseHealthScale>
+      <packAnimal>false</packAnimal>
+      <predator>false</predator>
+      <foodType>CarnivoreAnimal</foodType>
+      <leatherDef>Leather_MediumDino</leatherDef>
+      <gestationPeriodDays>30</gestationPeriodDays>
+      <trainability>Advanced</trainability>
+      <wildness>0.20</wildness>
+      <manhunterOnTameFailChance>0.10</manhunterOnTameFailChance>
+      <manhunterOnDamageChance>0.99</manhunterOnDamageChance>
+      <useMeatFrom>JRWAcrocanthosaurus</useMeatFrom>
+      <nuzzleMtbHours>120</nuzzleMtbHours>
+      <lifeExpectancy>50</lifeExpectancy>
+      <lifeStageAges>
+        <li>
+          <def>AnimalBaby</def>
+          <minAge>0</minAge>
+        </li>
+        <li>
+          <def>AnimalJuvenile</def>
+          <minAge>1.0</minAge>
+        </li>
+        <li>
+          <def>AnimalAdult</def>
+          <minAge>3.0</minAge>
+          <soundWounded>Pawn_Troodon_Wounded</soundWounded>
+          <soundDeath>Pawn_Troodon_Death</soundDeath>
+          <soundCall>Pawn_Troodon_Call</soundCall>
+          <soundAngry>Pawn_Troodon_Angry</soundAngry>
+        </li>
+      </lifeStageAges>
+      <soundMeleeHitPawn>Pawn_Melee_BigBash_HitPawn</soundMeleeHitPawn>
+      <soundMeleeHitBuilding>Pawn_Melee_BigBash_HitBuilding</soundMeleeHitBuilding>
+      <soundMeleeMiss>Pawn_Melee_BigBash_Miss</soundMeleeMiss>
+      <wildBiomes>
+        <TropicalRainforest>0.1</TropicalRainforest>
+        <AridShrubland>0.1</AridShrubland>
+      </wildBiomes>
+    </race>
+    <tradeTags>
+      <li>HerbivoreDinosaur</li>
+    </tradeTags>
+  </ThingDef>
+  <PawnKindDef ParentName="AnimalKindBase">
+    <defName>JRWTroodon</defName>
+    <label>Troodon</label>
+    <race>JRWTroodon</race>
+    <combatPower>60</combatPower>
+    <ecoSystemWeight>1.5</ecoSystemWeight>
+    <wildGroupSize>
+      <min>1</min>
+      <max>3</max>
+    </wildGroupSize>
+    <lifeStages>
+      <li>
+        <label>Troodon hatchling</label>
+        <bodyGraphicData>
+          <texPath>Things/Pawn/Animal/Troodon</texPath>
+          <drawSize>1</drawSize>
+          <shadowData>
+            <volume>(0.3, 0.3, 0.3)</volume>
+            <offset>(0,0,0)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Spooky/DromaeDessicated</texPath>
+          <drawSize>2.0</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Pawn/Animal/Troodon</texPath>
+          <drawSize>3</drawSize>
+          <shadowData>
+            <volume>(0.3, 0.3, 0.3)</volume>
+            <offset>(0,0,-0.2)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Spooky/DromaeDessicated</texPath>
+          <drawSize>2.0</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Pawn/Animal/Troodon</texPath>
+          <drawSize>4.5</drawSize>
+          <shadowData>
+            <volume>(0.3, 0.3, 0.3)</volume>
+            <offset>(0,0,-0.3)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Spooky/DromaeDessicated</texPath>
+          <drawSize>2.0</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+    </lifeStages>
+  </PawnKindDef>
+</Defs>

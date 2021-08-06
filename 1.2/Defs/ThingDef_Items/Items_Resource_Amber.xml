@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="ResourceBase">
+    <defName>Amber</defName>
+    <label>amber</label>
+    <description>Fossilized tree sap that takes on a beautiful golden hue. Can be used to extract DNA.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/Amber</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Metal_Drop</soundInteract>
+    <soundDrop>Metal_Drop</soundDrop>
+    <statBases>
+      <MarketValue>2</MarketValue>
+      <Mass>0.07</Mass>
+      <SharpDamageMultiplier>1</SharpDamageMultiplier>
+      <BluntDamageMultiplier>1</BluntDamageMultiplier>
+    </statBases>
+    <useHitPoints>false</useHitPoints>
+    <thingCategories>
+      <li>ResourcesRaw</li>
+    </thingCategories>
+    <stackLimit>75</stackLimit>
+    <deepCommonality>1.5</deepCommonality>
+    <deepCountPerPortion>20</deepCountPerPortion>
+    <deepLumpSizeRange>
+      <min>20</min>
+      <max>40</max>
+    </deepLumpSizeRange>
+    <stuffProps>
+      <categories>
+        <li>Metallic</li>
+      </categories>
+      <commonality>1.00</commonality>
+      <constructEffect>ConstructMetal</constructEffect>
+      <color>(255,167,0)</color>
+      <soundImpactStuff>BulletImpact_Metal</soundImpactStuff>
+      <soundMeleeHitSharp>MeleeHit_Metal_Sharp</soundMeleeHitSharp>
+      <soundMeleeHitBlunt>MeleeHit_Metal_Blunt</soundMeleeHitBlunt>
+      <statFactors>
+        <MaxHitPoints>1</MaxHitPoints>
+        <Beauty>5</Beauty>
+        <Flammability>0.5</Flammability>
+      </statFactors>
+    </stuffProps>
+  </ThingDef>
+</Defs>
