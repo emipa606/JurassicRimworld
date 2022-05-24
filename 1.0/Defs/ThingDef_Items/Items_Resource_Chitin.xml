@@ -5,7 +5,7 @@
     <label>bygone chitin</label>
     <description>Overlapping plates of exoskeleton that belong to prehistoric insects. Strong, durable, but somewhat flammable.</description>
     <graphicData>
-      <texPath>Things/Item/Resource/Chitin</texPath>
+      <texPath>Things/Item/Resource/Chitin/ChitinWeak</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <soundInteract>Metal_Drop</soundInteract>
@@ -48,7 +48,7 @@
     <label>ancient chitin</label>
     <description>Overlapping plates of exoskeleton that belong to prehistoric insects. Black in colour, it glistens like a crystal. It is less flammable than other types of chitin, and loyally protects the wearer.</description>
     <graphicData>
-      <texPath>Things/Item/Resource/ChitinStrong</texPath>
+      <texPath>Things/Item/Resource/Chitin/ChitinStrong</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <soundInteract>Metal_Drop</soundInteract>

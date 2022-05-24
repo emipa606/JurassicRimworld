@@ -1,5 +1,8 @@
 # Changelog for JurassicRimworld
 
+1.3.1 - Restructure of some graphic-files to not conflict with the Apini Playable Race
+
+
 1.0.1.0 - Updated to 1.3
 
 

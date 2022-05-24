@@ -1,14 +1,14 @@
 # JurassicRimworld
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of Serpyderpys mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1419618659
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 Life finds a way.
 
@@ -23,7 +23,7 @@ Features include:
 - Unique sounds and music!
 - Much, much more!
 
-Please note this isn&apos;t just &apos;another animal&apos; mod, it makes the game a bit harder, especially at the start! Dinosaurs do spawn in the wild, but you have the option to reconstruct them, as reconstructed dinosaurs are easier to tame and train, with the exception of the Indominus species. Please keep that in mind when downloading.
+Please note this isn't just 'another animal' mod, it makes the game a bit harder, especially at the start! Dinosaurs do spawn in the wild, but you have the option to reconstruct them, as reconstructed dinosaurs are easier to tame and train, with the exception of the Indominus species. Please keep that in mind when downloading.
 
 An extremely big thank you to: Mehni, Lanilor, Shotty, Flake, JayFoxley, Jules, SoggyNoodle, my wonderful Twerp, and everyone else who helped contribute to the mod and kept me going. Thank you so, so much.
 
@@ -52,12 +52,12 @@ DINOSAUR ONLY VERSION:
 https://steamcommunity.com/sharedfiles/filedetails/?id=1804979738
 
 CHINESE TRANSLATION:
-https://steamcommunity.com/sharedfiles/filedetails/?edit=true&amp;id=1903105216
+https://steamcommunity.com/sharedfiles/filedetails/?id=1903105216
 
 You are free to use any of the code in this mod as a base, a launchpad, etc.
 Do NOT use any of the art in this mod in other mods without my permission. Thank you.
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 
@@ -67,6 +67,7 @@ Do NOT use any of the art in this mod in other mods without my permission. Thank
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
 
