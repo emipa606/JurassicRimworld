@@ -46,8 +46,8 @@ public static class JR_PawnGroupKindWorker_Trader_GenerateCarriers_Patch
             var faction = parms.faction;
             var tile = parms.tile;
             var pawnGenerationRequest = new PawnGenerationRequest(pawnKindDef, faction,
-                PawnGenerationContext.NonPlayer, tile, false, false, false, false, true, false, 1f, false,
-                true, true, parms.inhabitants, false, false, false, false, 0f, 0f, null, 0f);
+                PawnGenerationContext.NonPlayer, tile, false, false, false, false, true, 1f, false,
+                true, true, parms.inhabitants, false, false, false, false, false, 0f, 0f, null, 0f);
             var pawn = PawnGenerator.GeneratePawn(pawnGenerationRequest);
             if (i < list.Count)
             {

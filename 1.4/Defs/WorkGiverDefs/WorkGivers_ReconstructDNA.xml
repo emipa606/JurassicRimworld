@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <WorkGiverDef>
+    <defName>DoBillsReconstructDNA</defName>
+    <label>reconstruct DNA</label>
+    <giverClass>WorkGiver_DoBill</giverClass>
+    <workType>Research</workType>
+    <priorityInType>90</priorityInType>
+    <fixedBillGiverDefs>
+      <li>DNAReconstructionBench</li>
+    </fixedBillGiverDefs>
+    <verb>reconstruct at</verb>
+    <gerund>reconstructing at</gerund>
+    <requiredCapacities>
+      <li>Manipulation</li>
+    </requiredCapacities>
+    <prioritizeSustains>true</prioritizeSustains>
+  </WorkGiverDef>
+</Defs>

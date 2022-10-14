@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="BuildingBase">
+    <defName>ViewingDomeEntrance</defName>
+    <label>viewing dome entrance</label>
+    <description>A viewing dome entrance meant to be built alongside the viewing dome. Visitors will enjoy entering the tunnel to get up close and personal with dinosaurs in their exhibits! An exciting way to fufill recreational needs.
+		
+		NOTE: the viewing dome entrance does not need the viewing dome to work. The dome is a purely aesthetical add-on.</description>
+    <category>Building</category>
+    <graphicData>
+      <texPath>Things/Building/ViewingDomeEntrance</texPath>
+      <graphicClass>Graphic_Multi</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <drawSize>(5,5)</drawSize>
+      <drawRotated>false</drawRotated>
+      <damageData>
+        <rect>(0.35,0.35,0.3,0.3)</rect>
+      </damageData>
+    </graphicData>
+    <rotatable>false</rotatable>
+    <altitudeLayer>MoteOverhead</altitudeLayer>
+    <hasInteractionCell>true</hasInteractionCell>
+    <interactionCellOffset>(0,0,0)</interactionCellOffset>
+    <passability>Standable</passability>
+    <pathCost>8</pathCost>
+    <tickerType>Normal</tickerType>
+    <size>(1,1)</size>
+    <drawerType>RealtimeOnly</drawerType>
+    <fillPercent>0.25</fillPercent>
+    <building>
+      <joyKind>ViewingDome</joyKind>
+    </building>
+    <statBases>
+      <MaxHitPoints>100</MaxHitPoints>
+      <WorkToBuild>300</WorkToBuild>
+      <Mass>5</Mass>
+      <Flammability>0</Flammability>
+      <Beauty>10</Beauty>
+      <JoyGainFactor>1.3</JoyGainFactor>
+    </statBases>
+    <selectable>true</selectable>
+    <stuffCategories>
+      <li>Stony</li>
+      <li>Metallic</li>
+    </stuffCategories>
+    <costStuffCount>50</costStuffCount>
+    <soundImpactDefault>BulletImpact_Metal</soundImpactDefault>
+    <leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
+    <resourcesFractionWhenDeconstructed>0.5</resourcesFractionWhenDeconstructed>
+    <placeWorkers>
+      <li>PlaceWorker_Heater</li>
+    </placeWorkers>
+    <drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
+    <designationCategory>JurassicRimworld</designationCategory>
+    <uiIconScale>0.15</uiIconScale>
+    <researchPrerequisites>
+      <li>JurassicFurniture</li>
+    </researchPrerequisites>
+  </ThingDef>
+
+o------------------------o
+	
+	    <JoyKindDef><defName>ViewingDome</defName><label>entering viewing dome</label></JoyKindDef><JoyGiverDef><defName>UseViewingDome</defName><giverClass>JoyGiver_InteractBuildingInteractionCell</giverClass><baseChance>8</baseChance><thingDefs><li>ViewingDomeEntrance</li></thingDefs><jobDef>UseViewingDome</jobDef><joyKind>ViewingDome</joyKind><unroofedOnly>true</unroofedOnly><requiredCapacities><li>Sight</li></requiredCapacities></JoyGiverDef>
+
+o------------------------o
+  
+   <JobDef><defName>UseViewingDome</defName><driverClass>JobDriver_WatchBuilding</driverClass><reportString>entering viewing dome.</reportString><joyDuration>4000</joyDuration><joyMaxParticipants>1</joyMaxParticipants><joySkill>Intellectual</joySkill><joyXpPerTick>0.004</joyXpPerTick><joyKind>ViewingDome</joyKind><allowOpportunisticPrefix>true</allowOpportunisticPrefix></JobDef></Defs>

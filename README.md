@@ -5,6 +5,8 @@
 Update of Serpyderpys mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1419618659
 
+- Patch by asavikle, lower the amount of traders from this mod: https://steamcommunity.com/sharedfiles/filedetails/?id=2813022846
+
 ![Image](https://i.imgur.com/pufA0kM.png)
 
 	

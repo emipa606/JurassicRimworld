@@ -9,6 +9,13 @@
   <JDP_TooltipChunkChance>Chance to get a chunk. If junk is mined, this is the chance to get chunks instead of rubble.\n\nMining blocks uses chunk chance to determine whether a sufficient amount of stone was mined to make blocks</JDP_TooltipChunkChance>
   <JDP_LabelHaulMode>Hauling mode</JDP_LabelHaulMode>
   <JDP_Haul>Haul mined items.</JDP_Haul>
+  <JDP_CurrentModVersion>Installed mod-version: {0}</JDP_CurrentModVersion>
+  <JDP_Settings>Settings</JDP_Settings>
+  <JDP_Raptors>You bred raptors?</JDP_Raptors>
+  <JDP_RaptorsInfo>Your scientists were so preoccupied with whether or not they could, they didn’t stop to think if they should. \n\n Note: if disabled, no dino reconstruction.</JDP_RaptorsInfo>
+  <JDP_Life>Life cannot be contained. Life breaks free. Life finds a way</JDP_Life>
+  <JDP_LifeInfo>If disabled, no dinosaurs will come wandering on the map. You'll only be able to get dinos through reconstruction.</JDP_LifeInfo>
+  <JDP_ChangedSettings>CHANGED SETTINGS NEED A GAME RESTART TO TAKE EFFECT. BLAME MEHNI.</JDP_ChangedSettings>
   <JDP_NotHaul>Ignore mined items.</JDP_NotHaul>
   <JDP_ReportNotEnoughStone>The digpit needs to be built in an area with more unquarried stone</JDP_ReportNotEnoughStone>
   <JDP_InspectQuarryPercent>digpit percent</JDP_InspectQuarryPercent>

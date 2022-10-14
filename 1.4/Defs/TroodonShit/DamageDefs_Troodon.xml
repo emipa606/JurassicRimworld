@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <DamageDef ParentName="Bite">
+    <defName>TroodonVenomBite</defName>
+    <label>venomous bite</label>
+    <additionalHediffs>
+      <li>
+        <hediff>TroodonVenomBite</hediff>
+        <severityPerDamageDealt>0.001</severityPerDamageDealt>
+        <victimSeverityScaling>ToxicResistance</victimSeverityScaling>
+      </li>
+    </additionalHediffs>
+  </DamageDef>
+</Defs>
