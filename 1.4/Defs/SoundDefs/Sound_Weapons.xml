@@ -8,8 +8,8 @@
     <subSounds>
       <li>
         <grains>
-          <li Class="AudioGrain_Folder">
-            <clipFolderPath>Weapon/TranqGun</clipFolderPath>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Weapon/TranqGun</clipPath>
           </li>
         </grains>
         <volumeRange>
@@ -28,8 +28,8 @@
     <subSounds>
       <li>
         <grains>
-          <li Class="AudioGrain_Folder">
-            <clipFolderPath>Weapon/SentryTurret</clipFolderPath>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Weapon/SentryTurret</clipPath>
           </li>
         </grains>
         <volumeRange>

@@ -7,8 +7,8 @@
     <subSounds>
       <li>
         <grains>
-          <li Class="AudioGrain_Folder">
-            <clipFolderPath>Edmontosaurus/Edmontosaurus_Call</clipFolderPath>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Edmontosaurus/Edmontosaurus_Call</clipPath>
           </li>
         </grains>
         <volumeRange>
@@ -35,8 +35,8 @@
     <subSounds>
       <li>
         <grains>
-          <li Class="AudioGrain_Folder">
-            <clipFolderPath>Edmontosaurus/Edmontosaurus_Angry</clipFolderPath>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Edmontosaurus/Edmontosaurus_Angry</clipPath>
           </li>
         </grains>
         <volumeRange>
@@ -62,8 +62,8 @@
     <subSounds>
       <li>
         <grains>
-          <li Class="AudioGrain_Folder">
-            <clipFolderPath>Edmontosaurus/Edmontosaurus_Wounded</clipFolderPath>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Edmontosaurus/Edmontosaurus_Wounded</clipPath>
           </li>
         </grains>
         <volumeRange>
@@ -90,8 +90,8 @@
     <subSounds>
       <li>
         <grains>
-          <li Class="AudioGrain_Folder">
-            <clipFolderPath>Edmontosaurus/Edmontosaurus_Death</clipFolderPath>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Edmontosaurus/Edmontosaurus_Death</clipPath>
           </li>
         </grains>
         <volumeRange>

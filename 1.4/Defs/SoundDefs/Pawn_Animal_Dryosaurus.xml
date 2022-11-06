@@ -7,8 +7,8 @@
     <subSounds>
       <li>
         <grains>
-          <li Class="AudioGrain_Folder">
-            <clipFolderPath>Dryosaurus/Dryosaurus_Call</clipFolderPath>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Dryosaurus/Dryosaurus_Call</clipPath>
           </li>
         </grains>
         <volumeRange>
@@ -35,8 +35,8 @@
     <subSounds>
       <li>
         <grains>
-          <li Class="AudioGrain_Folder">
-            <clipFolderPath>Dryosaurus/Dryosaurus_Angry</clipFolderPath>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Dryosaurus/Dryosaurus_Angry</clipPath>
           </li>
         </grains>
         <volumeRange>
@@ -62,8 +62,8 @@
     <subSounds>
       <li>
         <grains>
-          <li Class="AudioGrain_Folder">
-            <clipFolderPath>Dryosaurus/Dryosaurus_Wounded</clipFolderPath>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Dryosaurus/Dryosaurus_Wounded</clipPath>
           </li>
         </grains>
         <volumeRange>
@@ -90,8 +90,8 @@
     <subSounds>
       <li>
         <grains>
-          <li Class="AudioGrain_Folder">
-            <clipFolderPath>Dryosaurus/Dryosaurus_Death</clipFolderPath>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Dryosaurus/Dryosaurus_Death</clipPath>
           </li>
         </grains>
         <volumeRange>

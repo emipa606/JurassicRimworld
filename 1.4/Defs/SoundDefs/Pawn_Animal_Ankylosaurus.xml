@@ -7,8 +7,8 @@
     <subSounds>
       <li>
         <grains>
-          <li Class="AudioGrain_Folder">
-            <clipFolderPath>Ankylosaurus/Ankylosaurus_Call</clipFolderPath>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Ankylosaurus/Ankylosaurus_Call</clipPath>
           </li>
         </grains>
         <volumeRange>
@@ -35,8 +35,8 @@
     <subSounds>
       <li>
         <grains>
-          <li Class="AudioGrain_Folder">
-            <clipFolderPath>Ankylosaurus/Ankylosaurus_Angry</clipFolderPath>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Ankylosaurus/Ankylosaurus_Angry</clipPath>
           </li>
         </grains>
         <volumeRange>
@@ -62,8 +62,8 @@
     <subSounds>
       <li>
         <grains>
-          <li Class="AudioGrain_Folder">
-            <clipFolderPath>Ankylosaurus/Ankylosaurus_Wounded</clipFolderPath>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Ankylosaurus/Ankylosaurus_Wounded</clipPath>
           </li>
         </grains>
         <volumeRange>
@@ -90,8 +90,8 @@
     <subSounds>
       <li>
         <grains>
-          <li Class="AudioGrain_Folder">
-            <clipFolderPath>Ankylosaurus/Ankylosaurus_Death</clipFolderPath>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Ankylosaurus/Ankylosaurus_Death</clipPath>
           </li>
         </grains>
         <volumeRange>

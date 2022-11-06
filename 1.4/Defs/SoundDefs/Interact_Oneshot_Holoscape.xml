@@ -8,8 +8,8 @@
     <subSounds>
       <li>
         <grains>
-          <li Class="AudioGrain_Folder">
-            <clipFolderPath>Interact/Holoscape</clipFolderPath>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Interact/Holoscape</clipPath>
           </li>
         </grains>
         <volumeRange>
