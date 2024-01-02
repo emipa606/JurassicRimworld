@@ -1,5 +1,9 @@
 # Changelog for JurassicRimworld
 
+1.4.3 - Added missing medium support for all floors.
+Used DeepL to update translations for ChineseSimplified, French, German
+
+
 1.4.2 - Fixed the audio-definitions.
 
 
