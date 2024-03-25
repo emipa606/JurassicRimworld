@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="OrganicProductBase">
+    <defName>SlaughterMeat</defName>
+    <label>slaughter meat</label>
+    <thingCategories>
+      <li>Foods</li>
+    </thingCategories>
+    <description>In life, genetically engineered yet crippled livestock full of all the dietary requirements, vitamins and goodies a carnivore needs to survive. In death, a tasty dino snack.</description>
+    <stackLimit>25</stackLimit>
+    <graphicData>
+      <texPath>Things/Item/Resource/SlaughterMeat</texPath>
+    </graphicData>
+    <socialPropernessMatters>true</socialPropernessMatters>
+    <statBases>
+      <MarketValue>1.1</MarketValue>
+      <Mass>0.015</Mass>
+      <Nutrition>0.05</Nutrition>
+      <FoodPoisonChanceFixedHuman>0.50</FoodPoisonChanceFixedHuman>
+    </statBases>
+    <ingestible>
+      <foodType>Meat</foodType>
+      <preferability>RawBad</preferability>
+      <tasteThought>AteSlaughterMeat</tasteThought>
+      <ingestEffect>EatMeat</ingestEffect>
+      <optimalityOffsetHumanlikes>-30</optimalityOffsetHumanlikes>
+      <optimalityOffsetFeedingAnimals>15</optimalityOffsetFeedingAnimals>
+      <ingestSound>RawVegetable_Eat</ingestSound>
+    </ingestible>
+  </ThingDef>
+</Defs>

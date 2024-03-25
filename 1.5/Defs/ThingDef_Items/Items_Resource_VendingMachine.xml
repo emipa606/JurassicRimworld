@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="ResourceBase">
+    <defName>CoproliteRocks</defName>
+    <label>coprolite rocks</label>
+    <description>A snack from a vending machine. Delicious chocolate balls with a crunchy hazelnut center.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/Coprolite</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>0.88</drawSize>
+    </graphicData>
+    <soundInteract>Standard_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <socialPropernessMatters>true</socialPropernessMatters>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <MarketValue>3</MarketValue>
+      <Mass>0.075</Mass>
+      <Flammability>1.0</Flammability>
+      <Nutrition>0.1</Nutrition>
+    </statBases>
+    <thingCategories>
+      <li>Foods</li>
+    </thingCategories>
+    <ingestible>
+      <preferability>DesperateOnly</preferability>
+      <foodType>Processed</foodType>
+      <joy>0.10</joy>
+      <joyKind>Gluttonous</joyKind>
+      <maxNumToIngestAtOnce>4</maxNumToIngestAtOnce>
+      <ingestSound>Meal_Eat</ingestSound>
+    </ingestible>
+  </ThingDef>
+  <ThingDef ParentName="ResourceBase">
+    <defName>Paleobar</defName>
+    <label>paleobar</label>
+    <description>A snack from a vending machine. A healthy snack compressed into a small, energy-rich bar, made out of oats, nuts and... grass?</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/Paleobar</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>0.88</drawSize>
+    </graphicData>
+    <soundInteract>Standard_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <socialPropernessMatters>true</socialPropernessMatters>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <MarketValue>3</MarketValue>
+      <Mass>0.075</Mass>
+      <Flammability>1.0</Flammability>
+      <Nutrition>0.1</Nutrition>
+    </statBases>
+    <thingCategories>
+      <li>Foods</li>
+    </thingCategories>
+    <ingestible>
+      <preferability>DesperateOnly</preferability>
+      <foodType>Processed</foodType>
+      <joy>0.10</joy>
+      <joyKind>Gluttonous</joyKind>
+      <maxNumToIngestAtOnce>4</maxNumToIngestAtOnce>
+      <ingestSound>Meal_Eat</ingestSound>
+    </ingestible>
+  </ThingDef>
+  <ThingDef ParentName="ResourceBase">
+    <defName>SornaPunch</defName>
+    <label>sorna punch</label>
+    <description>A drink from a vending machine. A tropical, sugary drink that makes you tingle all over. Fizzy!</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/SornaPunch</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>0.88</drawSize>
+    </graphicData>
+    <soundInteract>Standard_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <socialPropernessMatters>true</socialPropernessMatters>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <MarketValue>3</MarketValue>
+      <Mass>0.075</Mass>
+      <Flammability>1.0</Flammability>
+      <Nutrition>0.1</Nutrition>
+    </statBases>
+    <thingCategories>
+      <li>Foods</li>
+    </thingCategories>
+    <ingestible>
+      <preferability>DesperateOnly</preferability>
+      <foodType>Processed</foodType>
+      <joy>0.10</joy>
+      <joyKind>Gluttonous</joyKind>
+      <maxNumToIngestAtOnce>4</maxNumToIngestAtOnce>
+      <ingestSound>Meal_Eat</ingestSound>
+    </ingestible>
+  </ThingDef>
+  <ThingDef ParentName="ResourceBase">
+    <defName>LavaFlow</defName>
+    <label>lava flow</label>
+    <description>A drink from a vending machine. A thick, fruity smoothie made from red fruits and vegetables. Yummy!</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/LavaFlow</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>0.88</drawSize>
+    </graphicData>
+    <soundInteract>Standard_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <socialPropernessMatters>true</socialPropernessMatters>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <MarketValue>3</MarketValue>
+      <Mass>0.075</Mass>
+      <Flammability>1.0</Flammability>
+      <Nutrition>0.1</Nutrition>
+    </statBases>
+    <thingCategories>
+      <li>Foods</li>
+    </thingCategories>
+    <ingestible>
+      <preferability>DesperateOnly</preferability>
+      <foodType>Processed</foodType>
+      <joy>0.10</joy>
+      <joyKind>Gluttonous</joyKind>
+      <maxNumToIngestAtOnce>4</maxNumToIngestAtOnce>
+      <ingestSound>Meal_Eat</ingestSound>
+    </ingestible>
+  </ThingDef>
+</Defs>

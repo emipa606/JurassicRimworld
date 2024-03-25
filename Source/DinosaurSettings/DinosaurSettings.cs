@@ -13,8 +13,7 @@ public class DinosaurSettings : Mod
     {
         settings = GetSettings<DinoSettings>();
         currentVersion =
-            VersionFromManifest.GetVersionFromModMetaData(
-                ModLister.GetActiveModWithIdentifier("Mlie.JurassicRimworld"));
+            VersionFromManifest.GetVersionFromModMetaData(content.ModMetaData);
     }
 
     public override string SettingsCategory()

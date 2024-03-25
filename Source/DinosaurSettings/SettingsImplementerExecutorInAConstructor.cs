@@ -32,10 +32,10 @@ internal static class SettingsImplementerExecutorInAConstructor
         }
 
         ResearchProjectDef[] dinoResearchDefs =
-        {
+        [
             DefDatabase<ResearchProjectDef>.GetNamed("DNAReconstruction"),
             DefDatabase<ResearchProjectDef>.GetNamed("AmberExtraction")
-        };
+        ];
         var enumerable = DefDatabase<ThingDef>.AllDefsListForReading.Where(delegate(ThingDef x)
         {
             IEnumerable<ResearchProjectDef> dinoResearchDefs2 = dinoResearchDefs;

@@ -5,7 +5,7 @@ namespace ExtraButcheringProducts;
 
 public class CompProperties_SpecialButcherChance : CompProperties
 {
-    public List<ThingDefCountWithChanceClass> butcherProducts = new List<ThingDefCountWithChanceClass>();
+    public readonly List<ThingDefCountWithChanceClass> butcherProducts = [];
 
     public CompProperties_SpecialButcherChance()
     {

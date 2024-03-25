@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="BuildingBase">
+    <defName>InfoboardLarge</defName>
+    <label>large infoboard</label>
+    <description>A large information board holding various entries on different dinosaurs. Glows slightly without power.</description>
+    <category>Building</category>
+    <graphicData>
+      <texPath>Things/Building/InfoboardLarge</texPath>
+      <graphicClass>Graphic_Multi</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <drawRotated>false</drawRotated>
+      <damageData>
+        <rect>(0.35,0.35,0.3,0.3)</rect>
+      </damageData>
+    </graphicData>
+    <rotatable>false</rotatable>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <pathCost>8</pathCost>
+    <tickerType>Normal</tickerType>
+    <drawerType>RealtimeOnly</drawerType>
+    <fillPercent>0.15</fillPercent>
+    <statBases>
+      <MaxHitPoints>100</MaxHitPoints>
+      <WorkToBuild>100</WorkToBuild>
+      <Mass>5</Mass>
+      <Flammability>0</Flammability>
+      <Beauty>3</Beauty>
+    </statBases>
+    <selectable>true</selectable>
+    <stuffCategories>
+      <li>Stony</li>
+      <li>Metallic</li>
+    </stuffCategories>
+    <costStuffCount>10</costStuffCount>
+    <soundImpactDefault>BulletImpact_Metal</soundImpactDefault>
+    <leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
+    <resourcesFractionWhenDeconstructed>0.5</resourcesFractionWhenDeconstructed>
+    <placeWorkers>
+      <li>PlaceWorker_Heater</li>
+    </placeWorkers>
+    <drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
+    <comps>
+      <li Class="CompProperties_Glower">
+        <glowRadius>4</glowRadius>
+        <glowColor>(62,105,36,0)</glowColor>
+      </li>
+    </comps>
+    <designationCategory>JurassicRimworld</designationCategory>
+    <researchPrerequisites>
+      <li>JurassicFurniture</li>
+    </researchPrerequisites>
+  </ThingDef>
+</Defs>

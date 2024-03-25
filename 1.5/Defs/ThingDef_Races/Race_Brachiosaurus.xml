@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="AnimalDinoThingBase">
+    <defName>JRWBrachiosaurus</defName>
+    <label>Brachiosaurus</label>
+    <description>-- &gt; INGEN INTERNAL CASE FILE #03827-1903 [BRACHIOSAURUS ALTITHORAX] CODENAME: ATLAS &gt;90
+
+A colossal sauropod that towers above all else, their neck reaching up to the heavens. They are powerful creatures that are not to be trifled with, their strength greater than that of many carnivores.</description>
+    <statBases>
+      <MoveSpeed>1.5</MoveSpeed>
+      <ComfyTemperatureMin>-10</ComfyTemperatureMin>
+      <MarketValue>3000</MarketValue>
+    </statBases>
+    <tools>
+      <li>
+        <label>left foot</label>
+        <capacities>
+          <li>Blunt</li>
+        </capacities>
+        <power>30</power>
+        <cooldownTime>2</cooldownTime>
+        <linkedBodyPartsGroup>FrontLeftLeg</linkedBodyPartsGroup>
+      </li>
+      <li>
+        <label>right foot</label>
+        <capacities>
+          <li>Blunt</li>
+        </capacities>
+        <power>30</power>
+        <cooldownTime>2</cooldownTime>
+        <linkedBodyPartsGroup>FrontRightLeg</linkedBodyPartsGroup>
+      </li>
+      <li>
+        <label>head</label>
+        <capacities>
+          <li>Blunt</li>
+        </capacities>
+        <power>17</power>
+        <cooldownTime>2</cooldownTime>
+        <linkedBodyPartsGroup>HeadAttackTool</linkedBodyPartsGroup>
+        <ensureLinkedBodyPartsGroupAlwaysUsable>true</ensureLinkedBodyPartsGroupAlwaysUsable>
+        <chanceFactor>0.2</chanceFactor>
+      </li>
+    </tools>
+    <comps>
+      <li Class="CompProperties_EggLayer">
+        <eggFertilizedDef>BrachiosaurusEggFertilized</eggFertilizedDef>
+        <eggFertilizationCountMax>1</eggFertilizationCountMax>
+        <eggLayIntervalDays>14.0</eggLayIntervalDays>
+        <eggProgressUnfertilizedMax>0.5</eggProgressUnfertilizedMax>
+        <eggCountRange>
+          <min>1</min>
+          <max>3</max>
+        </eggCountRange>
+      </li>
+    </comps>
+    <race>
+      <body>QuadrupedAnimalWithHooves</body>
+      <herdAnimal>true</herdAnimal>
+      <baseHungerRate>2.0</baseHungerRate>
+      <baseBodySize>5.75</baseBodySize>
+      <baseHealthScale>6.0</baseHealthScale>
+      <packAnimal>true</packAnimal>
+      <predator>false</predator>
+      <foodType>VegetarianRoughAnimal</foodType>
+      <leatherDef>Leather_LargeDino</leatherDef>
+      <gestationPeriodDays>30</gestationPeriodDays>
+      <trainability>Advanced</trainability>
+      <wildness>0.85</wildness>
+      <manhunterOnTameFailChance>0.80</manhunterOnTameFailChance>
+      <manhunterOnDamageChance>0.25</manhunterOnDamageChance>
+      <useMeatFrom>JRWAcrocanthosaurus</useMeatFrom>
+      <nuzzleMtbHours>120</nuzzleMtbHours>
+      <lifeExpectancy>100</lifeExpectancy>
+      <lifeStageAges>
+        <li>
+          <def>AnimalBaby</def>
+          <minAge>0</minAge>
+        </li>
+        <li>
+          <def>AnimalJuvenile</def>
+          <minAge>1.0</minAge>
+        </li>
+        <li>
+          <def>AnimalAdult</def>
+          <minAge>3.0</minAge>
+          <soundWounded>Pawn_Brachiosaurus_Wounded</soundWounded>
+          <soundDeath>Pawn_Brachiosaurus_Death</soundDeath>
+          <soundCall>Pawn_Brachiosaurus_Call</soundCall>
+          <soundAngry>Pawn_Brachiosaurus_Angry</soundAngry>
+        </li>
+      </lifeStageAges>
+      <soundMeleeHitPawn>Pawn_Melee_BigBash_HitPawn</soundMeleeHitPawn>
+      <soundMeleeHitBuilding>Pawn_Melee_BigBash_HitBuilding</soundMeleeHitBuilding>
+      <soundMeleeMiss>Pawn_Melee_BigBash_Miss</soundMeleeMiss>
+      <wildBiomes>
+        <TropicalRainforest>0.08</TropicalRainforest>
+        <BorealForest>0.09</BorealForest>
+      </wildBiomes>
+    </race>
+    <tradeTags>
+      <li>HerbivoreDinosaur</li>
+    </tradeTags>
+  </ThingDef>
+  <PawnKindDef ParentName="AnimalKindBase">
+    <defName>JRWBrachiosaurus</defName>
+    <label>Brachiosaurus</label>
+    <race>JRWBrachiosaurus</race>
+    <combatPower>800</combatPower>
+    <wildGroupSize>
+      <min>3</min>
+      <max>6</max>
+    </wildGroupSize>
+    <ecoSystemWeight>1.5</ecoSystemWeight>
+    <lifeStages>
+      <li>
+        <label>Brachiosaurus hatchling</label>
+        <bodyGraphicData>
+          <texPath>Things/Pawn/Animal/Brachiosaurus</texPath>
+          <drawSize>3</drawSize>
+          <shadowData>
+            <volume>(0.3, 0.3, 0.3)</volume>
+            <offset>(0,0,0)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Spooky/SauroDessicated</texPath>
+          <drawSize>3</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Pawn/Animal/Brachiosaurus</texPath>
+          <drawSize>6</drawSize>
+          <shadowData>
+            <volume>(0.3, 0.3, 0.3)</volume>
+            <offset>(0,0,-0.2)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Spooky/SauroDessicated</texPath>
+          <drawSize>3</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Pawn/Animal/Brachiosaurus</texPath>
+          <drawSize>10</drawSize>
+          <shadowData>
+            <volume>(0.3, 0.3, 0.3)</volume>
+            <offset>(0,0,-0.3)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Spooky/SauroDessicated</texPath>
+          <drawSize>3</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+    </lifeStages>
+  </PawnKindDef>
+</Defs>

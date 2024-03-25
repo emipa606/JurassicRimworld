@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThoughtDef>
+    <defName>AteSlaughterMeat</defName>
+    <showBubble>true</showBubble>
+    <icon>Things/Mote/ThoughtSymbol/Food</icon>
+    <durationDays>0.5</durationDays>
+    <stackLimit>3</stackLimit>
+    <stages>
+      <li>
+        <label>ate slaughter meat</label>
+        <description>The taste of rot lingers on my tongue. I ate sinewy, raw flesh that smelt of the grave.</description>
+        <baseMoodEffect>-45</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+</Defs>

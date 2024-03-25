@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- ================= dicks ================= -->
+  <TerrainDef Name="FloorTileDino">
+    <defName>FloorTileDino</defName>
+    <label>Tiled Floor</label>
+    <description>Usually acts as a border. Grey slabs of stone laid out in a tiled fashion.</description>
+    <texturePath>Terrain/Surfaces/FloorTileDino</texturePath>
+    <uiIconPath>Terrain/Surfaces/FloorTileDinoIco</uiIconPath>
+    <edgeType>FadeRough</edgeType>
+    <layerable>true</layerable>
+    <affordances>
+      <li>Light</li>
+      <li>Medium</li>
+      <li>Heavy</li>
+    </affordances>
+    <statBases>
+      <WorkToBuild>150</WorkToBuild>
+      <Beauty>5</Beauty>
+    </statBases>
+    <costList>
+      <Steel>5</Steel>
+    </costList>
+    <designationCategory>JurassicRimworld</designationCategory>
+    <fertility>0</fertility>
+    <constructEffect>ConstructMetal</constructEffect>
+    <terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
+  </TerrainDef>
+  <TerrainDef Name="FloorPavedDino">
+    <defName>FloorPavedDino</defName>
+    <label>Paved Floor</label>
+    <description>Tan coloured rounded slabs laid out in an interlocking pattern. Often used as paths.</description>
+    <texturePath>Terrain/Surfaces/FloorPavedDino</texturePath>
+    <uiIconPath>Terrain/Surfaces/FloorPavedDinoIco</uiIconPath>
+    <edgeType>FadeRough</edgeType>
+    <layerable>true</layerable>
+    <affordances>
+      <li>Light</li>
+      <li>Medium</li>
+      <li>Heavy</li>
+    </affordances>
+    <statBases>
+      <WorkToBuild>150</WorkToBuild>
+      <Beauty>5</Beauty>
+    </statBases>
+    <costList>
+      <Steel>5</Steel>
+    </costList>
+    <designationCategory>JurassicRimworld</designationCategory>
+    <fertility>0</fertility>
+    <constructEffect>ConstructMetal</constructEffect>
+    <terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
+  </TerrainDef>
+  <TerrainDef Name="FloorEvergreen">
+    <defName>FloorEvergreen</defName>
+    <label>Evergreen Floor</label>
+    <description>A moss blanket that will never wither nor die. Useful for indoor exhibits or aviary domes.</description>
+    <texturePath>Terrain/Surfaces/FloorEvergreen</texturePath>
+    <uiIconPath>Terrain/Surfaces/FloorEvergreenIco</uiIconPath>
+    <edgeType>FadeRough</edgeType>
+    <layerable>true</layerable>
+    <affordances>
+      <li>Light</li>
+      <li>Medium</li>
+      <li>Heavy</li>
+    </affordances>
+    <statBases>
+      <WorkToBuild>150</WorkToBuild>
+      <Beauty>5</Beauty>
+    </statBases>
+    <costList>
+      <WoodLog>5</WoodLog>
+    </costList>
+    <designationCategory>JurassicRimworld</designationCategory>
+    <fertility>0</fertility>
+    <constructEffect>ConstructWood</constructEffect>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+  </TerrainDef>
+  <TerrainDef Name="FloorWaterDino">
+    <defName>FloorWaterDino</defName>
+    <label>Water</label>
+    <description>A ditch of shallow water. Perfect for watering holes or estuarine dinosaurs.</description>
+    <uiIconPath>Terrain/Surfaces/FloorWaterIco</uiIconPath>
+    <texturePath>Terrain/Surfaces/WaterShallowRamp</texturePath>
+    <waterDepthShader>Map/WaterDepth</waterDepthShader>
+    <edgeType>Water</edgeType>
+    <renderPrecedence>394</renderPrecedence>
+    <pathCost>12</pathCost>
+    <affordances>
+      <li>Light</li>
+      <li>Medium</li>
+      <li>Heavy</li>
+    </affordances>
+    <statBases>
+      <WorkToBuild>150</WorkToBuild>
+      <Beauty>5</Beauty>
+    </statBases>
+    <fertility>0</fertility>
+    <avoidWander>false</avoidWander>
+    <holdSnow>false</holdSnow>
+    <driesTo>Gravel</driesTo>
+    <takeSplashes>true</takeSplashes>
+    <extinguishesFire>true</extinguishesFire>
+    <extraDeteriorationFactor>3</extraDeteriorationFactor>
+    <traversedThought>SoakingWet</traversedThought>
+    <extraNonDraftedPerceivedPathCost>180</extraNonDraftedPerceivedPathCost>
+    <extraDraftedPerceivedPathCost>18</extraDraftedPerceivedPathCost>
+    <tags>
+      <li>Water</li>
+    </tags>
+    <designationCategory>JurassicRimworld</designationCategory>
+    <constructEffect>ConstructWood</constructEffect>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+    <tools>
+      <li>
+        <label>water</label>
+        <capacities>
+          <li>KickMaterialInEyes</li>
+        </capacities>
+        <hediff>WaterInEyes</hediff>
+        <cooldownTime>1.5</cooldownTime>
+      </li>
+    </tools>
+  </TerrainDef>
+</Defs>

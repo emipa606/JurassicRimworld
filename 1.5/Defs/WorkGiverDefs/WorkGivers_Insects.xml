@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <WorkGiverDef>
+    <defName>Paste</defName>
+    <label>collecting paste</label>
+    <giverClass>WorkGiver_Milk</giverClass>
+    <workType>Handling</workType>
+    <verb>collect paste</verb>
+    <gerund>collecting from</gerund>
+    <priorityInType>90</priorityInType>
+    <requiredCapacities>
+      <li>Manipulation</li>
+    </requiredCapacities>
+  </WorkGiverDef>
+  <WorkGiverDef>
+    <defName>Silk</defName>
+    <label>collecting silk</label>
+    <giverClass>WorkGiver_Shear</giverClass>
+    <workType>Handling</workType>
+    <verb>collect silk</verb>
+    <gerund>collecting from</gerund>
+    <priorityInType>85</priorityInType>
+    <requiredCapacities>
+      <li>Manipulation</li>
+    </requiredCapacities>
+  </WorkGiverDef>
+</Defs>

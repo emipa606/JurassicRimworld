@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="AnimalDinoThingBase">
+    <defName>JRWProtovermes</defName>
+    <label>Protovermes</label>
+    <description>-- &gt; BIOSYN INTERNAL CASE FILE #028172-5500 [PROTOVERMES RIMIENSIS] CODENAME: NOSTALGIA &gt;109
+
+A blood-red cynodont that is peaceful unless disturbed. Its modern decendants are still alive on the rim to this day. Interestingly enough the ability to ignite itself after death remains even through normal genome restoration means, implying that the rim underwent a similar - albeit bizarre - motion of prehistory much like Earth did millions of years ago. This suggests that boomrats were not genetically engineered as was previously thought.</description>
+    <statBases>
+      <MoveSpeed>5.5</MoveSpeed>
+      <ComfyTemperatureMin>-30</ComfyTemperatureMin>
+      <MarketValue>500</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_EggLayer">
+        <eggFertilizedDef>ProtovermesEggFertilized</eggFertilizedDef>
+        <eggFertilizationCountMax>1</eggFertilizationCountMax>
+        <eggLayIntervalDays>20</eggLayIntervalDays>
+        <eggProgressUnfertilizedMax>0.5</eggProgressUnfertilizedMax>
+        <eggCountRange>1</eggCountRange>
+      </li>
+    </comps>
+    <tools>
+      <li>
+        <label>left claw</label>
+        <capacities>
+          <li>Scratch</li>
+        </capacities>
+        <power>6</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>FrontLeftPaw</linkedBodyPartsGroup>
+      </li>
+      <li>
+        <label>right claw</label>
+        <capacities>
+          <li>Scratch</li>
+        </capacities>
+        <power>6</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>FrontRightPaw</linkedBodyPartsGroup>
+      </li>
+      <li>
+        <capacities>
+          <li>Bite</li>
+        </capacities>
+        <power>4</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>Teeth</linkedBodyPartsGroup>
+      </li>
+      <li>
+        <label>head</label>
+        <capacities>
+          <li>Blunt</li>
+        </capacities>
+        <power>1</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>HeadAttackTool</linkedBodyPartsGroup>
+      </li>
+    </tools>
+    <race>
+      <body>QuadrupedAnimalWithPaws</body>
+      <deathAction>
+        <workerClass>DeathActionWorker_SmallExplosion</workerClass>
+      </deathAction>
+      <baseBodySize>0.2</baseBodySize>
+      <baseHungerRate>0.35</baseHungerRate>
+      <baseHealthScale>0.4</baseHealthScale>
+      <foodType>OmnivoreRoughAnimal</foodType>
+      <executionRange>4</executionRange>
+      <trainability>Advanced</trainability>
+      <wildness>0.75</wildness>
+      <leatherDef>Leather_SmallDino</leatherDef>
+      <useMeatFrom>Boomrat</useMeatFrom>
+      <mateMtbHours>8</mateMtbHours>
+      <nuzzleMtbHours>120</nuzzleMtbHours>
+      <canBePredatorPrey>false</canBePredatorPrey>
+      <gestationPeriodDays>12.5</gestationPeriodDays>
+      <litterSizeCurve>
+        <points>
+          <li>(0.5, 0)</li>
+          <li>(1, 1)</li>
+          <li>(5, 1)</li>
+          <li>(5.5, 0)</li>
+        </points>
+      </litterSizeCurve>
+      <lifeExpectancy>8</lifeExpectancy>
+      <lifeStageAges>
+        <li>
+          <def>AnimalBaby</def>
+          <minAge>0</minAge>
+        </li>
+        <li>
+          <def>AnimalJuvenile</def>
+          <minAge>0.1</minAge>
+        </li>
+        <li>
+          <def>AnimalAdult</def>
+          <minAge>0.35</minAge>
+          <soundWounded>Pawn_Boomrat_Wounded</soundWounded>
+          <soundDeath>Pawn_Boomrat_Death</soundDeath>
+          <soundCall>Pawn_Boomrat_Call</soundCall>
+          <soundAngry>Pawn_Boomrat_Angry</soundAngry>
+        </li>
+      </lifeStageAges>
+      <soundMeleeHitPawn>Pawn_Melee_SmallScratch_HitPawn</soundMeleeHitPawn>
+      <soundMeleeHitBuilding>Pawn_Melee_SmallScratch_HitBuilding</soundMeleeHitBuilding>
+      <soundMeleeMiss>Pawn_Melee_SmallScratch_Miss</soundMeleeMiss>
+    </race>
+    <tradeTags>
+      <li>HerbivoreDinosaur</li>
+    </tradeTags>
+  </ThingDef>
+  <PawnKindDef ParentName="AnimalKindBase">
+    <defName>JRWProtovermes</defName>
+    <label>Protovermes</label>
+    <race>JRWProtovermes</race>
+    <combatPower>55</combatPower>
+    <ecoSystemWeight>0.25</ecoSystemWeight>
+    <lifeStages>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Pawn/Animal/Protovermes</texPath>
+          <drawSize>1</drawSize>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Boomrat/Dessicated_Boomrat</texPath>
+          <drawSize>1</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Pawn/Animal/Protovermes</texPath>
+          <drawSize>1.5</drawSize>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Boomrat/Dessicated_Boomrat</texPath>
+          <drawSize>1.2</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Pawn/Animal/Protovermes</texPath>
+          <drawSize>1.75</drawSize>
+          <shadowData>
+            <volume>(0.25, 0.3, 0.25)</volume>
+            <offset>(0,0,0)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Boomrat/Dessicated_Boomrat</texPath>
+          <drawSize>1.5</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+    </lifeStages>
+  </PawnKindDef>
+</Defs>

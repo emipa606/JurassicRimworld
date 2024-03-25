@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="BuildingBase">
+    <defName>PiscivoreFeeder</defName>
+    <label>piscivore feeder</label>
+    <description>An automated feeding system designed to dispense sustenance for piscivores.</description>
+    <category>Building</category>
+    <graphicData>
+      <texPath>Things/Building/PiscivoreFeeder</texPath>
+      <graphicClass>Graphic_Multi</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <drawRotated>false</drawRotated>
+      <drawSize>(4,4)</drawSize>
+      <damageData>
+        <rect>(0.35,0.35,0.3,0.3)</rect>
+      </damageData>
+    </graphicData>
+    <rotatable>false</rotatable>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <pathCost>8</pathCost>
+    <tickerType>Normal</tickerType>
+    <size>(3,3)</size>
+    <drawerType>RealtimeOnly</drawerType>
+    <fillPercent>0.15</fillPercent>
+    <statBases>
+      <MaxHitPoints>500</MaxHitPoints>
+      <WorkToBuild>2000</WorkToBuild>
+      <Mass>5</Mass>
+      <Flammability>0</Flammability>
+      <Beauty>2</Beauty>
+    </statBases>
+    <selectable>true</selectable>
+    <stuffCategories>
+      <li>Metallic</li>
+    </stuffCategories>
+    <costStuffCount>200</costStuffCount>
+    <costList>
+      <ComponentIndustrial>15</ComponentIndustrial>
+    </costList>
+    <soundImpactDefault>BulletImpact_Metal</soundImpactDefault>
+    <leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
+    <resourcesFractionWhenDeconstructed>0.2</resourcesFractionWhenDeconstructed>
+    <placeWorkers>
+      <li>PlaceWorker_Heater</li>
+    </placeWorkers>
+    <drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
+    <comps>
+      <li Class="CompProperties_Spawner">
+        <thingToSpawn>ButcheredFish</thingToSpawn>
+        <spawnCount>25</spawnCount>
+        <spawnIntervalRange>
+          <min>10000</min>
+          <max>20000</max>
+        </spawnIntervalRange>
+        <spawnMaxAdjacent>50</spawnMaxAdjacent>
+      </li>
+    </comps>
+    <designationCategory>JurassicRimworld</designationCategory>
+    <researchPrerequisites>
+      <li>AutomatedFeeders</li>
+    </researchPrerequisites>
+  </ThingDef>
+  <ThingDef ParentName="BuildingBase">
+    <defName>PiscivoreFeederSmall</defName>
+    <label>small piscivore feeder</label>
+    <description>A small automated feeding system designed to dispense sustenance for piscivores. Cost less than a normal feeder, but dispenses smaller amounts of food.</description>
+    <category>Building</category>
+    <graphicData>
+      <texPath>Things/Building/PiscivoreFeederSmall</texPath>
+      <graphicClass>Graphic_Multi</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <drawRotated>false</drawRotated>
+      <drawSize>(2,2)</drawSize>
+      <damageData>
+        <rect>(0.35,0.35,0.3,0.3)</rect>
+      </damageData>
+    </graphicData>
+    <rotatable>false</rotatable>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <pathCost>8</pathCost>
+    <tickerType>Normal</tickerType>
+    <size>(1,1)</size>
+    <drawerType>RealtimeOnly</drawerType>
+    <fillPercent>0.15</fillPercent>
+    <statBases>
+      <MaxHitPoints>500</MaxHitPoints>
+      <WorkToBuild>2000</WorkToBuild>
+      <Mass>5</Mass>
+      <Flammability>0</Flammability>
+      <Beauty>2</Beauty>
+    </statBases>
+    <selectable>true</selectable>
+    <stuffCategories>
+      <li>Metallic</li>
+    </stuffCategories>
+    <costStuffCount>100</costStuffCount>
+    <costList>
+      <ComponentIndustrial>7</ComponentIndustrial>
+    </costList>
+    <soundImpactDefault>BulletImpact_Metal</soundImpactDefault>
+    <leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
+    <resourcesFractionWhenDeconstructed>0.2</resourcesFractionWhenDeconstructed>
+    <placeWorkers>
+      <li>PlaceWorker_Heater</li>
+    </placeWorkers>
+    <drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
+    <comps>
+      <li Class="CompProperties_Spawner">
+        <thingToSpawn>ButcheredFish</thingToSpawn>
+        <spawnCount>10</spawnCount>
+        <spawnIntervalRange>
+          <min>10000</min>
+          <max>20000</max>
+        </spawnIntervalRange>
+        <spawnMaxAdjacent>20</spawnMaxAdjacent>
+      </li>
+    </comps>
+    <designationCategory>JurassicRimworld</designationCategory>
+    <researchPrerequisites>
+      <li>AutomatedFeeders</li>
+    </researchPrerequisites>
+    <uiIconScale>0.50</uiIconScale>
+  </ThingDef>
+</Defs>

@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <TraderKindDef>
+    <defName>Caravan_Outlander_Herbivore</defName>
+    <label>herbivore trader</label>
+    <commonality>2</commonality>
+    <modExtensions>
+      <li Class="JurassicRimworld.TraderKindDefExtension">
+        <AddToAllFactions>true</AddToAllFactions>
+        <CarrierTradeTags>
+          <li>HerbivoreDinosaur</li>
+        </CarrierTradeTags>
+      </li>
+    </modExtensions>
+    <stockGenerators>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>Silver</thingDef>
+        <countRange>
+          <min>5000</min>
+          <max>8000</max>
+        </countRange>
+      </li>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>ComponentIndustrial</thingDef>
+        <countRange>
+          <min>5</min>
+          <max>30</max>
+        </countRange>
+      </li>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>Amber</thingDef>
+        <countRange>
+          <min>80</min>
+          <max>100</max>
+        </countRange>
+      </li>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>DNA</thingDef>
+        <countRange>
+          <min>10</min>
+          <max>25</max>
+        </countRange>
+      </li>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>MedicineUltratech</thingDef>
+        <countRange>
+          <min>5</min>
+          <max>30</max>
+        </countRange>
+      </li>
+      <li Class="StockGenerator_Animals">
+        <checkTemperature>false</checkTemperature>
+        <tradeTagsSell>
+          <li>HerbivoreDinosaur</li>
+        </tradeTagsSell>
+        <tradeTagsBuy>
+          <li>HerbivoreDinosaur</li>
+        </tradeTagsBuy>
+        <kindCountRange>
+          <min>5</min>
+          <max>10</max>
+        </kindCountRange>
+        <countRange>
+          <min>2</min>
+          <max>3</max>
+        </countRange>
+      </li>
+    </stockGenerators>
+  </TraderKindDef>
+
+-------------------------------------
+
+<TraderKindDef><defName>Caravan_Outlander_Carnivore</defName><label>carnivore trader</label><commonality>2</commonality><modExtensions><li Class="JurassicRimworld.TraderKindDefExtension"><AddToAllFactions>true</AddToAllFactions><CarrierTradeTags><li>CarnivoreDinosaur</li></CarrierTradeTags></li></modExtensions><stockGenerators><li Class="StockGenerator_SingleDef"><thingDef>Silver</thingDef><countRange><min>5000</min><max>8000</max></countRange></li><li Class="StockGenerator_SingleDef"><thingDef>ComponentIndustrial</thingDef><countRange><min>5</min><max>30</max></countRange></li><li Class="StockGenerator_SingleDef"><thingDef>Amber</thingDef><countRange><min>80</min><max>100</max></countRange></li><li Class="StockGenerator_SingleDef"><thingDef>DNA</thingDef><countRange><min>10</min><max>25</max></countRange></li><li Class="StockGenerator_SingleDef"><thingDef>MedicineUltratech</thingDef><countRange><min>5</min><max>30</max></countRange></li><li Class="StockGenerator_Animals"><checkTemperature>false</checkTemperature><tradeTagsSell><li>CarnivoreDinosaur</li></tradeTagsSell><tradeTagsBuy><li>CarnivoreDinosaur</li></tradeTagsBuy><kindCountRange><min>5</min><max>10</max></kindCountRange><countRange><min>2</min><max>3</max></countRange></li></stockGenerators></TraderKindDef></Defs>

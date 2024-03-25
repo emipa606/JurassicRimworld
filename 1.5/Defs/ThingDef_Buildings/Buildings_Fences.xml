@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef Name="DinoFencesBuildingBase" Abstract="True">
+    <category>Building</category>
+    <thingClass>Building</thingClass>
+    <soundImpactDefault>BulletImpact_Metal</soundImpactDefault>
+    <selectable>true</selectable>
+    <drawerType>MapMeshAndRealTime</drawerType>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+    <repairEffect>Repair</repairEffect>
+    <leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
+    <filthLeaving>Filth_RubbleBuilding</filthLeaving>
+  </ThingDef>
+  <ThingDef ParentName="DinoFencesBuildingBase" Name="DinoFencesDoorBase" Abstract="True">
+    <thingClass>Building_Door</thingClass>
+    <category>Building</category>
+    <altitudeLayer>DoorMoveable</altitudeLayer>
+    <fillPercent>1</fillPercent>
+    <useHitPoints>true</useHitPoints>
+    <statBases>
+      <Flammability>1.0</Flammability>
+    </statBases>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <selectable>true</selectable>
+    <tickerType>Normal</tickerType>
+    <rotatable>false</rotatable>
+    <soundImpactDefault>BulletImpact_Metal</soundImpactDefault>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+    <designationCategory>Structure</designationCategory>
+    <holdsRoof>false</holdsRoof>
+    <drawerType>RealtimeOnly</drawerType>
+    <building>
+      <soundDoorOpenPowered>Door_OpenPowered</soundDoorOpenPowered>
+      <soundDoorClosePowered>Door_ClosePowered</soundDoorClosePowered>
+      <soundDoorOpenManual>Door_OpenManual</soundDoorOpenManual>
+      <soundDoorCloseManual>Door_CloseManual</soundDoorCloseManual>
+      <blueprintClass>Blueprint_Door</blueprintClass>
+      <blueprintGraphicData>
+        <texPath>Things/Building/Door/Door_Blueprint</texPath>
+      </blueprintGraphicData>
+    </building>
+    <comps>
+      <li Class="CompProperties_Forbiddable" />
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="DinoFencesBuildingBase">
+    <defName>ConcreteFence</defName>
+    <label>concrete dinosaur fence</label>
+    <thingClass>Building</thingClass>
+    <category>Building</category>
+    <graphicData>
+      <linkType>Basic</linkType>
+      <texPath>Things/Building/Fences/ConcreteFence</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <linkFlags>
+        <li>Custom2</li>
+      </linkFlags>
+    </graphicData>
+    <description>A reinforced concrete fence designed to keep dinosaurs contained within, or to act as a rather strong border fence. Whilst not as discouraging as an electric fence, they are rather effective.</description>
+    <uiIconPath>Things/Building/Fences/DinoFenceIco</uiIconPath>
+    <statBases>
+      <MaxHitPoints>350</MaxHitPoints>
+      <WorkToBuild>300</WorkToBuild>
+      <Flammability>0.0</Flammability>
+    </statBases>
+    <stuffCategories>
+      <li>Stony</li>
+      <li>Metallic</li>
+    </stuffCategories>
+    <costStuffCount>10</costStuffCount>
+    <leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Impassable</passability>
+    <fillPercent>0.15</fillPercent>
+    <disableImpassableShotOverConfigError>true</disableImpassableShotOverConfigError>
+    <coversFloor>true</coversFloor>
+    <placingDraggableDimensions>1</placingDraggableDimensions>
+    <tickerType>Never</tickerType>
+    <rotatable>false</rotatable>
+    <selectable>true</selectable>
+    <neverMultiSelect>true</neverMultiSelect>
+    <terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
+    <blockLight>true</blockLight>
+    <holdsRoof>false</holdsRoof>
+    <designationCategory>JurassicRimworld</designationCategory>
+    <building>
+      <isInert>true</isInert>
+    </building>
+    <damageMultipliers>
+      <li>
+        <damageDef>Bomb</damageDef>
+        <multiplier>3</multiplier>
+      </li>
+    </damageMultipliers>
+    <researchPrerequisites>
+      <li>JurassicFurniture</li>
+    </researchPrerequisites>
+  </ThingDef>
+  <ThingDef ParentName="DinoFencesDoorBase">
+    <defName>DinoFenceGate</defName>
+    <label>dinosaur security fence gate</label>
+    <description>A gate designed to fit along with dinosaur security fences.</description>
+    <fillPercent>0.15</fillPercent>
+    <statBases>
+      <MaxHitPoints>250</MaxHitPoints>
+      <WorkToBuild>500</WorkToBuild>
+      <Flammability>0</Flammability>
+    </statBases>
+    <stuffCategories>
+      <li>Stony</li>
+      <li>Metallic</li>
+    </stuffCategories>
+    <costStuffCount>10</costStuffCount>
+    <holdsRoof>false</holdsRoof>
+    <graphicData>
+      <texPath>Things/Building/Fences/DinoFenceGate_Mover</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <linkFlags>
+        <li>Custom2</li>
+      </linkFlags>
+      <damageData>
+        <enabled>false</enabled>
+      </damageData>
+    </graphicData>
+    <designationCategory>JurassicRimworld</designationCategory>
+    <uiIconPath>Things/Building/Fences/DinoFenceGateIco</uiIconPath>
+    <damageMultipliers>
+      <li>
+        <damageDef>Bomb</damageDef>
+        <multiplier>3</multiplier>
+      </li>
+    </damageMultipliers>
+    <researchPrerequisites>
+      <li>JurassicFurniture</li>
+    </researchPrerequisites>
+  </ThingDef>
+</Defs>

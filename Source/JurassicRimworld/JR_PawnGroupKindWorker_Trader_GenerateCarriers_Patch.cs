@@ -27,7 +27,7 @@ public static class JR_PawnGroupKindWorker_Trader_GenerateCarriers_Patch
         }
 
         var list = (from x in wares
-            where !(x is Pawn)
+            where x is not Pawn
             select x).ToList();
         var i = 0;
         var num = Mathf.CeilToInt(list.Count / 8f);

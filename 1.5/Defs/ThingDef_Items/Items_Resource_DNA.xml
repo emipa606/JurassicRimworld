@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="ResourceBase">
+    <defName>DNA</defName>
+    <label>DNA</label>
+    <description>Deoxyribonucleic acid. Contains all the genetic information and instructions that govern the functioning of every living thing on earth, past, present and future.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DNA</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Metal_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <stackLimit>75</stackLimit>
+    <statBases>
+      <MaxHitPoints>80</MaxHitPoints>
+      <MarketValue>30</MarketValue>
+      <Mass>0.6</Mass>
+      <Flammability>0.5</Flammability>
+      <DeteriorationRate>2.0</DeteriorationRate>
+    </statBases>
+    <intricate>true</intricate>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+  </ThingDef>
+</Defs>

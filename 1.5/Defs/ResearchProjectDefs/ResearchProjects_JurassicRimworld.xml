@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ResearchProjectDef>
+    <defName>PrerequisiteMesozoicKnowledge</defName>
+    <tab>JurassicRimworldResearch</tab>
+    <label>pre-requisite mesozoic knowledge</label>
+    <description>Do your colonists know the difference between an ichnofossil and a true form fossil? Do they scratch their head at the sight of coprolite? This handy dandy research tool 65 million years in the making crunches all the knowledge and know-how your colonists could ever need to start a park of their own!
+
+Caution: may be slightly outdated.
+Feathers sold seperately.</description>
+    <baseCost>800</baseCost>
+    <techLevel>Industrial</techLevel>
+    <requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+    <researchViewX>0</researchViewX>
+    <researchViewY>2</researchViewY>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>AmberExtraction</defName>
+    <tab>JurassicRimworldResearch</tab>
+    <label>amber extraction</label>
+    <description>With new revolutionary technology the amber extraction bench allows your colonists to extract millenia old dinosaur blood and tissue samples from insects and various other parasitic entities. These samples can then be used to extract different strands of unique DNA.</description>
+    <baseCost>1500</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>PrerequisiteMesozoicKnowledge</li>
+    </prerequisites>
+    <requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+    <researchViewX>1</researchViewX>
+    <researchViewY>1</researchViewY>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>DNAReconstruction</defName>
+    <tab>JurassicRimworldResearch</tab>
+    <label>DNA reconstruction</label>
+    <description>After many years of research, the past is now the present. Using the incredibly complex and powerful algorithms present within the DNA reconstruction bench, a colonist can now produce fertilized dinosaurs eggs from strands of varying amounts of DNA.</description>
+    <baseCost>1500</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>PrerequisiteMesozoicKnowledge</li>
+    </prerequisites>
+    <requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+    <researchViewX>1</researchViewX>
+    <researchViewY>3</researchViewY>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>AutomatedFeeders</defName>
+    <tab>JurassicRimworldResearch</tab>
+    <label>automated feeders</label>
+    <description>Turn that hunting hassle into a breeze with these exclusive blueprints hot off the presses. Four different automated feeders will turn any dinosaur pen into a well-oiled machine, eliminating the need to produce food yourself!
+
+Warning: not for human consumption.
+Side effects may include food poisoning, mood debuffs and mental breaks.</description>
+    <baseCost>1250</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>PrerequisiteMesozoicKnowledge</li>
+    </prerequisites>
+    <requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+    <researchViewX>1</researchViewX>
+    <researchViewY>2</researchViewY>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>JurassicFurniture</defName>
+    <tab>JurassicRimworldResearch</tab>
+    <label>jurassic-style structures</label>
+    <description>Decorate your colony in jurassic style with all of these mesozoic goodies!
+
+Includes light sources, structures, decorative objects and even enrichment for the budding colonist.</description>
+    <baseCost>200</baseCost>
+    <techLevel>Industrial</techLevel>
+    <requiredResearchBuilding>SimpleResearchBench</requiredResearchBuilding>
+    <prerequisites>
+      <li>Electricity</li>
+    </prerequisites>
+    <researchViewX>0</researchViewX>
+    <researchViewY>0</researchViewY>
+  </ResearchProjectDef>
+</Defs>

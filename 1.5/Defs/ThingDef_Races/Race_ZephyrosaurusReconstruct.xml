@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="AnimalDinoThingBase">
+    <defName>JRWZephyrosaurusReconstruct</defName>
+    <label>Zephyrosaurus</label>
+    <description>-- &gt; INGEN INTERNAL CASE FILE #04828-1980 [ZEPHYROSAURUS SCHAFFI] CODENAME: WESTWARD-WIND &gt;472
+
+A small orodromin ornithopod with a silky blue hide. They sport a flurry of grey feathers along their back, and are quite graceful to observe.</description>
+    <statBases>
+      <MoveSpeed>4.5</MoveSpeed>
+      <ComfyTemperatureMin>-10</ComfyTemperatureMin>
+      <MarketValue>500</MarketValue>
+    </statBases>
+    <tools>
+      <li>
+        <label>left claw</label>
+        <capacities>
+          <li>Scratch</li>
+        </capacities>
+        <power>3.6</power>
+        <cooldownTime>2</cooldownTime>
+        <linkedBodyPartsGroup>FrontLeftPaw</linkedBodyPartsGroup>
+      </li>
+      <li>
+        <label>right claw</label>
+        <capacities>
+          <li>Scratch</li>
+        </capacities>
+        <power>3.6</power>
+        <cooldownTime>2</cooldownTime>
+        <linkedBodyPartsGroup>FrontRightPaw</linkedBodyPartsGroup>
+      </li>
+      <li>
+        <label>teeth</label>
+        <capacities>
+          <li>Bite</li>
+        </capacities>
+        <power>4.8</power>
+        <cooldownTime>2</cooldownTime>
+        <linkedBodyPartsGroup>Teeth</linkedBodyPartsGroup>
+        <chanceFactor>0.7</chanceFactor>
+      </li>
+      <li>
+        <label>head</label>
+        <capacities>
+          <li>Blunt</li>
+        </capacities>
+        <power>2</power>
+        <cooldownTime>2</cooldownTime>
+        <linkedBodyPartsGroup>HeadAttackTool</linkedBodyPartsGroup>
+        <ensureLinkedBodyPartsGroupAlwaysUsable>true</ensureLinkedBodyPartsGroupAlwaysUsable>
+        <chanceFactor>0.2</chanceFactor>
+      </li>
+    </tools>
+    <comps>
+      <li Class="CompProperties_EggLayer">
+        <eggFertilizedDef>ZephyrosaurusEggReconstructed</eggFertilizedDef>
+        <eggFertilizationCountMax>1</eggFertilizationCountMax>
+        <eggLayIntervalDays>5.0</eggLayIntervalDays>
+        <eggProgressUnfertilizedMax>0.5</eggProgressUnfertilizedMax>
+        <eggCountRange>
+          <min>1</min>
+          <max>3</max>
+        </eggCountRange>
+      </li>
+    </comps>
+    <race>
+      <body>QuadrupedAnimalWithPawsAndTail</body>
+      <baseHungerRate>0.5</baseHungerRate>
+      <baseBodySize>1.5</baseBodySize>
+      <baseHealthScale>2.0</baseHealthScale>
+      <packAnimal>false</packAnimal>
+      <predator>false</predator>
+      <foodType>VegetarianRoughAnimal</foodType>
+      <leatherDef>Leather_SmallDino</leatherDef>
+      <useMeatFrom>JRWAcrocanthosaurus</useMeatFrom>
+      <gestationPeriodDays>10</gestationPeriodDays>
+      <trainability>Advanced</trainability>
+      <wildness>0</wildness>
+      <manhunterOnTameFailChance>0</manhunterOnTameFailChance>
+      <manhunterOnDamageChance>0.05</manhunterOnDamageChance>
+      <nuzzleMtbHours>120</nuzzleMtbHours>
+      <lifeExpectancy>40</lifeExpectancy>
+      <lifeStageAges>
+        <li>
+          <def>AnimalBaby</def>
+          <minAge>0</minAge>
+        </li>
+        <li>
+          <def>AnimalJuvenile</def>
+          <minAge>0.01</minAge>
+        </li>
+        <li>
+          <def>AnimalAdult</def>
+          <minAge>0.02</minAge>
+          <soundWounded>Pawn_Dryosaurus_Wounded</soundWounded>
+          <soundDeath>Pawn_Dryosaurus_Death</soundDeath>
+          <soundCall>Pawn_Dryosaurus_Call</soundCall>
+          <soundAngry>Pawn_Dryosaurus_Angry</soundAngry>
+        </li>
+      </lifeStageAges>
+      <soundMeleeHitPawn>Pawn_Melee_BigBash_HitPawn</soundMeleeHitPawn>
+      <soundMeleeHitBuilding>Pawn_Melee_BigBash_HitBuilding</soundMeleeHitBuilding>
+      <soundMeleeMiss>Pawn_Melee_BigBash_Miss</soundMeleeMiss>
+      <wildBiomes>
+        <TropicalRainforest>0</TropicalRainforest>
+        <TemperateForest>0</TemperateForest>
+      </wildBiomes>
+    </race>
+    <tradeTags>
+      <li>HerbivoreDinosaur</li>
+    </tradeTags>
+  </ThingDef>
+  <PawnKindDef ParentName="AnimalKindBase">
+    <defName>JRWZephyrosaurusReconstruct</defName>
+    <label>Zephyrosaurus</label>
+    <race>JRWZephyrosaurusReconstruct</race>
+    <combatPower>25</combatPower>
+    <ecoSystemWeight>0</ecoSystemWeight>
+    <lifeStages>
+      <li>
+        <label>Zephyrosaurus hatchling</label>
+        <bodyGraphicData>
+          <texPath>Things/Pawn/Animal/Zephyrosaurus</texPath>
+          <drawSize>2</drawSize>
+          <shadowData>
+            <volume>(0.3, 0.3, 0.3)</volume>
+            <offset>(0,0,0)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Spooky/OrnithoDessicated</texPath>
+          <drawSize>1.0</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Pawn/Animal/Zephyrosaurus</texPath>
+          <drawSize>2</drawSize>
+          <shadowData>
+            <volume>(0.3, 0.3, 0.3)</volume>
+            <offset>(0,0,-0.2)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Spooky/OrnithoDessicated</texPath>
+          <drawSize>2.0</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Pawn/Animal/Zephyrosaurus</texPath>
+          <drawSize>2</drawSize>
+          <shadowData>
+            <volume>(0.3, 0.3, 0.3)</volume>
+            <offset>(0,0,-0.3)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Spooky/OrnithoDessicated</texPath>
+          <drawSize>2.0</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+    </lifeStages>
+  </PawnKindDef>
+</Defs>

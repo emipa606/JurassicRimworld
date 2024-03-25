@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="LeatherBase">
+    <defName>Leather_SmallDino</defName>
+    <label>dinosaur scalefell</label>
+    <description>Dried skin of a dinosaur, taken from a smaller specimen. A well rounded, all-purpose leather to use.</description>
+    <graphicData>
+      <color>(107,99,61)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>1.9</MarketValue>
+      <StuffPower_Armor_Sharp>0.64</StuffPower_Armor_Sharp>
+      <StuffPower_Insulation_Cold>12</StuffPower_Insulation_Cold>
+      <StuffPower_Insulation_Heat>12</StuffPower_Insulation_Heat>
+    </statBases>
+    <stuffProps>
+      <color>(107,99,61)</color>
+      <commonality>0.05</commonality>
+    </stuffProps>
+  </ThingDef>
+  <ThingDef ParentName="LeatherBase">
+    <defName>Leather_MediumDino</defName>
+    <label>dinosaur hardskin</label>
+    <description>Knobbly, smooth dinosaur hide that offers good durability but suffers from environmental effects.</description>
+    <graphicData>
+      <color>(58,54,33)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>4.2</MarketValue>
+      <StuffPower_Armor_Sharp>1.29</StuffPower_Armor_Sharp>
+      <StuffPower_Insulation_Cold>14</StuffPower_Insulation_Cold>
+      <StuffPower_Insulation_Heat>14</StuffPower_Insulation_Heat>
+    </statBases>
+    <stuffProps>
+      <color>(58,54,33)</color>
+      <commonality>0.025</commonality>
+      <statFactors>
+        <MaxHitPoints>1.5</MaxHitPoints>
+      </statFactors>
+    </stuffProps>
+  </ThingDef>
+  <ThingDef ParentName="LeatherBase">
+    <defName>Leather_LargeDino</defName>
+    <label>dinosaur ironhide</label>
+    <description>Unbelievably durable dinosaur skin that many people swear by. Offers protection from both incoming attacks and the elements.</description>
+    <graphicData>
+      <color>(81,78,61)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>14.0</MarketValue>
+      <StuffPower_Armor_Sharp>2.08</StuffPower_Armor_Sharp>
+      <StuffPower_Armor_Blunt>0.36</StuffPower_Armor_Blunt>
+      <StuffPower_Insulation_Cold>34</StuffPower_Insulation_Cold>
+      <StuffPower_Insulation_Heat>22</StuffPower_Insulation_Heat>
+    </statBases>
+    <stuffProps>
+      <color>(81,78,61)</color>
+      <commonality>0.0025</commonality>
+      <statFactors>
+        <MaxHitPoints>2.0</MaxHitPoints>
+      </statFactors>
+    </stuffProps>
+  </ThingDef>
+  <ThingDef ParentName="LeatherBase">
+    <defName>Leather_Indominus</defName>
+    <label>Ivory ironhide</label>
+    <description>An ivory hide that sends chills down the spine of anyone who sees it. Scarred and gouged from many countless battles.</description>
+    <graphicData>
+      <color>(230,229,229)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>14.0</MarketValue>
+      <StuffPower_Armor_Sharp>3</StuffPower_Armor_Sharp>
+      <StuffPower_Armor_Blunt>2</StuffPower_Armor_Blunt>
+      <StuffPower_Insulation_Cold>30</StuffPower_Insulation_Cold>
+      <StuffPower_Insulation_Heat>30</StuffPower_Insulation_Heat>
+    </statBases>
+    <stuffProps>
+      <color>(230,229,229)</color>
+      <commonality>0.0025</commonality>
+      <statFactors>
+        <MaxHitPoints>2.5</MaxHitPoints>
+      </statFactors>
+    </stuffProps>
+  </ThingDef>
+  <ThingDef ParentName="LeatherBase">
+    <defName>Leather_Indoraptor</defName>
+    <label>Ebony ironhide</label>
+    <description>An ebony hide that causes fear and disgust in all who hold it. Scarred and gouged from many countless battles.</description>
+    <graphicData>
+      <color>(52,52,52)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>14.0</MarketValue>
+      <StuffPower_Armor_Sharp>3</StuffPower_Armor_Sharp>
+      <StuffPower_Armor_Blunt>2</StuffPower_Armor_Blunt>
+      <StuffPower_Insulation_Cold>30</StuffPower_Insulation_Cold>
+      <StuffPower_Insulation_Heat>30</StuffPower_Insulation_Heat>
+    </statBases>
+    <stuffProps>
+      <color>(52,52,52)</color>
+      <commonality>0.0025</commonality>
+      <statFactors>
+        <MaxHitPoints>2.5</MaxHitPoints>
+      </statFactors>
+    </stuffProps>
+  </ThingDef>
+</Defs>

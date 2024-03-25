@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="OrganicProductBase">
+    <defName>PolymerSnail</defName>
+    <label>polymer</label>
+    <description>A paste excreted from a Bernicia specimen, bright orange as if decorated with embers. This polymer can be reinforced to make a strong, but flammable, building material.
+
+It can be processed at a biofuel refining station.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/Polymer</texPath>
+    </graphicData>
+    <statBases>
+      <MarketValue>5.0</MarketValue>
+      <Mass>0.045</Mass>
+      <MaxHitPoints>60</MaxHitPoints>
+      <Flammability>0.2</Flammability>
+    </statBases>
+    <thingCategories>
+      <li>AnimalProductRaw</li>
+    </thingCategories>
+  </ThingDef>
+  <ThingDef ParentName="ResourceBase">
+    <defName>Snailglass</defName>
+    <label>snailglass</label>
+    <description>Reinforced polymer paste from a Bernicia, compressed to make colourful fibreglass. While strong, this plastic is very flammable.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/Snailglass</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+    </graphicData>
+    <soundInteract>Metal_Drop</soundInteract>
+    <soundDrop>Metal_Drop</soundDrop>
+    <useHitPoints>true</useHitPoints>
+    <statBases>
+      <Flammability>1.0</Flammability>
+      <MaxHitPoints>60</MaxHitPoints>
+      <MarketValue>9</MarketValue>
+      <Mass>0.25</Mass>
+      <StuffPower_Armor_Sharp>1.26</StuffPower_Armor_Sharp>
+      <StuffPower_Armor_Blunt>0.63</StuffPower_Armor_Blunt>
+      <StuffPower_Armor_Heat>1.08</StuffPower_Armor_Heat>
+      <StuffPower_Insulation_Cold>3</StuffPower_Insulation_Cold>
+      <StuffPower_Insulation_Heat>0</StuffPower_Insulation_Heat>
+      <SharpDamageMultiplier>1.1</SharpDamageMultiplier>
+      <BluntDamageMultiplier>0.9</BluntDamageMultiplier>
+    </statBases>
+    <thingCategories>
+      <li>ResourcesRaw</li>
+    </thingCategories>
+    <stuffProps>
+      <stuffAdjective>polymer</stuffAdjective>
+      <categories>
+        <li>Metallic</li>
+      </categories>
+      <constructEffect>ConstructMetal</constructEffect>
+      <color>(255,109,0)</color>
+      <soundImpactBullet>BulletImpact_Metal</soundImpactBullet>
+      <soundMeleeHitSharp>MeleeHit_Metal_Sharp</soundMeleeHitSharp>
+      <soundMeleeHitBlunt>MeleeHit_Metal_Blunt</soundMeleeHitBlunt>
+      <statFactors>
+        <MaxHitPoints>1.0</MaxHitPoints>
+        <Beauty>1</Beauty>
+        <Flammability>1</Flammability>
+        <WorkToMake>1.5</WorkToMake>
+        <WorkToBuild>2.2</WorkToBuild>
+        <MeleeWeapon_CooldownMultiplier>0.8</MeleeWeapon_CooldownMultiplier>
+        <DoorOpenSpeed>1.2</DoorOpenSpeed>
+      </statFactors>
+    </stuffProps>
+  </ThingDef>
+</Defs>

@@ -5,9 +5,9 @@ namespace JurassicRimworld;
 
 public class TraderKindDefExtension : DefModExtension
 {
-    public bool AddToAllFactions = false;
+    public readonly bool AddToAllFactions = false;
 
-    public List<string> CarrierTradeTags = new List<string>();
+    public readonly List<string> CarrierTradeTags = [];
 
     public bool logging = false;
 }
