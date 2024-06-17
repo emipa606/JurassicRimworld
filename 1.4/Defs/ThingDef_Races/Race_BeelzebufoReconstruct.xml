@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>JRWBeelzebufoReconstruct</defName>
     <label>Beelzebufo</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #030292-2008 [BEELZEBUFO AMPINGA] CODENAME: LORD-OF-THE-FLIES &gt;492
+    <description>-- > INGEN INTERNAL CASE FILE #030292-2008 [BEELZEBUFO AMPINGA] CODENAME: LORD-OF-THE-FLIES >492
 
 A large species of extinct frog that often preyed upon small creatures and juvenile dinosaurs due to their large mouth and strong bite force. The horns over their eyes and their large size inspired their rather demonic name. While attacks on humans are more of a terriying nuisance than any real danger, the sheer weight behind their jaws is enough to seriously bruise skin and, in rare cases, even fracture bones.</description>
     <statBases>

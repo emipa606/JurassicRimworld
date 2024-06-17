@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>Dimetrodon</defName>
     <label>Dimetrodon</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #07281-1914 [DIMETRODON GRANDIS] CODENAME: CLAMP-JAW &gt;212
+    <description>-- > INGEN INTERNAL CASE FILE #07281-1914 [DIMETRODON GRANDIS] CODENAME: CLAMP-JAW >212
 
 A carnivorous synapsid with a prominent sail along its back. Their jaws are incredibly powerful. Once they latch on, they ain't letting go.</description>
     <statBases>

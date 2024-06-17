@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>Geosternbergia</defName>
     <label>Geosternbergia</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #03878-1985 [GEOSTERNBERGIA STERNBERGI] CODENAME: VENT &gt;3728
+    <description>-- > INGEN INTERNAL CASE FILE #03878-1985 [GEOSTERNBERGIA STERNBERGI] CODENAME: VENT >3728
 
 A pteranodontid reptile with a distinct blue hide and a lovely tan crest. Their beauty is often short lived, as most encounters end in mindless screeching and multiple flesh wounds.</description>
     <statBases>

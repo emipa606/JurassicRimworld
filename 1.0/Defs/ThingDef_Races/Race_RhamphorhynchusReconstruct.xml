@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>RhamphorhynchusReconstruct</defName>
     <label>Rhamphorhynchus</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #08721-1839 [RHAMPHORHYNCHUS MUENSTERI] CODENAME: BEAK-SNOUT &gt;382
+    <description>-- > INGEN INTERNAL CASE FILE #08721-1839 [RHAMPHORHYNCHUS MUENSTERI] CODENAME: BEAK-SNOUT >382
 
 A small pterosaur with a long tail. Their beak, bright red in colour, is lined with needle like teeth. They use these to eat small lizards, insects, fish, and the occasional finger.</description>
     <statBases>

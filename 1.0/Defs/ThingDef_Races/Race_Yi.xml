@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>Yi</defName>
     <label>Yi</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #09820-2015 [YI QI] CODENAME: WYVERN &gt;332
+    <description>-- > INGEN INTERNAL CASE FILE #09820-2015 [YI QI] CODENAME: WYVERN >332
 
 A scansoriopterygid with membrane between their wings, resembling that of a bat or a dragon. They primarily eat insects and fish, but prey on smaller dinosaurs as well.</description>
     <statBases>

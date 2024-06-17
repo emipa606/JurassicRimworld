@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>JRWProtosolpugaReconstruct</defName>
     <label>Protosolpuga</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #03459-1913[PROTOSOLPUGA CARBONARIA] CODENAME: SUN-SPIDER &gt;3246
+    <description>-- > INGEN INTERNAL CASE FILE #03459-1913[PROTOSOLPUGA CARBONARIA] CODENAME: SUN-SPIDER >3246
 
 An extinct genus of solifugae. They do not possess any venom or stinger, but utilise a powerful, pure-strength bite instead.</description>
     <statBases>

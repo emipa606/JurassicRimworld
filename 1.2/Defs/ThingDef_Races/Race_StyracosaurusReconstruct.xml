@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>JRWStyracosaurusReconstruct</defName>
     <label>Styracosaurus</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #039902-1913 [STYRACOSAURUS ALBERTENSIS] CODENAME: STYRAX &gt;230
+    <description>-- > INGEN INTERNAL CASE FILE #039902-1913 [STYRACOSAURUS ALBERTENSIS] CODENAME: STYRAX >230
 
 A ceratopsian well known for the multitude of spikes decorating its head. Smaller than most ceratopsians, they often use their lesser stature for speed rather than strength.</description>
     <statBases>

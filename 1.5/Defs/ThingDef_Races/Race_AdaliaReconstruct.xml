@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>JRWAdaliaReconstruct</defName>
     <label>Adalia</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #03918-1900 [ADALIA SUBVERSA] CODENAME: LADYBIRD &gt;39822
+    <description>-- > INGEN INTERNAL CASE FILE #03918-1900 [ADALIA SUBVERSA] CODENAME: LADYBIRD >39822
 
 A large extinct ladybird - or ladybug - with a shiny black carapace and red spots decorating its shell. While not the strongest nor fastest creature on the Rim, their ability to haul items has lead them to be quite desirable in the swampy, tropical lands in which they live. Despite being friendly, their mandibles are more than capable of rendering flesh.</description>
     <statBases>

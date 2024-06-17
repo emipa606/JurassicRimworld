@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>Pteranodon</defName>
     <label>Pteranodon</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #0961-1876 [PTERANODON LONGICEPS] CODENAME: TOOTHLESS-WING &gt;482
+    <description>-- > INGEN INTERNAL CASE FILE #0961-1876 [PTERANODON LONGICEPS] CODENAME: TOOTHLESS-WING >482
 
 An extremely famous pterosaur. One of the largest known flying reptiles, this creature boasts an impressive crest and a powerful grip, able to lift a full grown man with ease.</description>
     <statBases>

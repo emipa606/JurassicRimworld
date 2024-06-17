@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>JRWProtoceratops</defName>
     <label>Protoceratops</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #0344532-1923 [PROTOCERATOPS ANDREWSKI] CODENAME: FIRST &gt;5330
+    <description>-- > INGEN INTERNAL CASE FILE #0344532-1923 [PROTOCERATOPS ANDREWSKI] CODENAME: FIRST >5330
 
 A small ceratopsian which is fairly well understood in terms of life stages and behaviour. Most famously known for the fossil that depicts it and Velociraptor in a death duel, this small dinosaur has won the hearts of many with its small stature and fierce tenacity. Unlike other ceratopsian dinosaurs the family in which this dinosaur belongs to was rather primitive, with a less regal frill and lacking horns unlike its descendants.</description>
     <statBases>

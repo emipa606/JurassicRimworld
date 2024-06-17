@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>JRWSegnosaurus</defName>
     <label>Segnosaurus</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #04938-1979 [SEGNOSAURUS GALBINENSIS] CODENAME: VEGAS &gt;932
+    <description>-- > INGEN INTERNAL CASE FILE #04938-1979 [SEGNOSAURUS GALBINENSIS] CODENAME: VEGAS >932
 
 A therizinosauroid theropod covered in multicoloured feathers. Despite their rather flamboyant appearence these dinosaurs are more than capable of fending off predators and attackers alike, their feathery paws hiding ferociously sharp claws that can cut through flesh and scale like scissors glide through paper.</description>
     <statBases>

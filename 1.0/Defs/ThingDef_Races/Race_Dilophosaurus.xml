@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>Dilophosaurus</defName>
     <label>Dilophosaurus</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #084729-1970 [DILOPHOSAURUS WETHERILLI] CODENAME: SPITTER &gt;990
+    <description>-- > INGEN INTERNAL CASE FILE #084729-1970 [DILOPHOSAURUS WETHERILLI] CODENAME: SPITTER >990
 
 A small, crepuscular carnivore that is known for its large frill and the ability to spit toxic mucus.</description>
     <statBases>

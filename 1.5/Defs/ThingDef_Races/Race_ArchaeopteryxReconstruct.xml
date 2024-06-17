@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>JRWArchaeopteryxReconstruct</defName>
     <label>Archaeopteryx</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #023423-1861 [ARCHAEOPTERYX SIEMENSII] CODENAME: URVOGEL &gt;150
+    <description>-- > INGEN INTERNAL CASE FILE #023423-1861 [ARCHAEOPTERYX SIEMENSII] CODENAME: URVOGEL >150
 
 An extremely important dinosaur in the quest to understand their evolution, this avialan critter solidified the link between dinosaurs and modern day birds. Archaeopteryx were thought to be the first dinosaurs capable of powered flight. They are often found wandering forest floors looking for grubs or other insects to nibble, and are generally a quite peaceful animal.</description>
     <statBases>

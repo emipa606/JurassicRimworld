@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>ValdosaurusReconstruct</defName>
     <label>Valdosaurus</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #0498-1975 [VALDOSAURUS CANALICULATUS] CODENAME: WEALD &gt;472
+    <description>-- > INGEN INTERNAL CASE FILE #0498-1975 [VALDOSAURUS CANALICULATUS] CODENAME: WEALD >472
 
 A small iguanodont ornithischian. Small and swift, they are a joy to watch skittering about in the wild. Their purple hide is decorated with small quills and is quite difficult to use in leather working.</description>
     <statBases>

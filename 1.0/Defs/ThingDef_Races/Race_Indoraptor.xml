@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>Indoraptor</defName>
     <label>Indoraptor</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #???-??? [INDORAPTOR]
+    <description>-- > INGEN INTERNAL CASE FILE #???-??? [INDORAPTOR]
 
 THE INDOMITABLE THIEF
 

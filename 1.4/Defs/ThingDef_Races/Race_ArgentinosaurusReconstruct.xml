@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>JRWArgentinosaurusReconstruct</defName>
     <label>Argentinosaurus</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #09382-1993 [ARGENTINOSAURUS HUINCULENSIS] CODENAME: COLOSSUS &gt;65
+    <description>-- > INGEN INTERNAL CASE FILE #09382-1993 [ARGENTINOSAURUS HUINCULENSIS] CODENAME: COLOSSUS >65
 
 A humongous sauropod with emerald skin. It is an incredible force of nature, able to crush predators under their weight with disgusting ease.</description>
     <statBases>

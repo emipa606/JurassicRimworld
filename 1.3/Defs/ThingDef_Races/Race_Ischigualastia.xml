@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>JRWIschigualastia</defName>
     <label>Ischigualastia</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #024662-1962 [ISCHIGUALASTIA JENSENI] CODENAME: LUNA-VALLE &gt;092
+    <description>-- > INGEN INTERNAL CASE FILE #024662-1962 [ISCHIGUALASTIA JENSENI] CODENAME: LUNA-VALLE >092
 
 A chunky species of dicynodont synapsid that has large, beak like teeth and a leathery, chocolate hide. Their teeth are serrated for shredding tough ferns, but when confronted these once gentle giants can turn on a dime and shred flesh like a knife. They make decent pack animals and have been described as having the intelligence of an elephant,, being able to recognise their handlers and form bonds.</description>
     <statBases>

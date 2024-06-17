@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>TupandactylusReconstruct</defName>
     <label>Tupandactylus</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #03321-2007 [TUPANDACTYLUS IMPERATOR] CODENAME: SAIL &gt;3729
+    <description>-- > INGEN INTERNAL CASE FILE #03321-2007 [TUPANDACTYLUS IMPERATOR] CODENAME: SAIL >3729
 
 A pterosaur with a big, rounded crest. These crest are often more colourful and larger in males, possibly to impress mates when the time comes.</description>
     <statBases>

@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>JRWPrestosuchus</defName>
     <label>Prestosuchus</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #04329-1894 [PRESTOSUCHUS CHINIQUENSIS] CODENAME: SPRINTER &gt;222
+    <description>-- > INGEN INTERNAL CASE FILE #04329-1894 [PRESTOSUCHUS CHINIQUENSIS] CODENAME: SPRINTER >222
 
 A massive pseudosuchian with a lovely green hide covered in stripes. Their size keeps other predators away through sheer intimidation alone.</description>
     <statBases>

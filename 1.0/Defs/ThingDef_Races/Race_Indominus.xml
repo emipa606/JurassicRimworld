@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalThingBase">
     <defName>Indominus</defName>
     <label>Indominus rex</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #???-???
+    <description>-- > INGEN INTERNAL CASE FILE #???-???
 [INDOMINUS REX]
 
 THE UNTAMABLE KING

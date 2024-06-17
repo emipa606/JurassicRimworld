@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>EuphoberiaReconstruct</defName>
     <label>Euphoberia</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #02843-1868 [EUPHOBERIA ARMIGERA] CODENAME: TRAIN &gt;844
+    <description>-- > INGEN INTERNAL CASE FILE #02843-1868 [EUPHOBERIA ARMIGERA] CODENAME: TRAIN >844
 
 A small and narrow myriapod that scoots in the underbrush, eating dead leaves and decaying corpses. A prehistoric cleanup crew, if you will.</description>
     <statBases>

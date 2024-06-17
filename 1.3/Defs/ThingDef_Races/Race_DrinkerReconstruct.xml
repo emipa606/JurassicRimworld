@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>JRWDrinkerReconstruct</defName>
     <label>Drinker</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #039274-1990 [DRINKER NISTI] CODENAME: IMBIBE &gt;462
+    <description>-- > INGEN INTERNAL CASE FILE #039274-1990 [DRINKER NISTI] CODENAME: IMBIBE >462
 
 A dinosaur with quite an unusual name... until it was reclassified as Nanosaurus in 2018, alongside Othnielosaurus. The history of Nanosaurus - and the many taxonomic revisions of heterodontosaurids - is long and complicated, spanning from the 70's all the way up until today!</description>
     <statBases>

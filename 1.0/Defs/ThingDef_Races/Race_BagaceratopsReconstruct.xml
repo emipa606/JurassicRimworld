@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>JRWBagaceratopsReconstruct</defName>
     <label>Bagaceratops</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #389432-1975 [BAGACERATOPS ROZHDESTVENSKYI] CODENAME: SMALL-HORN &gt;5222
+    <description>-- > INGEN INTERNAL CASE FILE #389432-1975 [BAGACERATOPS ROZHDESTVENSKYI] CODENAME: SMALL-HORN >5222
 
 A small, primitive ceratopsian that lived in harsh, arid environments. Despite appearing quite late in the mesozoic timeline, this dinosaur was primitive compared to relatives at the time. Its sharp, curved beak allowed it to shred through cyads, confiers and ferns. Bagaceratops would have travelled in large packs, with a eusocial society surrounding the herd.</description>
     <statBases>

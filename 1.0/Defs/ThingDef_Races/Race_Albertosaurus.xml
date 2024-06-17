@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>Albertosaurus</defName>
     <label>Albertosaurus</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #09382-1905 [ALBERTOSAURUS SARCOPHAGUS] CODENAME: SERRATOR &gt;92
+    <description>-- > INGEN INTERNAL CASE FILE #09382-1905 [ALBERTOSAURUS SARCOPHAGUS] CODENAME: SERRATOR >92
 
 A medium sized theropod that often hunt in small packs. They overwhelm prey with a mix of both brawn and numbers.</description>
     <statBases>

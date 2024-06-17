@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>JRWPsittacosaurus</defName>
     <label>Psittacosaurus</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #06456-1923 [PSITTACOSAURUS MONGOLIENSIS] CODENAME: MACAW &gt;449
+    <description>-- > INGEN INTERNAL CASE FILE #06456-1923 [PSITTACOSAURUS MONGOLIENSIS] CODENAME: MACAW >449
 
 A small, early ceratopsian with a robust, strong beak. Obligate bipeds, these unique herbivores can run for long periods at a time to escape their predators. Often gregarious, they move in herds across the land, making their home in dense woodlands.</description>
     <statBases>

@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>MacrelcanaReconstruct</defName>
     <label>Macrelcana</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #037229-8491 [MACRELCANA UNGERI] CODENAME: CRICKET &gt;392
+    <description>-- > INGEN INTERNAL CASE FILE #037229-8491 [MACRELCANA UNGERI] CODENAME: CRICKET >392
 
 An extinct species of wetapunga. Though they are generally non hostile, the wont hesitate to fight back if threatened or encroached. Their voracious appetite for detritus and wood bark often leaves large portions of the forests and swamps they inhabit desolate.</description>
     <statBases>

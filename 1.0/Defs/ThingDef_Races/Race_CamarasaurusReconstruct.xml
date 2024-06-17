@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>CamarasaurusReconstruct</defName>
     <label>Camarasaurus</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #0928-1877 [CAMARASAURUS SUPREMUS] CODENAME: CHAMBER &gt;20
+    <description>-- > INGEN INTERNAL CASE FILE #0928-1877 [CAMARASAURUS SUPREMUS] CODENAME: CHAMBER >20
 
 A stocky sauropod that has a soothing call. While not massive or all too powerful, they are still capable of fending for themselves if need be. Gentle when unprovoked.</description>
     <statBases>

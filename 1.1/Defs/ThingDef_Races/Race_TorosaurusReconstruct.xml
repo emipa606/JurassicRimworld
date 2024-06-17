@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>JRWTorosaurusReconstruct</defName>
     <label>Torosaurus</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #0481-1891 [TOROSAURUS LATUS] CODENAME: PERFORATE &gt;732
+    <description>-- > INGEN INTERNAL CASE FILE #0481-1891 [TOROSAURUS LATUS] CODENAME: PERFORATE >732
 
 A small ceratopsian with a slender, almost flat frill. Recent studies suggest that it and Triceratops horridus are perhaps the same creature, leaving the genus dubious, but valid, for now.</description>
     <statBases>

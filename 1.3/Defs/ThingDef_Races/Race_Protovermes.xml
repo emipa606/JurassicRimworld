@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>JRWProtovermes</defName>
     <label>Protovermes</label>
-    <description>-- &gt; BIOSYN INTERNAL CASE FILE #028172-5500 [PROTOVERMES RIMIENSIS] CODENAME: NOSTALGIA &gt;109
+    <description>-- > BIOSYN INTERNAL CASE FILE #028172-5500 [PROTOVERMES RIMIENSIS] CODENAME: NOSTALGIA >109
 
 A blood-red cynodont that is peaceful unless disturbed. Its modern decendants are still alive on the rim to this day. Interestingly enough the ability to ignite itself after death remains even through normal genome restoration means, implying that the rim underwent a similar - albeit bizarre - motion of prehistory much like Earth did millions of years ago. This suggests that boomrats were not genetically engineered as was previously thought.</description>
     <statBases>

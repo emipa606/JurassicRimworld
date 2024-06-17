@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>QuetzalcoatlusReconstruct</defName>
     <label>Quetzalcoatlus</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #039920-1975 [QUETZALCOATLUS NORTHROPI] CODENAME: FIRE-BEAK &gt;421
+    <description>-- > INGEN INTERNAL CASE FILE #039920-1975 [QUETZALCOATLUS NORTHROPI] CODENAME: FIRE-BEAK >421
 
 Perhaps the most famous azhdarchid due to its infamy as the largest flying reptile of all time, this magnificent creature lives up to its god-like name with speed, strength and ferocity. When left alone, however, it is truly a sight to behold. Tribals often refer to them as fire beaks, and ward them away with vases full of rainwater.</description>
     <statBases>

@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>CompsognathusReconstruct</defName>
     <label>Compsognathus</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #05618-1875 [COMPSOGNATHUS LONGIPES] CODENAME: ELEGANCE &gt;80
+    <description>-- > INGEN INTERNAL CASE FILE #05618-1875 [COMPSOGNATHUS LONGIPES] CODENAME: ELEGANCE >80
 
 A tiny bipedal carnivore that primarily eats insects and fish, yet has been observed swarming unfortunate victims in mass groups. Do not let their size - or adorableness - fool you.</description>
     <statBases>

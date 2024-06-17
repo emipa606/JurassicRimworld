@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>JRWStegosaurusReconstruct</defName>
     <label>Stegosaurus</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #03729-1887 [STEGOSAURUS STENOPS] CODENAME: THYREOS &gt;230
+    <description>-- > INGEN INTERNAL CASE FILE #03729-1887 [STEGOSAURUS STENOPS] CODENAME: THYREOS >230
 
 A very famous stegosaurid. They are protective over their young, but are often very forgiving of intruders to their stomping grounds, unless they pose a threat. They wield their tail deftly.</description>
     <statBases>

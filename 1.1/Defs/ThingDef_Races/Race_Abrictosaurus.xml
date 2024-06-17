@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>JRWAbrictosaurus</defName>
     <label>Abrictosaurus</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #06234456-1994 [ABRICTOSAURUS CONSORS] CODENAME: WAKEFUL &gt;532
+    <description>-- > INGEN INTERNAL CASE FILE #06234456-1994 [ABRICTOSAURUS CONSORS] CODENAME: WAKEFUL >532
 
 A fast and colourful ornithopod, covered in blue and purple scales. Abrictosaurus is considered one of the few heterodontosaurids to have sexual dimorphism, as males are suggested to have longer, tusk like teeth.</description>
     <statBases>

@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>JRWCyclosphaeromaReconstruct</defName>
     <label>Cyclosphaeroma</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #03829-1890 [CYCLOSPHAEROMA TRILOBATUM] CODENAME: RUBBER-DUCKY &gt;3012
+    <description>-- > INGEN INTERNAL CASE FILE #03829-1890 [CYCLOSPHAEROMA TRILOBATUM] CODENAME: RUBBER-DUCKY >3012
 
 A large species of unique isopod with small, pincer like graspers on the front of their shell, with an ebony colour broken up by golden patches. Scurrying along the forest floor, eating as much leaf litter as they can, these clumsy, silly looking invertebrates have charmed tribes and settlements alike. Despite their graceless behaviour, they are reliable pack animals, being able to carry quite a lot on their steel like exoskeleton.</description>
     <statBases>

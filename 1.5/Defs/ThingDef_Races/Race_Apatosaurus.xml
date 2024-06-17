@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>JRWApatosaurus</defName>
     <label>Apatosaurus</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #01829-1887 [APATOSAURUS AJAX] CODENAME: TITAN &gt;71
+    <description>-- > INGEN INTERNAL CASE FILE #01829-1887 [APATOSAURUS AJAX] CODENAME: TITAN >71
 
 A well-known sauropod with no real distinguishing features. It is large and hardy, even more so when travelling in herds.</description>
     <statBases>

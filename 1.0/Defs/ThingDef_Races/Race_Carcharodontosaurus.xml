@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>Carcharodontosaurus</defName>
     <label>Carcharodontosaurus</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #02983-1925 [CARCHARODONTOSAURUS SAHARICUS] CODENAME: JAGGED &gt;37
+    <description>-- > INGEN INTERNAL CASE FILE #02983-1925 [CARCHARODONTOSAURUS SAHARICUS] CODENAME: JAGGED >37
 
 A large theropod with pitch black skin. They have become infamous with local tribes due to their ferocity, dubbed the 'Black Death', a name whispered in hushed fear between hunters.</description>
     <statBases>

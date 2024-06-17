@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>JRWHypsilophodonReconstruct</defName>
     <label>Hypsilophodon</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #0112-1869 [HYPSILOPHODON FOXII] CODENAME: OAK &gt;369
+    <description>-- > INGEN INTERNAL CASE FILE #0112-1869 [HYPSILOPHODON FOXII] CODENAME: OAK >369
 
 A small verdant green ornithischian. Quite playful, they will often take interest in wandering colonists and trade caravans, tailgating them for some time.</description>
     <statBases>

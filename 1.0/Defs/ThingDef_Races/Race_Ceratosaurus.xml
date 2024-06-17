@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>Ceratosaurus</defName>
     <label>Ceratosaurus</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #02813-1884 [CERATOSAURUS NASICORNIS] CODENAME: CRIMSON &gt;70
+    <description>-- > INGEN INTERNAL CASE FILE #02813-1884 [CERATOSAURUS NASICORNIS] CODENAME: CRIMSON >70
 
 A small theropod boasting cranial horns and a blood red face. They are often found wandering the wilds in family packs.</description>
     <statBases>

@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>JRWZephyrosaurus</defName>
     <label>Zephyrosaurus</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #04828-1980 [ZEPHYROSAURUS SCHAFFI] CODENAME: WESTWARD-WIND &gt;472
+    <description>-- > INGEN INTERNAL CASE FILE #04828-1980 [ZEPHYROSAURUS SCHAFFI] CODENAME: WESTWARD-WIND >472
 
 A small orodromin ornithopod with a silky blue hide. They sport a flurry of grey feathers along their back, and are quite graceful to observe.</description>
     <statBases>

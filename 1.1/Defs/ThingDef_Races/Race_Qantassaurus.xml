@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>JRWQantassaurus</defName>
     <label>Qantassaurus</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #02012-1999 [QANTASSAURUS INTREPIDUS] CODENAME: DAUNTLESS &gt;993
+    <description>-- > INGEN INTERNAL CASE FILE #02012-1999 [QANTASSAURUS INTREPIDUS] CODENAME: DAUNTLESS >993
 
 A small striped ornithischian. Obscure, but perhaps most well known for the mass stampede tracks created by this creature and Timimus hermani in the australian flats.</description>
     <statBases>

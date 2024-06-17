@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>JRWAllosaurus</defName>
     <label>Allosaurus</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #08822-1877 [ALLOSAURUS FRAGILIS] CODENAME: NEMEAN &gt;27
+    <description>-- > INGEN INTERNAL CASE FILE #08822-1877 [ALLOSAURUS FRAGILIS] CODENAME: NEMEAN >27
 
 A large, blood red theropod with a distinctly curved neck. They are known to sport a very foul temper once provoked.</description>
     <statBases>

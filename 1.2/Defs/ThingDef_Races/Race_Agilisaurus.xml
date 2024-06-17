@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>JRWAgilisaurus</defName>
     <label>Agilisaurus</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #06234456-1990 [AGILISAURUS LOUDERBACKI] CODENAME: ALACRITY &gt;391
+    <description>-- > INGEN INTERNAL CASE FILE #06234456-1990 [AGILISAURUS LOUDERBACKI] CODENAME: ALACRITY >391
 
 A common sight on the rim, Agilisaurus are often seen during the evening, travelling in large groups as they speed through the grasses and foliage forging for food. Unfortunately, they often become food themselves.</description>
     <statBases>

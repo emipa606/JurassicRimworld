@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>JRWBerniciaReconstruct</defName>
     <label>Bernicia</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #0244439-1927 [BERNICIA PRAECURSOR] CODENAME: SHELL &gt;355
+    <description>-- > INGEN INTERNAL CASE FILE #0244439-1927 [BERNICIA PRAECURSOR] CODENAME: SHELL >355
 
 Slow and friendly, these big extinct snails are a cute - albeit slimy - addition to any colony. Looking past their incredibly slow speed, these gastropod wonders have insanely strong shells, and can secrete a ruddy copper paste that, when dried, can be used as a hard plastic.</description>
     <statBases>

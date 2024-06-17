@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>JRWHynerpeton</defName>
     <label>Hynerpeton</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #05911-1994 [HYNERPETON BASSETTI] CODENAME: CREEPER &gt;494
+    <description>-- > INGEN INTERNAL CASE FILE #05911-1994 [HYNERPETON BASSETTI] CODENAME: CREEPER >494
 
 A amphibious creature that is well known from the shoulder girdle bone that allowed deeper understanding of how early amphibious vertebrates possibly moved, as well as interal muscular structures. They are small and often make popular pets in swampy regions.</description>
     <statBases>

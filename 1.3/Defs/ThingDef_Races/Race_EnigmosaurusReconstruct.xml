@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>JRWEnigmosaurusReconstruct</defName>
     <label>Enigmosaurus</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #06380-1983 [ENIGMOSAURUS MONGOLIENSIS] CODENAME: RIDDLE &gt;592
+    <description>-- > INGEN INTERNAL CASE FILE #06380-1983 [ENIGMOSAURUS MONGOLIENSIS] CODENAME: RIDDLE >592
 
 A therizinosauroid theropod covered in short, downy fuzz similar to that of an emu. Their name derives from the unusual shape of the hip bone due to the fact that, at the time of discovery, there was little known about therizinosauroids. Their sharp claws are well suited to slicing branches and crushing small trees, as well as defending themselves should they need to.</description>
     <statBases>

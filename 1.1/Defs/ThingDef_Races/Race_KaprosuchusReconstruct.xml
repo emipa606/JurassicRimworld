@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>JRWKaprosuchusReconstruct</defName>
     <label>Kaprosuchus</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #09372-2009 [KAPROSUCHUS SAHARICUS] CODENAME: CALYDONIAN &gt;391
+    <description>-- > INGEN INTERNAL CASE FILE #09372-2009 [KAPROSUCHUS SAHARICUS] CODENAME: CALYDONIAN >391
 
 A mahajangasuchid crocodyliform with a golden, warped hide and a ferocious attitude. Their jaws are built for quickly slamming shut on prey, allowing their unfortunate victims no chance of escape.</description>
     <statBases>

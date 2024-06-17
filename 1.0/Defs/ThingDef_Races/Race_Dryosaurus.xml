@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>Dryosaurus</defName>
     <label>Dryosaurus</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #032119-1878 [DRYOSAURUS ALTUS] CODENAME: OAK &gt;512
+    <description>-- > INGEN INTERNAL CASE FILE #032119-1878 [DRYOSAURUS ALTUS] CODENAME: OAK >512
 
 A small and lively ornithopod with a speckled green hide, perfect for playing hide and seek in tall grasses. They are very weak, but quite speedy.</description>
     <statBases>

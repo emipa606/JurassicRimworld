@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>JRWBaseopsis</defName>
     <label>Baseopsis</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #04831-1889 [BASEOPSIS SIBIRICA] CODENAME: ORIGAMI &gt;4910
+    <description>-- > INGEN INTERNAL CASE FILE #04831-1889 [BASEOPSIS SIBIRICA] CODENAME: ORIGAMI >4910
 
 A humongous species of earwig with a pair of terrifying looking pincers. While generally docile and would prefer to flee at smaller sizes, the enlarge proportions of this invertebrate makes them more hardy and a dangerous foe to deal with. Their wings fold like paper, and shine in the light.</description>
     <statBases>

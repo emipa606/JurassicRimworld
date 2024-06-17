@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>Triceratops</defName>
     <label>Triceratops</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #0481-1889 [TRICERATOPS HORRIDUS] CODENAME: TRINITY &gt;526
+    <description>-- > INGEN INTERNAL CASE FILE #0481-1889 [TRICERATOPS HORRIDUS] CODENAME: TRINITY >526
 
 An extremely famous ceratopsid dinosaur. Noble and proud, these incredible forces of nature have stood the test of time and intregrated well into the rim. They are well known for their bravery, and their supposed rivalry with Tyrannosaurus rex.</description>
     <statBases>

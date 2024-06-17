@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>JRWTroodonReconstruct</defName>
     <label>Troodon</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #IG74726f6f646f6e
+    <description>-- > INGEN INTERNAL CASE FILE #IG74726f6f646f6e
 [TROODON PECTINODON]
 
 WOUNDING TOOTH

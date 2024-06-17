@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>JRWParksosaurus</defName>
     <label>Parksosaurus</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #098765-1926 [PARKSOSAURUS WARRENI] CODENAME: ARTHUR &gt;0953
+    <description>-- > INGEN INTERNAL CASE FILE #098765-1926 [PARKSOSAURUS WARRENI] CODENAME: ARTHUR >0953
 
 A purple-shaded hypsilophodont ornithopod that travels in large herds. Their tiny size and speed are their greatest asset in attempting to survive in a hositle world. Often preyed upon by carnivores larger than themselves, these dinosaurs are often wary of approaching colonists and creatures alike, and will often flee at sudden noises or movements. Sometimes they congregate around larger herbivores for protection.</description>
     <statBases>

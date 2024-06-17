@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>JRWBecklespinax</defName>
     <label>Becklespinax</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #02029-21923 [BECKLESPINAX ALTISPINAX] CODENAME: HIGH-SPINE &gt;432
+    <description>-- > INGEN INTERNAL CASE FILE #02029-21923 [BECKLESPINAX ALTISPINAX] CODENAME: HIGH-SPINE >432
 
 A medium sized theropod a humped sail on their back. More correctly known as Altispinax dunkeri, this dinosaur had gone through significant changes in regards to identification, having once been considered a species of Megalosaurus and Acrocanthosaurus respectively. Having donned the name Becklespinax for several years, it was then renamed Altispinax inpart due to the tail vertebrae. InGen's reconstruction of this unique creature gives it a fatty hump, the shape and size of which is still heavily contested.</description>
     <statBases>

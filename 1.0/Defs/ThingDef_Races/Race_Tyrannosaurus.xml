@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>Tyrannosaurus</defName>
     <label>Tyrannosaurus rex</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #09182-1905[TYRANNOSAURUS REX] CODENAME: KING &gt;1
+    <description>-- > INGEN INTERNAL CASE FILE #09182-1905[TYRANNOSAURUS REX] CODENAME: KING >1
 
 The king tyrant lizard. Boasting incredible power, tenacity and speed, this dinosaur has earned its namesake. It was responsible for much chaos on the mainland of San Fransico during the 1997 incident, where it was revealed it had wreaked havoc prior on Isla Nublar during 1994.</description>
     <statBases>

@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>JRWTermitotron</defName>
     <label>Termitotron</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #04821-2014 [TERMITOTRON VENDEENSE] CODENAME: DAMPWOOD &gt;4910
+    <description>-- > INGEN INTERNAL CASE FILE #04821-2014 [TERMITOTRON VENDEENSE] CODENAME: DAMPWOOD >4910
 
 A rather large and nasty species of proto-termite. Their insatiable appetite for wood wouldn't be so bad if their extremely powerful, clicking manidibles couldn't cut through walls and workbenches as if they were made of tissue paper. Avoid at all costs.</description>
     <statBases>

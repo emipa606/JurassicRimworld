@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>Oviraptor</defName>
     <label>Oviraptor</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #038292-1924 [OVIRAPTOR PHILOCERATOPS] CODENAME: KLEPTO &gt;6
+    <description>-- > INGEN INTERNAL CASE FILE #038292-1924 [OVIRAPTOR PHILOCERATOPS] CODENAME: KLEPTO >6
 
 A nimble, scrawny theropod that loves shiny things and unwanted debris. If given an inch, they'll even steal the clothes off your back.</description>
     <statBases>

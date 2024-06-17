@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>HolcorobeusReconstruct</defName>
     <label>Holcorobeus</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #02739-1992 [HOLCOROBEUS ATROSULCATUS] CODENAME: HERCULES &gt;380
+    <description>-- > INGEN INTERNAL CASE FILE #02739-1992 [HOLCOROBEUS ATROSULCATUS] CODENAME: HERCULES >380
 
 A large extinct rhinoceros beetle that has a brilliant purple hue. Primitive, but gentle, they have often been used as hauling animals after their introduction on the rim.</description>
     <statBases>

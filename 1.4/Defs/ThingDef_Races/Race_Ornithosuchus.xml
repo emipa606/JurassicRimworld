@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>JRWOrnithosuchus</defName>
     <label>Ornithosuchus</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #09449-1894 [ORNITHOSUCHUS WOODWARDI] CODENAME: DENTE &gt;882
+    <description>-- > INGEN INTERNAL CASE FILE #09449-1894 [ORNITHOSUCHUS WOODWARDI] CODENAME: DENTE >882
 
 A pseudosuchian with a large set of teeth and a deep blue hide. When startled they are able to sprint on their back legs for a short time, though they primarily walk on all fours.</description>
     <statBases>

@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>JRWSupersaurusReconstruct</defName>
     <label>Supersaurus</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #03927-1985 [SUPERSAURUS VIVIANAE] CODENAME: MONUMENT &gt;908
+    <description>-- > INGEN INTERNAL CASE FILE #03927-1985 [SUPERSAURUS VIVIANAE] CODENAME: MONUMENT >908
 
 A beautiful sauropod with a jade-like hide. Gathering in large herds, these massive creatures spend the majority of the day grazing to sate their hearty appetite.</description>
     <statBases>

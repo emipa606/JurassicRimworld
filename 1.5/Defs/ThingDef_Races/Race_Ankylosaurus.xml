@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>JRWAnkylosaurus</defName>
     <label>Ankylosaurus</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #02817-1908 [ANKYLOSAURUS MAGNIVENTRIS] CODENAME: CHURCHILL &gt;25
+    <description>-- > INGEN INTERNAL CASE FILE #02817-1908 [ANKYLOSAURUS MAGNIVENTRIS] CODENAME: CHURCHILL >25
 
 A strong, armour plated ankylosaurid with a distinct clubbed tail. Many skulls have been crushed thanks to the sheer force it wields.</description>
     <statBases>

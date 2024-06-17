@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>JRWScutosaurus</defName>
     <label>Scutosaurus</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #03812-1922 [SCUTOSAURUS KARPINSKII] CODENAME: SHIELD &gt;082
+    <description>-- > INGEN INTERNAL CASE FILE #03812-1922 [SCUTOSAURUS KARPINSKII] CODENAME: SHIELD >082
 
 A peculiar pareiasaur with elongated spikes growing down from their chin. They are bulky, quite lumberous, and are dimwitted, but quite charming, in an odd way.</description>
     <statBases>

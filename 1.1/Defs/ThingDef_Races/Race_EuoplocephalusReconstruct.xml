@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>JRWEuoplocephalusReconstruct</defName>
     <label>Euoplocephalus</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #09663-1910 [EUOPLOCEPHALUS TUTUS] CODENAME: CROWN &gt;355
+    <description>-- > INGEN INTERNAL CASE FILE #09663-1910 [EUOPLOCEPHALUS TUTUS] CODENAME: CROWN >355
 
 A powerful and tanky ankylosaurid that is more brawn than brain. Gentle and docile until angered, these dinosaurs pack a very painful punch when enraged.</description>
     <statBases>

@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>JRWPachycephalosaurusReconstruct</defName>
     <label>Pachycephalosaurus</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #03521-1931 [PACHYCEPHALOSAURUS WYOMINGENSIS] CODENAME: FRIAR-TUCK &gt;9482
+    <description>-- > INGEN INTERNAL CASE FILE #03521-1931 [PACHYCEPHALOSAURUS WYOMINGENSIS] CODENAME: FRIAR-TUCK >9482
 
 A pachycephalosaurid with a thick dome and a mottled cream and blue hide. Their calls have made them a nuisance, so much so small tribal villages will actively ward them away, lest they attract larger threats.</description>
     <statBases>

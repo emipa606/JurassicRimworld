@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>Corythosaurus</defName>
     <label>Corythosaurus</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #05618-1914 [CORYTHOSAURUS CASUARIUS] CODENAME: CREST &gt;368
+    <description>-- > INGEN INTERNAL CASE FILE #05618-1914 [CORYTHOSAURUS CASUARIUS] CODENAME: CREST >368
 
 An elegant hadrosaur with a brilliant red crest. It uses said crest to make a wide range of sounds, many of which include communicating and warning other herd members.</description>
     <statBases>

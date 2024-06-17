@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>Manipulator</defName>
     <label>Manipulator</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #08362-2015 [MANIPULATOR MODIFICAPUTIS] CODENAME: MANTIS &gt;645
+    <description>-- > INGEN INTERNAL CASE FILE #08362-2015 [MANIPULATOR MODIFICAPUTIS] CODENAME: MANTIS >645
 
 An extinct predatory cockroach altered to massive proportions. It is an ancestor to modern day mantids, and acts similarly, with large, grasping legs to grapple prey.</description>
     <statBases>

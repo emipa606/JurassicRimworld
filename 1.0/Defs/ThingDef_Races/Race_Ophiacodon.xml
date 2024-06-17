@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>JRWOphiacodon</defName>
     <label>Ophiacodon</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #02019-1878 [OPHIACODON MIRUS] CODENAME: SNAKE-TOOTH &gt;492
+    <description>-- > INGEN INTERNAL CASE FILE #02019-1878 [OPHIACODON MIRUS] CODENAME: SNAKE-TOOTH >492
 
 A basal synapsid very close to the evolutionary chain leading up to mammals. Ophicodons true nature was rather speculative, with some arguing for a terrestrial lifestyle while others believe the creature was more suited to a amphibious lifestyle instead. Their jaws are lined with razor sharp, needle like teeth, perfect for gnawing up small lizards, tetrapods and amphibians.</description>
     <statBases>

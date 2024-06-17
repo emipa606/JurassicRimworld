@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>JRWRhabdodon</defName>
     <label>Rhabdodon</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #02321-1869 [RHABDODON PRISCUS] CODENAME: FLUTE &gt;872
+    <description>-- > INGEN INTERNAL CASE FILE #02321-1869 [RHABDODON PRISCUS] CODENAME: FLUTE >872
 
 A large ornithopod with a green hide and crimson stripes. A very prominent herbivore, they are seen congregating in large groups as they graze, keeping an eye out for danger.</description>
     <statBases>

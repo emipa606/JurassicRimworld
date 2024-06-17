@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <JDP_Quarry>Jurassic Digpit</JDP_Quarry>
-  <JDP_SettingsJunkChance>Junk chance(includes chunks): &lt;b&gt;&lt;color=orange&gt;{0}%&lt;/color&gt;&lt;/b&gt;</JDP_SettingsJunkChance>
-  <JDP_SettingsChunkChance>Chunk chance: &lt;b&gt;&lt;color=orange&gt;{0}%&lt;/color&gt;&lt;/b&gt;</JDP_SettingsChunkChance>
-  <JDP_DepletionLabel>&lt;b&gt;&lt;color=orange&gt;{0}&lt;/color&gt;&lt;/b&gt; mining operations before digpit is unusable</JDP_DepletionLabel>
+  <JDP_SettingsJunkChance>Junk chance(includes chunks): &lt;b>&lt;color=orange>{0}%&lt;/color>&lt;/b></JDP_SettingsJunkChance>
+  <JDP_SettingsChunkChance>Chunk chance: &lt;b>&lt;color=orange>{0}%&lt;/color>&lt;/b></JDP_SettingsChunkChance>
+  <JDP_DepletionLabel>&lt;b>&lt;color=orange>{0}&lt;/color>&lt;/b> mining operations before digpit is unusable</JDP_DepletionLabel>
   <JDP_DictionaryLabel>Mineable Items and Chances</JDP_DictionaryLabel>
   <JDP_TooltipLetter>Select whether or not the soil reclamation letter has already been sent. If false, the letter will be sent the first time a digpit is deconstructed.</JDP_TooltipLetter>
   <JDP_TooltipChunkChance>Chance to get a chunk. If junk is mined, this is the chance to get chunks instead of rubble.\n\nMining blocks uses chunk chance to determine whether a sufficient amount of stone was mined to make blocks</JDP_TooltipChunkChance>

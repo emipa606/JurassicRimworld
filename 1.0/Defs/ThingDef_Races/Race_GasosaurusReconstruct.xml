@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>GasosaurusReconstruct</defName>
     <label>Gasosaurus</label>
-    <description>-- &gt; BIOSYN INTERNAL CASE FILE #074638-1985 [GASOSAURUS CONSTRUCTUS] CODENAME: INCENDIARY &gt;2
+    <description>-- > BIOSYN INTERNAL CASE FILE #074638-1985 [GASOSAURUS CONSTRUCTUS] CODENAME: INCENDIARY >2
 
 A rather small tetanuran theropod that has in-grown furuncles all over its body. These sacs ignite in a volatile explosion when the host dies.
 

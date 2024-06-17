@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>JRWRajasaurus</defName>
     <label>Rajasaurus</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #03910-1985 [JRWRajasaurus SASTREI] CODENAME: BULL &gt;23
+    <description>-- > INGEN INTERNAL CASE FILE #03910-1985 [JRWRajasaurus SASTREI] CODENAME: BULL >23
 
 A strange abelisaurids with short arms and two prognated horns above their eyes. They were incredibly powerful for the stature and size, and have been known to engage in cannibalism.</description>
     <statBases>

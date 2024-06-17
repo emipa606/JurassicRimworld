@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>BaryonyxReconstruct</defName>
     <label>Baryonyx</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #02872-1986 [BARYONYX WALKERI] CODENAME: HOOK &gt;60
+    <description>-- > INGEN INTERNAL CASE FILE #02872-1986 [BARYONYX WALKERI] CODENAME: HOOK >60
 
 A spinosaurid with sharp front claws and an appetite for fish and flesh. They are as aggressive as they are quick and stop at nothing during the hunt.</description>
     <statBases>

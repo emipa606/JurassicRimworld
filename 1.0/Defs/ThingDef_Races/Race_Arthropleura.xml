@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>Arthropleura</defName>
     <label>Arthropleura</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #0291-1933 [ARTHROPLEURA ARMATA] CODENAME: MYRIA &gt;437
+    <description>-- > INGEN INTERNAL CASE FILE #0291-1933 [ARTHROPLEURA ARMATA] CODENAME: MYRIA >437
 
 A herbivorous arthropod that can reach gigantic proportions. They often eat low lying shrubbery and decaying leaves, rummaging through the undergrowth. They are weak and easy to hunt, but their meat is undersirable.</description>
     <statBases>

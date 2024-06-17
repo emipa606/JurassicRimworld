@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>JRWGorgonopsReconstruct</defName>
     <label>Gorgonops</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #04355-1912 [GORGONOPS WHAITSI] CODENAME: MEDUSA &gt;428
+    <description>-- > INGEN INTERNAL CASE FILE #04355-1912 [GORGONOPS WHAITSI] CODENAME: MEDUSA >428
 
 A large carnivorous therapsid with a mottled hide of tan, crimson and black. These huge creatures are often seen tailgating caravans in the blistering heat, waiting for some unfortunate soul to fall behind. Their codename derives from the stunning shimmer of their eyes, often described as a nebula of gold, said to unwillingly freeze anything it deems its prey in its tracks. With strong legs and a powerfu;, stunning bite, these creatures are not one to ignore.</description>
     <statBases>

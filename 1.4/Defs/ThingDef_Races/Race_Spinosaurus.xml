@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>JRWSpinosaurus</defName>
     <label>Spinosaurus</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #07642-1915 [SPINOSAURUS AEGYPTIACUS] CODENAME: SOBEK &gt;482
+    <description>-- > INGEN INTERNAL CASE FILE #07642-1915 [SPINOSAURUS AEGYPTIACUS] CODENAME: SOBEK >482
 
 An extremely large theropod with a sail running along its back. Viscious and incredibly deadly, this creature was bred illegally and wreaked havoc during the 2001 incident on Isla Sorna.</description>
     <statBases>

@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>JRWPlatyhystrix</defName>
     <label>Platyhystrix</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #06281-1910 [PLATYHYSTRIX RUGOSUS] CODENAME: COOKIE &gt;982
+    <description>-- > INGEN INTERNAL CASE FILE #06281-1910 [PLATYHYSTRIX RUGOSUS] CODENAME: COOKIE >982
 
 A temnospondyl amphibian with a distinctive sail along its back, similar to synapsids such as Dimetrodon and Edaphosaurus. It is theorized that the large, lumpy sail was used to thermoregulate. The short, stocky build indicates a largly terrestial lifestyle, living in the swampy, sandy biomes of the early carboniferous to the late permian.</description>
     <statBases>

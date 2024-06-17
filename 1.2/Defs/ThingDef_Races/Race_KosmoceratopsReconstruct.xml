@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>JRWKosmoceratopsReconstruct</defName>
     <label>Kosmoceratops</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #07822-2010 [KOSMOCERATOPS RICHARDSONI] CODENAME: ORNAMENT &gt;777
+    <description>-- > INGEN INTERNAL CASE FILE #07822-2010 [KOSMOCERATOPS RICHARDSONI] CODENAME: ORNAMENT >777
 
 A chasmosaurine ceratopsian with an incredible display frill on their crest. Known amusingly as 'the horniest dinosaur ever discovered' they have a whopping fifteen horn like structures on their face.</description>
     <statBases>

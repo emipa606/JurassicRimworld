@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>Zalmoxes</defName>
     <label>Zalmoxes</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #05541-1899 [ZALMOXES ROBUSTUS] CODENAME: HERODOTUS &gt;532
+    <description>-- > INGEN INTERNAL CASE FILE #05541-1899 [ZALMOXES ROBUSTUS] CODENAME: HERODOTUS >532
 
 A small ornithopod with a bright orange hide that almost sparkles. They are quick and highly strung but generally quite peaceful. Their leather has become quite sought after within certain tribes.</description>
     <statBases>

@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>Velociraptor</defName>
     <label>Velociraptor</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #03718-1980 [VELOCIRAPTOR SORNAENSIS] CODENAME: CLEVER GIRL &gt;1924
+    <description>-- > INGEN INTERNAL CASE FILE #03718-1980 [VELOCIRAPTOR SORNAENSIS] CODENAME: CLEVER GIRL >1924
 
 Dangerous and deadly, this dinosaur has caused much chaos and claimed many casualities in InGens earth history regarding several incidents over a span of many years. They are smart, have the ability to think, solve cognitive hazards, and are the one thing you do not want to meet face to face. The others won't be far behind.</description>
     <statBases>

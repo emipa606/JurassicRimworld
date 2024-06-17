@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>StaurikosaurusReconstruct</defName>
     <label>Staurikosaurus</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #042988-1970 [STAURIKOSAURUS PRICEI] CODENAME: SOUTH &gt;230
+    <description>-- > INGEN INTERNAL CASE FILE #042988-1970 [STAURIKOSAURUS PRICEI] CODENAME: SOUTH >230
 
 A scrawny carnivore that eats small lizards and insects. They are not strong, but they can be a nuisance.</description>
     <statBases>

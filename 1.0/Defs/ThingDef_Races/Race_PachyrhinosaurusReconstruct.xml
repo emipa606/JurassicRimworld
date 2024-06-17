@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>PachyrhinosaurusReconstruct</defName>
     <label>Pachyrhinosaurus</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #03453-1950 [PACHYRHINOSAURUS CANADENSIS] CODENAME: THICK-NOSE &gt;4721
+    <description>-- > INGEN INTERNAL CASE FILE #03453-1950 [PACHYRHINOSAURUS CANADENSIS] CODENAME: THICK-NOSE >4721
 
 A centrosaurine ceratopsid with a thick, chubby nose and an intricate display frill. Fossil sites discovered prove that these dinosaurs looked after their young as a herd.</description>
     <statBases>

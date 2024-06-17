@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>Meganeura</defName>
     <label>Meganeura</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #03827-1893 [MEGANEURA MONYI] CODENAME: NEURON &gt;167
+    <description>-- > INGEN INTERNAL CASE FILE #03827-1893 [MEGANEURA MONYI] CODENAME: NEURON >167
 
 A large extinct species of dragonfly. Their wings are extremely detailed and are covered in a large network of veins spread across the translucent membrane. Quick and pretty.</description>
     <statBases>

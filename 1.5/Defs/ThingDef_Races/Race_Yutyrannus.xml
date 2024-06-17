@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>JRWYutyrannus</defName>
     <label>Yutyrannus</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #04729-2015 [YUTYRANNUS HUALI] CODENAME: BEAUTY &gt;422
+    <description>-- > INGEN INTERNAL CASE FILE #04729-2015 [YUTYRANNUS HUALI] CODENAME: BEAUTY >422
 
 A medium sized theropod with a hide speckled with filamentous feathers that align down its back. It is able to survive in colder climates than most species.</description>
     <statBases>

@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>Deinonychus</defName>
     <label>Deinonychus</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #092743-1969 [DEINONYCHUS ANTIRRHOPUS] CODENAME: SICKLE &gt;482
+    <description>-- > INGEN INTERNAL CASE FILE #092743-1969 [DEINONYCHUS ANTIRRHOPUS] CODENAME: SICKLE >482
 
 A vicious dromaeosaurid that takes down prey via deadly lunge attacks. Known for practically infesting many of the abandoned facilities on Sorna during the 1997 incident, resembling Velociraptor sornaensis in appearence. When Masrani corp. acquired InGen, the design of the Deinonychus was altered quite significantly. The following specimens gained amphibious traits and frills along their body, as a result of splicing their genome with Basiliscus basiliscus DNA to fit their supposed marshland environment in which they lived.</description>
     <statBases>

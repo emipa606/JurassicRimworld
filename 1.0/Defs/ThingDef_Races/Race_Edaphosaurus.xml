@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalDinoThingBase">
     <defName>Edaphosaurus</defName>
     <label>Edaphosaurus</label>
-    <description>-- &gt; INGEN INTERNAL CASE FILE #0883-1940 [EDAPHOSAURUS BOANERGES] CODENAME: VERMILLION &gt;512
+    <description>-- > INGEN INTERNAL CASE FILE #0883-1940 [EDAPHOSAURUS BOANERGES] CODENAME: VERMILLION >512
 
 A herbivorous synapsid known for lounging in the sun. Their bright red sails flare up when confronted with danger.</description>
     <statBases>
