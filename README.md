@@ -1,9 +1,13 @@
-# [Jurassic Rimworld (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=2567489721)
+# [[Legacy] Jurassic Rimworld (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=2567489721)
 
 ![Image](https://i.imgur.com/buuPQel.png)
 
 Update of Serpyderpys mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1419618659
+
+**The release of RimWorld 1.6 added improved support for [Asset Bundles](https://github.com/emipa606/AssetBuilder/blob/main/README.md).**
+To avoid doubling the size of the mod, it was re-released using only Asset Bundles, you can find the new version of this mod [here](https://steamcommunity.com/sharedfiles/filedetails/?id=3541468886).
+This version will not receive any further updates.
 
 - Patch by asavikle, lower the amount of traders from this mod: https://steamcommunity.com/sharedfiles/filedetails/?id=2813022846
 
@@ -64,12 +68,12 @@ Do NOT use any of the art in this mod in other mods without my permission. Thank
 
 -  See if the the error persists if you just have this mod and its requirements active.
 -  If not, try adding your other mods until it happens again.
--  Post your error-log using [HugsLib](https://steamcommunity.com/workshop/filedetails/?id=818773962) or the standalone [Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) and command Ctrl+F12
+-  Post your error-log using the [Log Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) or the standalone [Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) and command Ctrl+F12
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
 -  Use [RimSort](https://github.com/RimSort/RimSort/releases/latest) to sort your mods
 
-
+ 
 
 [![Image](https://img.shields.io/github/v/release/emipa606/JurassicRimworld?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2567489721)
