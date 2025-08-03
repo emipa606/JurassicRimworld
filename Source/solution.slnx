@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <BuildType Name="Release" />
+  </Configurations>
+  <Project Path="DinosaurSettings/DinosaurSettings.csproj" />
+  <Project Path="DinoShoo/DinoShoo.csproj" />
+  <Project Path="ExtraButcheringProducts/ExtraButcheringProducts.csproj" />
+  <Project Path="JurassicRimworld/JurassicRimworld.csproj" />
+  <Project Path="ManhuntingDinos/ManhuntingDinos.csproj" />
+  <Project Path="MomCanWePlayOnTheHoloscope/MomCanWePlayOnTheHoloscope.csproj" />
+</Solution>
