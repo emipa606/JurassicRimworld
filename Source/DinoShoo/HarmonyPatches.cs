@@ -1,3 +1,4 @@
+using System.Reflection;
 using HarmonyLib;
 using RimWorld;
 using Verse;
@@ -9,12 +10,14 @@ public class HarmonyPatches
 {
     static HarmonyPatches()
     {
-        var harmony = new Harmony("mehni.RimWorld.forSerpy.bigdinosleave");
-        harmony.Patch(AccessTools.Method(typeof(ThinkNode_ConditionalExitTimedOut), "Satisfied"), null,
-            new HarmonyMethod(typeof(HarmonyPatches), "DinoShoo_PostFix"));
+        new Harmony("mehni.RimWorld.forSerpy.bigdinosleave").PatchAll(Assembly.GetExecutingAssembly());
     }
+}
 
-    private static void DinoShoo_PostFix(ref Pawn pawn)
+[HarmonyPatch(typeof(ThinkNode_ConditionalExitTimedOut), "Satisfied")]
+public static class ThinkNode_ConditionalExitTimedOut_Satisfied
+{
+    public static void Postfix(ref Pawn pawn)
     {
         if (pawn.mindState.exitMapAfterTick == -99999 && pawn.RaceProps.baseBodySize >= 5f &&
             pawn.Faction == null)

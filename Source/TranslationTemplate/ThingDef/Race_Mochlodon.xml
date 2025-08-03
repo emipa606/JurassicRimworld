@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Mochlodon -->
+  <JRWMochlodon.label>Mochlodon</JRWMochlodon.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #09372-1871 [MOCHLODON GOBIENSIS] CODENAME: SUNSET >432\n\nAn iguanodontid with an orange hide. They can be found wandering in small herds searching for new grazing grounds. -->
+  <JRWMochlodon.description>-- > INGEN INTERNAL CASE FILE #09372-1871 [MOCHLODON GOBIENSIS] CODENAME: SUNSET >432
+
+An iguanodontid with an orange hide. They can be found wandering in small herds searching for new grazing grounds.</JRWMochlodon.description>
+  <!-- EN: head -->
+  <JRWMochlodon.tools.head.label>head</JRWMochlodon.tools.head.label>
+</LanguageData>

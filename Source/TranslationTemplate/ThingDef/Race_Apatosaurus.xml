@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Apatosaurus -->
+  <JRWApatosaurus.label>Apatosaurus</JRWApatosaurus.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #01829-1887 [APATOSAURUS AJAX] CODENAME: TITAN >71\n\nA well-known sauropod with no real distinguishing features. It is large and hardy, even more so when travelling in herds. -->
+  <JRWApatosaurus.description>-- > INGEN INTERNAL CASE FILE #01829-1887 [APATOSAURUS AJAX] CODENAME: TITAN >71
+
+A well-known sauropod with no real distinguishing features. It is large and hardy, even more so when travelling in herds.</JRWApatosaurus.description>
+  <!-- EN: left foot -->
+  <JRWApatosaurus.tools.left_foot.label>left foot</JRWApatosaurus.tools.left_foot.label>
+  <!-- EN: right foot -->
+  <JRWApatosaurus.tools.right_foot.label>right foot</JRWApatosaurus.tools.right_foot.label>
+  <!-- EN: head -->
+  <JRWApatosaurus.tools.head.label>head</JRWApatosaurus.tools.head.label>
+</LanguageData>

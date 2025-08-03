@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Kentrosaurus -->
+  <JRWKentrosaurus.label>Kentrosaurus</JRWKentrosaurus.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #03728-1915 [KENTROSAURUS AETHIOPICUS] CODENAME: SPEAR >369\n\nA 'primitive' stegosaurian dinosaur that sports a deadly tail covered in spikes. While not quick to turn, these dinosaurs have often wielded their tails efficiently in combat, slicing and piercing attackers. -->
+  <JRWKentrosaurus.description>-- > INGEN INTERNAL CASE FILE #03728-1915 [KENTROSAURUS AETHIOPICUS] CODENAME: SPEAR >369
+
+A 'primitive' stegosaurian dinosaur that sports a deadly tail covered in spikes. While not quick to turn, these dinosaurs have often wielded their tails efficiently in combat, slicing and piercing attackers.</JRWKentrosaurus.description>
+  <!-- EN: tail -->
+  <JRWKentrosaurus.tools.tail.label>tail</JRWKentrosaurus.tools.tail.label>
+</LanguageData>

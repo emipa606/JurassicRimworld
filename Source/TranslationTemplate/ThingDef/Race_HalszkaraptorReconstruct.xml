@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Halszkaraptor -->
+  <JRWHalszkaraptorReconstruct.label>Halszkaraptor</JRWHalszkaraptorReconstruct.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #084732-2017 [HALSZKARAPTOR ESCUILLIEI] CODENAME: BLACK-SWAN >3\n\nA bizarre dromaeosaur that adapted to a semi-aquatic lifestyle, similar to geese and other such waterfowl. Though graceful, their attacks are swift and deadly. -->
+  <JRWHalszkaraptorReconstruct.description>-- > INGEN INTERNAL CASE FILE #084732-2017 [HALSZKARAPTOR ESCUILLIEI] CODENAME: BLACK-SWAN >3
+
+A bizarre dromaeosaur that adapted to a semi-aquatic lifestyle, similar to geese and other such waterfowl. Though graceful, their attacks are swift and deadly.</JRWHalszkaraptorReconstruct.description>
+  <!-- EN: left claw -->
+  <JRWHalszkaraptorReconstruct.tools.left_claw.label>left claw</JRWHalszkaraptorReconstruct.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <JRWHalszkaraptorReconstruct.tools.right_claw.label>right claw</JRWHalszkaraptorReconstruct.tools.right_claw.label>
+  <!-- EN: teeth -->
+  <JRWHalszkaraptorReconstruct.tools.teeth.label>teeth</JRWHalszkaraptorReconstruct.tools.teeth.label>
+  <!-- EN: head -->
+  <JRWHalszkaraptorReconstruct.tools.head.label>head</JRWHalszkaraptorReconstruct.tools.head.label>
+</LanguageData>

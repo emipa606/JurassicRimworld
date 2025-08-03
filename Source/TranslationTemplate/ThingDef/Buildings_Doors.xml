@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: bathroom door -->
+  <BathroomDoor.label>bathroom door</BathroomDoor.label>
+  <!-- EN: A door designed to fit with bathroom blocks. Can be entirely functional or aesthetic depending on what mods are installed.\n	\nWhen you gotta go, you gotta go. -->
+  <BathroomDoor.description>A door designed to fit with bathroom blocks. Can be entirely functional or aesthetic depending on what mods are installed.
+	
+When you gotta go, you gotta go.</BathroomDoor.description>
+  <!-- EN: glass door -->
+  <GlassAviaryDoor.label>glass door</GlassAviaryDoor.label>
+  <!-- EN: A door designed to fit with aviary domes, but can be used anywhere. -->
+  <GlassAviaryDoor.description>A door designed to fit with aviary domes, but can be used anywhere.</GlassAviaryDoor.description>
+</LanguageData>

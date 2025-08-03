@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: yurlunggur -->
+  <JRWYurlunggurReconstruct.label>yurlunggur</JRWYurlunggurReconstruct.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #02032-1992 [YURLUNGGUR CAMFIELDENSIS] CODENAME: RAINBOW SERPENT >392\n\nYurlunggur was a genus of non-venomous, constrictor snake that lived in Australia over 23 million years ago. The name Yurlunggur was derived from the from the traditional name the people of Arnhem Land gave to the Rainbow Serpent, a common deity and creator god in their mythology. -->
+  <JRWYurlunggurReconstruct.description>-- > INGEN INTERNAL CASE FILE #02032-1992 [YURLUNGGUR CAMFIELDENSIS] CODENAME: RAINBOW SERPENT >392
+
+Yurlunggur was a genus of non-venomous, constrictor snake that lived in Australia over 23 million years ago. The name Yurlunggur was derived from the from the traditional name the people of Arnhem Land gave to the Rainbow Serpent, a common deity and creator god in their mythology.</JRWYurlunggurReconstruct.description>
+  <!-- EN: fangs -->
+  <JRWYurlunggurReconstruct.tools.fangs.label>fangs</JRWYurlunggurReconstruct.tools.fangs.label>
+  <!-- EN: head -->
+  <JRWYurlunggurReconstruct.tools.head.label>head</JRWYurlunggurReconstruct.tools.head.label>
+</LanguageData>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: amber extraction -->
+  <AmberExtraction.label>amber extraction</AmberExtraction.label>
+  <!-- EN: With new revolutionary technology the amber extraction bench allows your colonists to extract millenia old dinosaur blood and tissue samples from insects and various other parasitic entities. These samples can then be used to extract different strands of unique DNA. -->
+  <AmberExtraction.description>With new revolutionary technology the amber extraction bench allows your colonists to extract millenia old dinosaur blood and tissue samples from insects and various other parasitic entities. These samples can then be used to extract different strands of unique DNA.</AmberExtraction.description>
+  <!-- EN: automated feeders -->
+  <AutomatedFeeders.label>automated feeders</AutomatedFeeders.label>
+  <!-- EN: Turn that hunting hassle into a breeze with these exclusive blueprints hot off the presses. Four different automated feeders will turn any dinosaur pen into a well-oiled machine, eliminating the need to produce food yourself!\n\nWarning: not for human consumption.\nSide effects may include food poisoning, mood debuffs and mental breaks. -->
+  <AutomatedFeeders.description>Turn that hunting hassle into a breeze with these exclusive blueprints hot off the presses. Four different automated feeders will turn any dinosaur pen into a well-oiled machine, eliminating the need to produce food yourself!
+
+Warning: not for human consumption.
+Side effects may include food poisoning, mood debuffs and mental breaks.</AutomatedFeeders.description>
+  <!-- EN: DNA reconstruction -->
+  <DNAReconstruction.label>DNA reconstruction</DNAReconstruction.label>
+  <!-- EN: After many years of research, the past is now the present. Using the incredibly complex and powerful algorithms present within the DNA reconstruction bench, a colonist can now produce fertilized dinosaurs eggs from strands of varying amounts of DNA. -->
+  <DNAReconstruction.description>After many years of research, the past is now the present. Using the incredibly complex and powerful algorithms present within the DNA reconstruction bench, a colonist can now produce fertilized dinosaurs eggs from strands of varying amounts of DNA.</DNAReconstruction.description>
+  <!-- EN: jurassic-style structures -->
+  <JurassicFurniture.label>jurassic-style structures</JurassicFurniture.label>
+  <!-- EN: Decorate your colony in jurassic style with all of these mesozoic goodies!\n\nIncludes light sources, structures, decorative objects and even enrichment for the budding colonist. -->
+  <JurassicFurniture.description>Decorate your colony in jurassic style with all of these mesozoic goodies!
+
+Includes light sources, structures, decorative objects and even enrichment for the budding colonist.</JurassicFurniture.description>
+  <!-- EN: pre-requisite mesozoic knowledge -->
+  <PrerequisiteMesozoicKnowledge.label>pre-requisite mesozoic knowledge</PrerequisiteMesozoicKnowledge.label>
+  <!-- EN: Do your colonists know the difference between an ichnofossil and a true form fossil? Do they scratch their head at the sight of coprolite? This handy dandy research tool 65 million years in the making crunches all the knowledge and know-how your colonists could ever need to start a park of their own!\n\nCaution: may be slightly outdated.\nFeathers sold seperately. -->
+  <PrerequisiteMesozoicKnowledge.description>Do your colonists know the difference between an ichnofossil and a true form fossil? Do they scratch their head at the sight of coprolite? This handy dandy research tool 65 million years in the making crunches all the knowledge and know-how your colonists could ever need to start a park of their own!
+
+Caution: may be slightly outdated.
+Feathers sold seperately.</PrerequisiteMesozoicKnowledge.description>
+</LanguageData>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: dinilysia -->
+  <JRWDinilysia.label>dinilysia</JRWDinilysia.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #03911-1901 [DINILYSIA PATAGONICA] CODENAME: ANILIUS >4921\n\nDinilysia was an extinct species of snake that has opened up insight into how ancient snakes evolved, whether their ancestral heritage was aquatic or terrestrial, and if snakes descended from burrowing ancestors. -->
+  <JRWDinilysia.description>-- > INGEN INTERNAL CASE FILE #03911-1901 [DINILYSIA PATAGONICA] CODENAME: ANILIUS >4921
+
+Dinilysia was an extinct species of snake that has opened up insight into how ancient snakes evolved, whether their ancestral heritage was aquatic or terrestrial, and if snakes descended from burrowing ancestors.</JRWDinilysia.description>
+  <!-- EN: fangs -->
+  <JRWDinilysia.tools.fangs.label>fangs</JRWDinilysia.tools.fangs.label>
+  <!-- EN: head -->
+  <JRWDinilysia.tools.head.label>head</JRWDinilysia.tools.head.label>
+</LanguageData>

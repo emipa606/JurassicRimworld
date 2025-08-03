@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Supersaurus -->
+  <JRWSupersaurus.label>Supersaurus</JRWSupersaurus.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #03927-1985 [SUPERSAURUS VIVIANAE] CODENAME: MONUMENT >908\n\nA beautiful sauropod with a jade-like hide. Gathering in large herds, these massive creatures spend the majority of the day grazing to sate their hearty appetite. -->
+  <JRWSupersaurus.description>-- > INGEN INTERNAL CASE FILE #03927-1985 [SUPERSAURUS VIVIANAE] CODENAME: MONUMENT >908
+
+A beautiful sauropod with a jade-like hide. Gathering in large herds, these massive creatures spend the majority of the day grazing to sate their hearty appetite.</JRWSupersaurus.description>
+  <!-- EN: left foot -->
+  <JRWSupersaurus.tools.left_foot.label>left foot</JRWSupersaurus.tools.left_foot.label>
+  <!-- EN: right foot -->
+  <JRWSupersaurus.tools.right_foot.label>right foot</JRWSupersaurus.tools.right_foot.label>
+  <!-- EN: head -->
+  <JRWSupersaurus.tools.head.label>head</JRWSupersaurus.tools.head.label>
+</LanguageData>

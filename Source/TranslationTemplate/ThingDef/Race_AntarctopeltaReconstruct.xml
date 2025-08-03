@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Antarctopelta -->
+  <JRWAntarctopeltaReconstruct.label>Antarctopelta</JRWAntarctopeltaReconstruct.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #02817-1986 [ANTARCTOPELTA OLIVEROI] CODENAME: T-28 >95\n\nAn odd ankylosaurid with a slender form and large, curved spikes. What it lacks in brute strength it makes up for in tenacity. -->
+  <JRWAntarctopeltaReconstruct.description>-- > INGEN INTERNAL CASE FILE #02817-1986 [ANTARCTOPELTA OLIVEROI] CODENAME: T-28 >95
+
+An odd ankylosaurid with a slender form and large, curved spikes. What it lacks in brute strength it makes up for in tenacity.</JRWAntarctopeltaReconstruct.description>
+  <!-- EN: head -->
+  <JRWAntarctopeltaReconstruct.tools.head.label>head</JRWAntarctopeltaReconstruct.tools.head.label>
+</LanguageData>

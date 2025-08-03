@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Rhabdodon -->
+  <JRWRhabdodon.label>Rhabdodon</JRWRhabdodon.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #02321-1869 [RHABDODON PRISCUS] CODENAME: FLUTE >872\n\nA large ornithopod with a green hide and crimson stripes. A very prominent herbivore, they are seen congregating in large groups as they graze, keeping an eye out for danger. -->
+  <JRWRhabdodon.description>-- > INGEN INTERNAL CASE FILE #02321-1869 [RHABDODON PRISCUS] CODENAME: FLUTE >872
+
+A large ornithopod with a green hide and crimson stripes. A very prominent herbivore, they are seen congregating in large groups as they graze, keeping an eye out for danger.</JRWRhabdodon.description>
+  <!-- EN: head -->
+  <JRWRhabdodon.tools.head.label>head</JRWRhabdodon.tools.head.label>
+</LanguageData>

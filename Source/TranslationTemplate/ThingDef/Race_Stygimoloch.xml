@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Stygimoloch -->
+  <JRWStygimoloch.label>Stygimoloch</JRWStygimoloch.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #03521-1931 [STYGIMOLOCH SPINIFER] CODENAME: STYX >9482\n\nA pachycephalosaurid with a thick dome and a mottled cream and blue hide. Their calls have made them a nuisance, so much so small tribal villages will actively ward them away, lest they attract larger threats. -->
+  <JRWStygimoloch.description>-- > INGEN INTERNAL CASE FILE #03521-1931 [STYGIMOLOCH SPINIFER] CODENAME: STYX >9482
+
+A pachycephalosaurid with a thick dome and a mottled cream and blue hide. Their calls have made them a nuisance, so much so small tribal villages will actively ward them away, lest they attract larger threats.</JRWStygimoloch.description>
+  <!-- EN: teeth -->
+  <JRWStygimoloch.tools.teeth.label>teeth</JRWStygimoloch.tools.teeth.label>
+  <!-- EN: head -->
+  <JRWStygimoloch.tools.head.label>head</JRWStygimoloch.tools.head.label>
+</LanguageData>

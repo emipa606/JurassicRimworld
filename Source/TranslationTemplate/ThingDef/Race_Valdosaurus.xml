@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Valdosaurus -->
+  <JRWValdosaurus.label>Valdosaurus</JRWValdosaurus.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #0498-1975 [VALDOSAURUS CANALICULATUS] CODENAME: WEALD >472\n\nA small iguanodont ornithischian. Small and swift, they are a joy to watch skittering about in the wild. Their purple hide is decorated with small quills and is quite difficult to use in leather working. -->
+  <JRWValdosaurus.description>-- > INGEN INTERNAL CASE FILE #0498-1975 [VALDOSAURUS CANALICULATUS] CODENAME: WEALD >472
+
+A small iguanodont ornithischian. Small and swift, they are a joy to watch skittering about in the wild. Their purple hide is decorated with small quills and is quite difficult to use in leather working.</JRWValdosaurus.description>
+  <!-- EN: left claw -->
+  <JRWValdosaurus.tools.left_claw.label>left claw</JRWValdosaurus.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <JRWValdosaurus.tools.right_claw.label>right claw</JRWValdosaurus.tools.right_claw.label>
+  <!-- EN: teeth -->
+  <JRWValdosaurus.tools.teeth.label>teeth</JRWValdosaurus.tools.teeth.label>
+  <!-- EN: head -->
+  <JRWValdosaurus.tools.head.label>head</JRWValdosaurus.tools.head.label>
+</LanguageData>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Indominus rex -->
+  <JRWIndominus.label>Indominus rex</JRWIndominus.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #???-???\n[INDOMINUS REX]\n\nTHE UNTAMABLE KING\n\nBoasting superior intellect, an incredibly high prey drive and claws and teeth made for rendering flesh, the Indominus rex is a dangerous, terrifying foe to face out on the battlefield. Their ivory hides are marked with scars and cuts from many countless battles, and their roar invokes fear in all that hear it. The Indominus genome was supposedly lost during the 2018 incident at Lockewood manor, but determined genome replicators brought it back from extinction. -->
+  <JRWIndominus.description>-- > INGEN INTERNAL CASE FILE #???-???
+[INDOMINUS REX]
+
+THE UNTAMABLE KING
+
+Boasting superior intellect, an incredibly high prey drive and claws and teeth made for rendering flesh, the Indominus rex is a dangerous, terrifying foe to face out on the battlefield. Their ivory hides are marked with scars and cuts from many countless battles, and their roar invokes fear in all that hear it. The Indominus genome was supposedly lost during the 2018 incident at Lockewood manor, but determined genome replicators brought it back from extinction.</JRWIndominus.description>
+  <!-- EN: left claw -->
+  <JRWIndominus.tools.left_claw.label>left claw</JRWIndominus.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <JRWIndominus.tools.right_claw.label>right claw</JRWIndominus.tools.right_claw.label>
+  <!-- EN: head -->
+  <JRWIndominus.tools.head.label>head</JRWIndominus.tools.head.label>
+</LanguageData>

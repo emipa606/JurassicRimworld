@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Pachyrhinosaurus -->
+  <JRWPachyrhinosaurusReconstruct.label>Pachyrhinosaurus</JRWPachyrhinosaurusReconstruct.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #03453-1950 [PACHYRHINOSAURUS CANADENSIS] CODENAME: THICK-NOSE >4721\n\nA centrosaurine ceratopsid with a thick, chubby nose and an intricate display frill. Fossil sites discovered prove that these dinosaurs looked after their young as a herd. -->
+  <JRWPachyrhinosaurusReconstruct.description>-- > INGEN INTERNAL CASE FILE #03453-1950 [PACHYRHINOSAURUS CANADENSIS] CODENAME: THICK-NOSE >4721
+
+A centrosaurine ceratopsid with a thick, chubby nose and an intricate display frill. Fossil sites discovered prove that these dinosaurs looked after their young as a herd.</JRWPachyrhinosaurusReconstruct.description>
+  <!-- EN: horn -->
+  <JRWPachyrhinosaurusReconstruct.tools.horn-0.label>horn</JRWPachyrhinosaurusReconstruct.tools.horn-0.label>
+  <!-- EN: horn -->
+  <JRWPachyrhinosaurusReconstruct.tools.horn-1.label>horn</JRWPachyrhinosaurusReconstruct.tools.horn-1.label>
+  <!-- EN: head -->
+  <JRWPachyrhinosaurusReconstruct.tools.head.label>head</JRWPachyrhinosaurusReconstruct.tools.head.label>
+</LanguageData>

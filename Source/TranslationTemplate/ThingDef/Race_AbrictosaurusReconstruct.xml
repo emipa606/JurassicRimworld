@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Abrictosaurus -->
+  <JRWAbrictosaurusReconstruct.label>Abrictosaurus</JRWAbrictosaurusReconstruct.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #06234456-1994 [ABRICTOSAURUS CONSORS] CODENAME: WAKEFUL >532\n\nA fast and colourful ornithopod, covered in blue and purple scales. Abrictosaurus is considered one of the few heterodontosaurids to have sexual dimorphism, as males are suggested to have longer, tusk like teeth. -->
+  <JRWAbrictosaurusReconstruct.description>-- > INGEN INTERNAL CASE FILE #06234456-1994 [ABRICTOSAURUS CONSORS] CODENAME: WAKEFUL >532
+
+A fast and colourful ornithopod, covered in blue and purple scales. Abrictosaurus is considered one of the few heterodontosaurids to have sexual dimorphism, as males are suggested to have longer, tusk like teeth.</JRWAbrictosaurusReconstruct.description>
+  <!-- EN: left claw -->
+  <JRWAbrictosaurusReconstruct.tools.left_claw.label>left claw</JRWAbrictosaurusReconstruct.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <JRWAbrictosaurusReconstruct.tools.right_claw.label>right claw</JRWAbrictosaurusReconstruct.tools.right_claw.label>
+  <!-- EN: teeth -->
+  <JRWAbrictosaurusReconstruct.tools.teeth.label>teeth</JRWAbrictosaurusReconstruct.tools.teeth.label>
+  <!-- EN: head -->
+  <JRWAbrictosaurusReconstruct.tools.head.label>head</JRWAbrictosaurusReconstruct.tools.head.label>
+</LanguageData>

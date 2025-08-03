@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Estemmenosuchus -->
+  <JRWEstemmenosuchus.label>Estemmenosuchus</JRWEstemmenosuchus.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #038723-1858 [ESTEMMENOSUCHUS MIRABILIS] CODENAME: CROWN >829\n\nA bizarre omnivorous synapsid that sports a pair of peculiar antlers atop its head. While not particularly aggressive these creatures can pack a powerful bite, and gore small creatures to death. -->
+  <JRWEstemmenosuchus.description>-- > INGEN INTERNAL CASE FILE #038723-1858 [ESTEMMENOSUCHUS MIRABILIS] CODENAME: CROWN >829
+
+A bizarre omnivorous synapsid that sports a pair of peculiar antlers atop its head. While not particularly aggressive these creatures can pack a powerful bite, and gore small creatures to death.</JRWEstemmenosuchus.description>
+  <!-- EN: antlers -->
+  <JRWEstemmenosuchus.tools.antlers.label>antlers</JRWEstemmenosuchus.tools.antlers.label>
+</LanguageData>

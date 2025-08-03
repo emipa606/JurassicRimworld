@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Dracorex -->
+  <JRWDracorexReconstruct.label>Dracorex</JRWDracorexReconstruct.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #032119-2006 [DRACOREX HOGWARTSIA] CODENAME: DRAGON-KING >781\n\nA strange pachycephalosaurid with a flat crest atop its head, decorated in sharp spines. Despite its fearsome appearence, they are quite gentle. -->
+  <JRWDracorexReconstruct.description>-- > INGEN INTERNAL CASE FILE #032119-2006 [DRACOREX HOGWARTSIA] CODENAME: DRAGON-KING >781
+
+A strange pachycephalosaurid with a flat crest atop its head, decorated in sharp spines. Despite its fearsome appearence, they are quite gentle.</JRWDracorexReconstruct.description>
+  <!-- EN: teeth -->
+  <JRWDracorexReconstruct.tools.teeth.label>teeth</JRWDracorexReconstruct.tools.teeth.label>
+  <!-- EN: head -->
+  <JRWDracorexReconstruct.tools.head.label>head</JRWDracorexReconstruct.tools.head.label>
+</LanguageData>

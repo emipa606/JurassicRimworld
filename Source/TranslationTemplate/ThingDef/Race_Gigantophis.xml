@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: gigantophis -->
+  <JRWGigantophis.label>gigantophis</JRWGigantophis.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #0452-1901 [GIGANTOPHIS GARSTINI] CODENAME: URUBOROS >7529\n\nBefore Titanoboa was discovered, Gigantophis was once considered the largest snake to have ever lived. The keratinous spikes that adorn this creatures hood can inflict severe cuts and slashes that can quite easily break through skin. -->
+  <JRWGigantophis.description>-- > INGEN INTERNAL CASE FILE #0452-1901 [GIGANTOPHIS GARSTINI] CODENAME: URUBOROS >7529
+
+Before Titanoboa was discovered, Gigantophis was once considered the largest snake to have ever lived. The keratinous spikes that adorn this creatures hood can inflict severe cuts and slashes that can quite easily break through skin.</JRWGigantophis.description>
+  <!-- EN: fangs -->
+  <JRWGigantophis.tools.fangs.label>fangs</JRWGigantophis.tools.fangs.label>
+  <!-- EN: head -->
+  <JRWGigantophis.tools.head.label>head</JRWGigantophis.tools.head.label>
+</LanguageData>

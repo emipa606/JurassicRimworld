@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Brachytrachelopan -->
+  <JRWBrachytrachelopan.label>Brachytrachelopan</JRWBrachytrachelopan.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #03927-2005 [Brachytrachelopan mesai] CODENAME: OKAPI >4837\n\nA short necked sauropod that has developed some interesting features due to genetic splicing. Instead of a strictly herbivorous diet these dinosaurs have developed a long, sticky tongue for lapping up insects and large, sharp thumbs for climbing and embedding into trees, rocks and nests belonging to invertebrates like termites and ants. They have developed a strong rivalry of sorts with Termitotron vendeese, an artifical grudge match that has lasted throughout the ages as these one manufactured creatures have spread into the wild. -->
+  <JRWBrachytrachelopan.description>-- > INGEN INTERNAL CASE FILE #03927-2005 [Brachytrachelopan mesai] CODENAME: OKAPI >4837
+
+A short necked sauropod that has developed some interesting features due to genetic splicing. Instead of a strictly herbivorous diet these dinosaurs have developed a long, sticky tongue for lapping up insects and large, sharp thumbs for climbing and embedding into trees, rocks and nests belonging to invertebrates like termites and ants. They have developed a strong rivalry of sorts with Termitotron vendeese, an artifical grudge match that has lasted throughout the ages as these one manufactured creatures have spread into the wild.</JRWBrachytrachelopan.description>
+  <!-- EN: left foot -->
+  <JRWBrachytrachelopan.tools.left_foot.label>left foot</JRWBrachytrachelopan.tools.left_foot.label>
+  <!-- EN: right foot -->
+  <JRWBrachytrachelopan.tools.right_foot.label>right foot</JRWBrachytrachelopan.tools.right_foot.label>
+  <!-- EN: head -->
+  <JRWBrachytrachelopan.tools.head.label>head</JRWBrachytrachelopan.tools.head.label>
+</LanguageData>

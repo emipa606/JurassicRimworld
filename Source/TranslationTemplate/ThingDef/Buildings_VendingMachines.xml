@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: drink vending machine -->
+  <DinoVendingMachineDrink.label>drink vending machine</DinoVendingMachineDrink.label>
+  <!-- EN: A vending machine that dispenses drinks. -->
+  <DinoVendingMachineDrink.description>A vending machine that dispenses drinks.</DinoVendingMachineDrink.description>
+  <!-- EN: snack vending machine -->
+  <DinoVendingMachineFood.label>snack vending machine</DinoVendingMachineFood.label>
+  <!-- EN: A vending machine that dispenses snacks. -->
+  <DinoVendingMachineFood.description>A vending machine that dispenses snacks.</DinoVendingMachineFood.description>
+</LanguageData>

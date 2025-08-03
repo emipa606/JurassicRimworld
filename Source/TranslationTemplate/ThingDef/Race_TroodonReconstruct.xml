@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Troodon -->
+  <JRWTroodonReconstruct.label>Troodon</JRWTroodonReconstruct.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #IG74726f6f646f6e\n[TROODON PECTINODON]\n\nWOUNDING TOOTH\n\nBred on Isla Sorna during the initial testing phase of Jurassic Park, Troodon were considered to be too dangerous for public display, and were ordered to be destroyed. Instead, they were studied in secret, though the power outage on the island that caused the 1993 Isla Incident let them roam free. Their bite is extremely venemous, causing sickness followed by extreme mental break, followed swiftly by paralysis then death. Half eaten victims within the paralysis stage are converted into living nests by females of the species. -->
+  <JRWTroodonReconstruct.description>-- > INGEN INTERNAL CASE FILE #IG74726f6f646f6e
+[TROODON PECTINODON]
+
+WOUNDING TOOTH
+
+Bred on Isla Sorna during the initial testing phase of Jurassic Park, Troodon were considered to be too dangerous for public display, and were ordered to be destroyed. Instead, they were studied in secret, though the power outage on the island that caused the 1993 Isla Incident let them roam free. Their bite is extremely venemous, causing sickness followed by extreme mental break, followed swiftly by paralysis then death. Half eaten victims within the paralysis stage are converted into living nests by females of the species.</JRWTroodonReconstruct.description>
+  <!-- EN: left claw -->
+  <JRWTroodonReconstruct.tools.left_claw.label>left claw</JRWTroodonReconstruct.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <JRWTroodonReconstruct.tools.right_claw.label>right claw</JRWTroodonReconstruct.tools.right_claw.label>
+  <!-- EN: teeth -->
+  <JRWTroodonReconstruct.tools.teeth.label>teeth</JRWTroodonReconstruct.tools.teeth.label>
+</LanguageData>

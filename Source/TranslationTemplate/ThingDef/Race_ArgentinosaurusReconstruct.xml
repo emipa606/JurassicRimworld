@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Argentinosaurus -->
+  <JRWArgentinosaurusReconstruct.label>Argentinosaurus</JRWArgentinosaurusReconstruct.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #09382-1993 [ARGENTINOSAURUS HUINCULENSIS] CODENAME: COLOSSUS >65\n\nA humongous sauropod with emerald skin. It is an incredible force of nature, able to crush predators under their weight with disgusting ease. -->
+  <JRWArgentinosaurusReconstruct.description>-- > INGEN INTERNAL CASE FILE #09382-1993 [ARGENTINOSAURUS HUINCULENSIS] CODENAME: COLOSSUS >65
+
+A humongous sauropod with emerald skin. It is an incredible force of nature, able to crush predators under their weight with disgusting ease.</JRWArgentinosaurusReconstruct.description>
+  <!-- EN: left foot -->
+  <JRWArgentinosaurusReconstruct.tools.left_foot.label>left foot</JRWArgentinosaurusReconstruct.tools.left_foot.label>
+  <!-- EN: right foot -->
+  <JRWArgentinosaurusReconstruct.tools.right_foot.label>right foot</JRWArgentinosaurusReconstruct.tools.right_foot.label>
+  <!-- EN: head -->
+  <JRWArgentinosaurusReconstruct.tools.head.label>head</JRWArgentinosaurusReconstruct.tools.head.label>
+</LanguageData>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Beelzebufo -->
+  <JRWBeelzebufo.label>Beelzebufo</JRWBeelzebufo.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #030292-2008 [BEELZEBUFO AMPINGA] CODENAME: LORD-OF-THE-FLIES >492\n\nA large species of extinct frog that often preyed upon small creatures and juvenile dinosaurs due to their large mouth and strong bite force. The horns over their eyes and their large size inspired their rather demonic name. While attacks on humans are more of a terriying nuisance than any real danger, the sheer weight behind their jaws is enough to seriously bruise skin and, in rare cases, even fracture bones. -->
+  <JRWBeelzebufo.description>-- > INGEN INTERNAL CASE FILE #030292-2008 [BEELZEBUFO AMPINGA] CODENAME: LORD-OF-THE-FLIES >492
+
+A large species of extinct frog that often preyed upon small creatures and juvenile dinosaurs due to their large mouth and strong bite force. The horns over their eyes and their large size inspired their rather demonic name. While attacks on humans are more of a terriying nuisance than any real danger, the sheer weight behind their jaws is enough to seriously bruise skin and, in rare cases, even fracture bones.</JRWBeelzebufo.description>
+  <!-- EN: jaw -->
+  <JRWBeelzebufo.tools.jaw.label>jaw</JRWBeelzebufo.tools.jaw.label>
+  <!-- EN: maxillary teeth -->
+  <JRWBeelzebufo.tools.maxillary_teeth.label>maxillary teeth</JRWBeelzebufo.tools.maxillary_teeth.label>
+</LanguageData>

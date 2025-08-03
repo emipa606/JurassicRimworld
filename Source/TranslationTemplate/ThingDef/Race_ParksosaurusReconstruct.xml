@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Parksosaurus -->
+  <JRWParksosaurusReconstruct.label>Parksosaurus</JRWParksosaurusReconstruct.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #098765-1926 [PARKSOSAURUS WARRENI] CODENAME: ARTHUR >0953\n\nA purple-shaded hypsilophodont ornithopod that travels in large herds. Their tiny size and speed are their greatest asset in attempting to survive in a hositle world. Often preyed upon by carnivores larger than themselves, these dinosaurs are often wary of approaching colonists and creatures alike, and will often flee at sudden noises or movements. Sometimes they congregate around larger herbivores for protection. -->
+  <JRWParksosaurusReconstruct.description>-- > INGEN INTERNAL CASE FILE #098765-1926 [PARKSOSAURUS WARRENI] CODENAME: ARTHUR >0953
+
+A purple-shaded hypsilophodont ornithopod that travels in large herds. Their tiny size and speed are their greatest asset in attempting to survive in a hositle world. Often preyed upon by carnivores larger than themselves, these dinosaurs are often wary of approaching colonists and creatures alike, and will often flee at sudden noises or movements. Sometimes they congregate around larger herbivores for protection.</JRWParksosaurusReconstruct.description>
+  <!-- EN: left claw -->
+  <JRWParksosaurusReconstruct.tools.left_claw.label>left claw</JRWParksosaurusReconstruct.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <JRWParksosaurusReconstruct.tools.right_claw.label>right claw</JRWParksosaurusReconstruct.tools.right_claw.label>
+  <!-- EN: teeth -->
+  <JRWParksosaurusReconstruct.tools.teeth.label>teeth</JRWParksosaurusReconstruct.tools.teeth.label>
+  <!-- EN: head -->
+  <JRWParksosaurusReconstruct.tools.head.label>head</JRWParksosaurusReconstruct.tools.head.label>
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Bernicia -->
+  <JRWBernicia.label>Bernicia</JRWBernicia.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #0244439-1927 [BERNICIA PRAECURSOR] CODENAME: SHELL >355\n\nSlow and friendly, these big extinct snails are a cute - albeit slimy - addition to any colony. Looking past their incredibly slow speed, these gastropod wonders have insanely strong shells, and can secrete a ruddy copper paste that, when dried, can be used as a hard plastic. -->
+  <JRWBernicia.description>-- > INGEN INTERNAL CASE FILE #0244439-1927 [BERNICIA PRAECURSOR] CODENAME: SHELL >355
+
+Slow and friendly, these big extinct snails are a cute - albeit slimy - addition to any colony. Looking past their incredibly slow speed, these gastropod wonders have insanely strong shells, and can secrete a ruddy copper paste that, when dried, can be used as a hard plastic.</JRWBernicia.description>
+  <!-- EN: head -->
+  <JRWBernicia.tools.head.label>head</JRWBernicia.tools.head.label>
+</LanguageData>

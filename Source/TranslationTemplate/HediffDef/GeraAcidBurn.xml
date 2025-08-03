@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: acid burn -->
+  <GeraAcidBurn.label>acid burn</GeraAcidBurn.label>
+  <!-- EN: A severe rash of an acid burn. Can cause infection if left untreated. -->
+  <GeraAcidBurn.description>A severe rash of an acid burn. Can cause infection if left untreated.</GeraAcidBurn.description>
+  <!-- EN: acid burn scar -->
+  <GeraAcidBurn.comps.HediffComp_GetsPermanent.permanentLabel>acid burn scar</GeraAcidBurn.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: burned off -->
+  <GeraAcidBurn.injuryProps.destroyedOutLabel>burned off</GeraAcidBurn.injuryProps.destroyedOutLabel>
+  <!-- EN: an acid burn -->
+  <GeraAcidBurn.labelNoun>an acid burn</GeraAcidBurn.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <GeraAcidBurn.labelNounPretty>{0} in the {1}</GeraAcidBurn.labelNounPretty>
+</LanguageData>

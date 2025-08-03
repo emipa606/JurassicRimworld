@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: acid burn -->
+  <GeraAcidBurn.label>acid burn</GeraAcidBurn.label>
+  <!-- EN: {0} has been acid burned to death. -->
+  <GeraAcidBurn.deathMessage>{0} has been acid burned to death.</GeraAcidBurn.deathMessage>
+</LanguageData>

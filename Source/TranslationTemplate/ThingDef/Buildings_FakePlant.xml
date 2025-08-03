@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: evergreen plant -->
+  <FakePlant.label>evergreen plant</FakePlant.label>
+  <!-- EN: A plant that won't ever wither away, even in the coldest, most volatile environment.\n\nRotate this item to switch between one of three possible plants. -->
+  <FakePlant.description>A plant that won't ever wither away, even in the coldest, most volatile environment.
+
+Rotate this item to switch between one of three possible plants.</FakePlant.description>
+  <!-- EN: evergreen tree -->
+  <FakePlantTwo.label>evergreen tree</FakePlantTwo.label>
+  <!-- EN: A tree that won't ever wither away, even in the coldest, most volatile environment.\n\nRotate this item to switch between one of three possible trees. -->
+  <FakePlantTwo.description>A tree that won't ever wither away, even in the coldest, most volatile environment.
+
+Rotate this item to switch between one of three possible trees.</FakePlantTwo.description>
+</LanguageData>

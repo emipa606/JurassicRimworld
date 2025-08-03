@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Hypsilophodon -->
+  <JRWHypsilophodon.label>Hypsilophodon</JRWHypsilophodon.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #0112-1869 [HYPSILOPHODON FOXII] CODENAME: OAK >369\n\nA small verdant green ornithischian. Quite playful, they will often take interest in wandering colonists and trade caravans, tailgating them for some time. -->
+  <JRWHypsilophodon.description>-- > INGEN INTERNAL CASE FILE #0112-1869 [HYPSILOPHODON FOXII] CODENAME: OAK >369
+
+A small verdant green ornithischian. Quite playful, they will often take interest in wandering colonists and trade caravans, tailgating them for some time.</JRWHypsilophodon.description>
+  <!-- EN: left claw -->
+  <JRWHypsilophodon.tools.left_claw.label>left claw</JRWHypsilophodon.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <JRWHypsilophodon.tools.right_claw.label>right claw</JRWHypsilophodon.tools.right_claw.label>
+  <!-- EN: teeth -->
+  <JRWHypsilophodon.tools.teeth.label>teeth</JRWHypsilophodon.tools.teeth.label>
+  <!-- EN: head -->
+  <JRWHypsilophodon.tools.head.label>head</JRWHypsilophodon.tools.head.label>
+</LanguageData>

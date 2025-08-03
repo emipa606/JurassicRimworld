@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Dimetrodon -->
+  <JRWDimetrodonReconstruct.label>Dimetrodon</JRWDimetrodonReconstruct.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #07281-1914 [DIMETRODON GRANDIS] CODENAME: CLAMP-JAW >212\n\nA carnivorous synapsid with a prominent sail along its back. Their jaws are incredibly powerful. Once they latch on, they ain't letting go. -->
+  <JRWDimetrodonReconstruct.description>-- > INGEN INTERNAL CASE FILE #07281-1914 [DIMETRODON GRANDIS] CODENAME: CLAMP-JAW >212
+
+A carnivorous synapsid with a prominent sail along its back. Their jaws are incredibly powerful. Once they latch on, they ain't letting go.</JRWDimetrodonReconstruct.description>
+  <!-- EN: left claw -->
+  <JRWDimetrodonReconstruct.tools.left_claw.label>left claw</JRWDimetrodonReconstruct.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <JRWDimetrodonReconstruct.tools.right_claw.label>right claw</JRWDimetrodonReconstruct.tools.right_claw.label>
+  <!-- EN: teeth -->
+  <JRWDimetrodonReconstruct.tools.teeth.label>teeth</JRWDimetrodonReconstruct.tools.teeth.label>
+  <!-- EN: head -->
+  <JRWDimetrodonReconstruct.tools.head.label>head</JRWDimetrodonReconstruct.tools.head.label>
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Euoplocephalus -->
+  <JRWEuoplocephalusReconstruct.label>Euoplocephalus</JRWEuoplocephalusReconstruct.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #09663-1910 [EUOPLOCEPHALUS TUTUS] CODENAME: CROWN >355\n\nA powerful and tanky ankylosaurid that is more brawn than brain. Gentle and docile until angered, these dinosaurs pack a very painful punch when enraged. -->
+  <JRWEuoplocephalusReconstruct.description>-- > INGEN INTERNAL CASE FILE #09663-1910 [EUOPLOCEPHALUS TUTUS] CODENAME: CROWN >355
+
+A powerful and tanky ankylosaurid that is more brawn than brain. Gentle and docile until angered, these dinosaurs pack a very painful punch when enraged.</JRWEuoplocephalusReconstruct.description>
+  <!-- EN: tail -->
+  <JRWEuoplocephalusReconstruct.tools.tail.label>tail</JRWEuoplocephalusReconstruct.tools.tail.label>
+</LanguageData>

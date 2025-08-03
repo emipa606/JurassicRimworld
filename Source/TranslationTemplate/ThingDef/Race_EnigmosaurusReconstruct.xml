@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Enigmosaurus -->
+  <JRWEnigmosaurusReconstruct.label>Enigmosaurus</JRWEnigmosaurusReconstruct.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #06380-1983 [ENIGMOSAURUS MONGOLIENSIS] CODENAME: RIDDLE >592\n\nA therizinosauroid theropod covered in short, downy fuzz similar to that of an emu. Their name derives from the unusual shape of the hip bone due to the fact that, at the time of discovery, there was little known about therizinosauroids. Their sharp claws are well suited to slicing branches and crushing small trees, as well as defending themselves should they need to. -->
+  <JRWEnigmosaurusReconstruct.description>-- > INGEN INTERNAL CASE FILE #06380-1983 [ENIGMOSAURUS MONGOLIENSIS] CODENAME: RIDDLE >592
+
+A therizinosauroid theropod covered in short, downy fuzz similar to that of an emu. Their name derives from the unusual shape of the hip bone due to the fact that, at the time of discovery, there was little known about therizinosauroids. Their sharp claws are well suited to slicing branches and crushing small trees, as well as defending themselves should they need to.</JRWEnigmosaurusReconstruct.description>
+  <!-- EN: left claw -->
+  <JRWEnigmosaurusReconstruct.tools.left_claw.label>left claw</JRWEnigmosaurusReconstruct.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <JRWEnigmosaurusReconstruct.tools.right_claw.label>right claw</JRWEnigmosaurusReconstruct.tools.right_claw.label>
+  <!-- EN: head -->
+  <JRWEnigmosaurusReconstruct.tools.head.label>head</JRWEnigmosaurusReconstruct.tools.head.label>
+</LanguageData>

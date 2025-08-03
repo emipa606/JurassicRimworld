@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Drinker -->
+  <JRWDrinkerReconstruct.label>Drinker</JRWDrinkerReconstruct.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #039274-1990 [DRINKER NISTI] CODENAME: IMBIBE >462\n\nA dinosaur with quite an unusual name... until it was reclassified as Nanosaurus in 2018, alongside Othnielosaurus. The history of Nanosaurus - and the many taxonomic revisions of heterodontosaurids - is long and complicated, spanning from the 70's all the way up until today! -->
+  <JRWDrinkerReconstruct.description>-- > INGEN INTERNAL CASE FILE #039274-1990 [DRINKER NISTI] CODENAME: IMBIBE >462
+
+A dinosaur with quite an unusual name... until it was reclassified as Nanosaurus in 2018, alongside Othnielosaurus. The history of Nanosaurus - and the many taxonomic revisions of heterodontosaurids - is long and complicated, spanning from the 70's all the way up until today!</JRWDrinkerReconstruct.description>
+  <!-- EN: left claw -->
+  <JRWDrinkerReconstruct.tools.left_claw.label>left claw</JRWDrinkerReconstruct.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <JRWDrinkerReconstruct.tools.right_claw.label>right claw</JRWDrinkerReconstruct.tools.right_claw.label>
+  <!-- EN: teeth -->
+  <JRWDrinkerReconstruct.tools.teeth.label>teeth</JRWDrinkerReconstruct.tools.teeth.label>
+  <!-- EN: head -->
+  <JRWDrinkerReconstruct.tools.head.label>head</JRWDrinkerReconstruct.tools.head.label>
+</LanguageData>

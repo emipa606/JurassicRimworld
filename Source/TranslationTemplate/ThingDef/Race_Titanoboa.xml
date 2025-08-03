@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: titanoboa -->
+  <JRWTitanoboa.label>titanoboa</JRWTitanoboa.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #07823-2009 [TITANOBOA CERREJONENSIS] CODENAME: J�RMUNGANDR >32572\n\nA gigantic species of snake that could reach up to 12 metres long and weighed nearly 1,135 kg! Despite their tendency to hunt on land, Titanoboa was thought to be primary piscivorous. -->
+  <JRWTitanoboa.description>-- > INGEN INTERNAL CASE FILE #07823-2009 [TITANOBOA CERREJONENSIS] CODENAME: J�RMUNGANDR >32572
+
+A gigantic species of snake that could reach up to 12 metres long and weighed nearly 1,135 kg! Despite their tendency to hunt on land, Titanoboa was thought to be primary piscivorous.</JRWTitanoboa.description>
+  <!-- EN: fangs -->
+  <JRWTitanoboa.tools.fangs.label>fangs</JRWTitanoboa.tools.fangs.label>
+  <!-- EN: head -->
+  <JRWTitanoboa.tools.head.label>head</JRWTitanoboa.tools.head.label>
+</LanguageData>

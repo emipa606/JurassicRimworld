@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Segnosaurus -->
+  <JRWSegnosaurusReconstruct.label>Segnosaurus</JRWSegnosaurusReconstruct.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #04938-1979 [SEGNOSAURUS GALBINENSIS] CODENAME: VEGAS >932\n\nA therizinosauroid theropod covered in multicoloured feathers. Despite their rather flamboyant appearence these dinosaurs are more than capable of fending off predators and attackers alike, their feathery paws hiding ferociously sharp claws that can cut through flesh and scale like scissors glide through paper. -->
+  <JRWSegnosaurusReconstruct.description>-- > INGEN INTERNAL CASE FILE #04938-1979 [SEGNOSAURUS GALBINENSIS] CODENAME: VEGAS >932
+
+A therizinosauroid theropod covered in multicoloured feathers. Despite their rather flamboyant appearence these dinosaurs are more than capable of fending off predators and attackers alike, their feathery paws hiding ferociously sharp claws that can cut through flesh and scale like scissors glide through paper.</JRWSegnosaurusReconstruct.description>
+  <!-- EN: left claw -->
+  <JRWSegnosaurusReconstruct.tools.left_claw.label>left claw</JRWSegnosaurusReconstruct.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <JRWSegnosaurusReconstruct.tools.right_claw.label>right claw</JRWSegnosaurusReconstruct.tools.right_claw.label>
+  <!-- EN: head -->
+  <JRWSegnosaurusReconstruct.tools.head.label>head</JRWSegnosaurusReconstruct.tools.head.label>
+</LanguageData>

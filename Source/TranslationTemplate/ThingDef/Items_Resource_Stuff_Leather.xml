@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Ivory ironhide -->
+  <Leather_Indominus.label>Ivory ironhide</Leather_Indominus.label>
+  <!-- EN: An ivory hide that sends chills down the spine of anyone who sees it. Scarred and gouged from many countless battles. -->
+  <Leather_Indominus.description>An ivory hide that sends chills down the spine of anyone who sees it. Scarred and gouged from many countless battles.</Leather_Indominus.description>
+  <!-- EN: Ebony ironhide -->
+  <Leather_Indoraptor.label>Ebony ironhide</Leather_Indoraptor.label>
+  <!-- EN: An ebony hide that causes fear and disgust in all who hold it. Scarred and gouged from many countless battles. -->
+  <Leather_Indoraptor.description>An ebony hide that causes fear and disgust in all who hold it. Scarred and gouged from many countless battles.</Leather_Indoraptor.description>
+  <!-- EN: dinosaur ironhide -->
+  <Leather_LargeDino.label>dinosaur ironhide</Leather_LargeDino.label>
+  <!-- EN: Unbelievably durable dinosaur skin that many people swear by. Offers protection from both incoming attacks and the elements. -->
+  <Leather_LargeDino.description>Unbelievably durable dinosaur skin that many people swear by. Offers protection from both incoming attacks and the elements.</Leather_LargeDino.description>
+  <!-- EN: dinosaur hardskin -->
+  <Leather_MediumDino.label>dinosaur hardskin</Leather_MediumDino.label>
+  <!-- EN: Knobbly, smooth dinosaur hide that offers good durability but suffers from environmental effects. -->
+  <Leather_MediumDino.description>Knobbly, smooth dinosaur hide that offers good durability but suffers from environmental effects.</Leather_MediumDino.description>
+  <!-- EN: dinosaur scalefell -->
+  <Leather_SmallDino.label>dinosaur scalefell</Leather_SmallDino.label>
+  <!-- EN: Dried skin of a dinosaur, taken from a smaller specimen. A well rounded, all-purpose leather to use. -->
+  <Leather_SmallDino.description>Dried skin of a dinosaur, taken from a smaller specimen. A well rounded, all-purpose leather to use.</Leather_SmallDino.description>
+</LanguageData>

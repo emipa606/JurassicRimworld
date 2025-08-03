@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Evergreen Floor -->
+  <FloorEvergreen.label>Evergreen Floor</FloorEvergreen.label>
+  <!-- EN: A moss blanket that will never wither nor die. Useful for indoor exhibits or aviary domes. -->
+  <FloorEvergreen.description>A moss blanket that will never wither nor die. Useful for indoor exhibits or aviary domes.</FloorEvergreen.description>
+  <!-- EN: Paved Floor -->
+  <FloorPavedDino.label>Paved Floor</FloorPavedDino.label>
+  <!-- EN: Tan coloured rounded slabs laid out in an interlocking pattern. Often used as paths. -->
+  <FloorPavedDino.description>Tan coloured rounded slabs laid out in an interlocking pattern. Often used as paths.</FloorPavedDino.description>
+  <!-- EN: Tiled Floor -->
+  <FloorTileDino.label>Tiled Floor</FloorTileDino.label>
+  <!-- EN: Usually acts as a border. Grey slabs of stone laid out in a tiled fashion. -->
+  <FloorTileDino.description>Usually acts as a border. Grey slabs of stone laid out in a tiled fashion.</FloorTileDino.description>
+  <!-- EN: Water -->
+  <FloorWaterDino.label>Water</FloorWaterDino.label>
+  <!-- EN: A ditch of shallow water. Perfect for watering holes or estuarine dinosaurs. -->
+  <FloorWaterDino.description>A ditch of shallow water. Perfect for watering holes or estuarine dinosaurs.</FloorWaterDino.description>
+  <!-- EN: water -->
+  <FloorWaterDino.tools.water.label>water</FloorWaterDino.tools.water.label>
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Acrocanthosaurus -->
+  <JRWAcrocanthosaurus.label>Acrocanthosaurus</JRWAcrocanthosaurus.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #038292-1950 [ACROCANTHOSAURUS ATOKENSIS] CODENAME: MIDAS >9\n\nA large, dangerous theropod with golden skin. Its incredibly powerful bite can tear the flesh of a colonist apart like a hot knife through butter. -->
+  <JRWAcrocanthosaurus.description>-- > INGEN INTERNAL CASE FILE #038292-1950 [ACROCANTHOSAURUS ATOKENSIS] CODENAME: MIDAS >9
+
+A large, dangerous theropod with golden skin. Its incredibly powerful bite can tear the flesh of a colonist apart like a hot knife through butter.</JRWAcrocanthosaurus.description>
+  <!-- EN: dino meat -->
+  <JRWAcrocanthosaurus.race.meatLabel>dino meat</JRWAcrocanthosaurus.race.meatLabel>
+</LanguageData>

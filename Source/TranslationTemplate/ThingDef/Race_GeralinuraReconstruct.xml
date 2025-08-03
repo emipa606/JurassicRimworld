@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Geralinura -->
+  <JRWGeralinuraReconstruct.label>Geralinura</JRWGeralinuraReconstruct.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #034449-1911 [GERALINURA BRITANNICA] CODENAME: ACID >3246\n\nA large, extinct species of vinegaroon. Their claws boast incredible strength, and, when threatened, they can unleash a large cloud of acidic spray from their long, antennae like tail. At smaller sizes, this merely stings, but the sheer size of these specimens can leave severe acid burns. -->
+  <JRWGeralinuraReconstruct.description>-- > INGEN INTERNAL CASE FILE #034449-1911 [GERALINURA BRITANNICA] CODENAME: ACID >3246
+
+A large, extinct species of vinegaroon. Their claws boast incredible strength, and, when threatened, they can unleash a large cloud of acidic spray from their long, antennae like tail. At smaller sizes, this merely stings, but the sheer size of these specimens can leave severe acid burns.</JRWGeralinuraReconstruct.description>
+  <!-- EN: flagellum -->
+  <JRWGeralinuraReconstruct.tools.flagellum.label>flagellum</JRWGeralinuraReconstruct.tools.flagellum.label>
+  <!-- EN: pincers -->
+  <JRWGeralinuraReconstruct.tools.pincers.label>pincers</JRWGeralinuraReconstruct.tools.pincers.label>
+</LanguageData>

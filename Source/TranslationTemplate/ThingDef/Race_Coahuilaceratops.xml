@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Coahuilaceratops -->
+  <JRWCoahuilaceratops.label>Coahuilaceratops</JRWCoahuilaceratops.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #09383-2010 [COAHUILACERATOPS MAGNACUERNA] CODENAME: MARIGOLD >70\n\nA bulky chasmosaurine ceratopsian that has integrated well into the harsh life on the rim. The markings on their frill have proven effective at scaring predators away. -->
+  <JRWCoahuilaceratops.description>-- > INGEN INTERNAL CASE FILE #09383-2010 [COAHUILACERATOPS MAGNACUERNA] CODENAME: MARIGOLD >70
+
+A bulky chasmosaurine ceratopsian that has integrated well into the harsh life on the rim. The markings on their frill have proven effective at scaring predators away.</JRWCoahuilaceratops.description>
+  <!-- EN: horn -->
+  <JRWCoahuilaceratops.tools.horn-0.label>horn</JRWCoahuilaceratops.tools.horn-0.label>
+  <!-- EN: horn -->
+  <JRWCoahuilaceratops.tools.horn-1.label>horn</JRWCoahuilaceratops.tools.horn-1.label>
+  <!-- EN: head -->
+  <JRWCoahuilaceratops.tools.head.label>head</JRWCoahuilaceratops.tools.head.label>
+</LanguageData>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Kosmoceratops -->
+  <JRWKosmoceratops.label>Kosmoceratops</JRWKosmoceratops.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #07822-2010 [KOSMOCERATOPS RICHARDSONI] CODENAME: ORNAMENT >777\n\nA chasmosaurine ceratopsian with an incredible display frill on their crest. Known amusingly as 'the horniest dinosaur ever discovered' they have a whopping fifteen horn like structures on their face. -->
+  <JRWKosmoceratops.description>-- > INGEN INTERNAL CASE FILE #07822-2010 [KOSMOCERATOPS RICHARDSONI] CODENAME: ORNAMENT >777
+
+A chasmosaurine ceratopsian with an incredible display frill on their crest. Known amusingly as 'the horniest dinosaur ever discovered' they have a whopping fifteen horn like structures on their face.</JRWKosmoceratops.description>
+  <!-- EN: horn -->
+  <JRWKosmoceratops.tools.horn-0.label>horn</JRWKosmoceratops.tools.horn-0.label>
+  <!-- EN: horn -->
+  <JRWKosmoceratops.tools.horn-1.label>horn</JRWKosmoceratops.tools.horn-1.label>
+  <!-- EN: head -->
+  <JRWKosmoceratops.tools.head.label>head</JRWKosmoceratops.tools.head.label>
+</LanguageData>

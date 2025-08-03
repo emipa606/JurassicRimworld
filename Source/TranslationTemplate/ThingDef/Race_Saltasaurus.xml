@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Saltasaurus -->
+  <JRWSaltasaurus.label>Saltasaurus</JRWSaltasaurus.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #099362-1985 [SALTASAURUS TITUSI] CODENAME: PEBBLESTONE >5\n\nA large sauropod covered in knobbly osteoderms. These greatly improve defense alongside its humongous side and strength. -->
+  <JRWSaltasaurus.description>-- > INGEN INTERNAL CASE FILE #099362-1985 [SALTASAURUS TITUSI] CODENAME: PEBBLESTONE >5
+
+A large sauropod covered in knobbly osteoderms. These greatly improve defense alongside its humongous side and strength.</JRWSaltasaurus.description>
+  <!-- EN: left foot -->
+  <JRWSaltasaurus.tools.left_foot.label>left foot</JRWSaltasaurus.tools.left_foot.label>
+  <!-- EN: right foot -->
+  <JRWSaltasaurus.tools.right_foot.label>right foot</JRWSaltasaurus.tools.right_foot.label>
+  <!-- EN: head -->
+  <JRWSaltasaurus.tools.head.label>head</JRWSaltasaurus.tools.head.label>
+</LanguageData>

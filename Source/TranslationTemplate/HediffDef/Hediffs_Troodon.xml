@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: venemous bite -->
+  <TroodonVenomBite.label>venemous bite</TroodonVenomBite.label>
+  <!-- EN: A bite dripping with venom. Said venom can cause loss of consciousness, mental breaks and eventual death if left untreated. -->
+  <TroodonVenomBite.description>A bite dripping with venom. Said venom can cause loss of consciousness, mental breaks and eventual death if left untreated.</TroodonVenomBite.description>
+  <!-- EN: initial -->
+  <TroodonVenomBite.stages.initial-0.label>initial</TroodonVenomBite.stages.initial-0.label>
+  <!-- EN: initial -->
+  <TroodonVenomBite.stages.initial-1.label>initial</TroodonVenomBite.stages.initial-1.label>
+  <!-- EN: minor -->
+  <TroodonVenomBite.stages.minor.label>minor</TroodonVenomBite.stages.minor.label>
+  <!-- EN: moderate -->
+  <TroodonVenomBite.stages.moderate.label>moderate</TroodonVenomBite.stages.moderate.label>
+  <!-- EN: serious -->
+  <TroodonVenomBite.stages.serious.label>serious</TroodonVenomBite.stages.serious.label>
+  <!-- EN: extreme -->
+  <TroodonVenomBite.stages.extreme.label>extreme</TroodonVenomBite.stages.extreme.label>
+</LanguageData>

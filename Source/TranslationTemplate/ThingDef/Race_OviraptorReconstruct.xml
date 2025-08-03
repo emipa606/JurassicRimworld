@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Oviraptor -->
+  <JRWOviraptorReconstruct.label>Oviraptor</JRWOviraptorReconstruct.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #038292-1924 [OVIRAPTOR PHILOCERATOPS] CODENAME: KLEPTO >6\n\nA nimble, scrawny theropod that loves shiny things and unwanted debris. If given an inch, they'll even steal the clothes off your back. -->
+  <JRWOviraptorReconstruct.description>-- > INGEN INTERNAL CASE FILE #038292-1924 [OVIRAPTOR PHILOCERATOPS] CODENAME: KLEPTO >6
+
+A nimble, scrawny theropod that loves shiny things and unwanted debris. If given an inch, they'll even steal the clothes off your back.</JRWOviraptorReconstruct.description>
+  <!-- EN: left claw -->
+  <JRWOviraptorReconstruct.tools.left_claw.label>left claw</JRWOviraptorReconstruct.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <JRWOviraptorReconstruct.tools.right_claw.label>right claw</JRWOviraptorReconstruct.tools.right_claw.label>
+  <!-- EN: teeth -->
+  <JRWOviraptorReconstruct.tools.teeth.label>teeth</JRWOviraptorReconstruct.tools.teeth.label>
+  <!-- EN: head -->
+  <JRWOviraptorReconstruct.tools.head.label>head</JRWOviraptorReconstruct.tools.head.label>
+</LanguageData>

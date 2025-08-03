@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Stegosaurus -->
+  <JRWStegosaurusReconstruct.label>Stegosaurus</JRWStegosaurusReconstruct.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #03729-1887 [STEGOSAURUS STENOPS] CODENAME: THYREOS >230\n\nA very famous stegosaurid. They are protective over their young, but are often very forgiving of intruders to their stomping grounds, unless they pose a threat. They wield their tail deftly. -->
+  <JRWStegosaurusReconstruct.description>-- > INGEN INTERNAL CASE FILE #03729-1887 [STEGOSAURUS STENOPS] CODENAME: THYREOS >230
+
+A very famous stegosaurid. They are protective over their young, but are often very forgiving of intruders to their stomping grounds, unless they pose a threat. They wield their tail deftly.</JRWStegosaurusReconstruct.description>
+  <!-- EN: tail -->
+  <JRWStegosaurusReconstruct.tools.tail.label>tail</JRWStegosaurusReconstruct.tools.tail.label>
+</LanguageData>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: embryonic chamber -->
+  <EmbryonicChamber.label>embryonic chamber</EmbryonicChamber.label>
+  <!-- EN: An embryonic chamber that holds valuable inforamation. Building one near a DNA reconstruction or amber extraction bench will give a boon to their work speed. Placing more than one has no effect. -->
+  <EmbryonicChamber.description>An embryonic chamber that holds valuable inforamation. Building one near a DNA reconstruction or amber extraction bench will give a boon to their work speed. Placing more than one has no effect.</EmbryonicChamber.description>
+</LanguageData>

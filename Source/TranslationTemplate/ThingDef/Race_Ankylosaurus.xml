@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Ankylosaurus -->
+  <JRWAnkylosaurus.label>Ankylosaurus</JRWAnkylosaurus.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #02817-1908 [ANKYLOSAURUS MAGNIVENTRIS] CODENAME: CHURCHILL >25\n\nA strong, armour plated ankylosaurid with a distinct clubbed tail. Many skulls have been crushed thanks to the sheer force it wields. -->
+  <JRWAnkylosaurus.description>-- > INGEN INTERNAL CASE FILE #02817-1908 [ANKYLOSAURUS MAGNIVENTRIS] CODENAME: CHURCHILL >25
+
+A strong, armour plated ankylosaurid with a distinct clubbed tail. Many skulls have been crushed thanks to the sheer force it wields.</JRWAnkylosaurus.description>
+  <!-- EN: tail -->
+  <JRWAnkylosaurus.tools.tail.label>tail</JRWAnkylosaurus.tools.tail.label>
+</LanguageData>

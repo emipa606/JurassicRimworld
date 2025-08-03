@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Torosaurus -->
+  <JRWTorosaurus.label>Torosaurus</JRWTorosaurus.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #0481-1891 [TOROSAURUS LATUS] CODENAME: PERFORATE >732\n\nA small ceratopsian with a slender, almost flat frill. Recent studies suggest that it and Triceratops horridus are perhaps the same creature, leaving the genus dubious, but valid, for now. -->
+  <JRWTorosaurus.description>-- > INGEN INTERNAL CASE FILE #0481-1891 [TOROSAURUS LATUS] CODENAME: PERFORATE >732
+
+A small ceratopsian with a slender, almost flat frill. Recent studies suggest that it and Triceratops horridus are perhaps the same creature, leaving the genus dubious, but valid, for now.</JRWTorosaurus.description>
+  <!-- EN: horn -->
+  <JRWTorosaurus.tools.horn-0.label>horn</JRWTorosaurus.tools.horn-0.label>
+  <!-- EN: horn -->
+  <JRWTorosaurus.tools.horn-1.label>horn</JRWTorosaurus.tools.horn-1.label>
+  <!-- EN: head -->
+  <JRWTorosaurus.tools.head.label>head</JRWTorosaurus.tools.head.label>
+</LanguageData>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: coprolite rocks -->
+  <CoproliteRocks.label>coprolite rocks</CoproliteRocks.label>
+  <!-- EN: A snack from a vending machine. Delicious chocolate balls with a crunchy hazelnut center. -->
+  <CoproliteRocks.description>A snack from a vending machine. Delicious chocolate balls with a crunchy hazelnut center.</CoproliteRocks.description>
+  <!-- EN: lava flow -->
+  <LavaFlow.label>lava flow</LavaFlow.label>
+  <!-- EN: A drink from a vending machine. A thick, fruity smoothie made from red fruits and vegetables. Yummy! -->
+  <LavaFlow.description>A drink from a vending machine. A thick, fruity smoothie made from red fruits and vegetables. Yummy!</LavaFlow.description>
+  <!-- EN: paleobar -->
+  <Paleobar.label>paleobar</Paleobar.label>
+  <!-- EN: A snack from a vending machine. A healthy snack compressed into a small, energy-rich bar, made out of oats, nuts and... grass? -->
+  <Paleobar.description>A snack from a vending machine. A healthy snack compressed into a small, energy-rich bar, made out of oats, nuts and... grass?</Paleobar.description>
+  <!-- EN: sorna punch -->
+  <SornaPunch.label>sorna punch</SornaPunch.label>
+  <!-- EN: A drink from a vending machine. A tropical, sugary drink that makes you tingle all over. Fizzy! -->
+  <SornaPunch.description>A drink from a vending machine. A tropical, sugary drink that makes you tingle all over. Fizzy!</SornaPunch.description>
+</LanguageData>

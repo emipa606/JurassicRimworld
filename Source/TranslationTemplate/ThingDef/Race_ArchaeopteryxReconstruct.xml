@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Archaeopteryx -->
+  <JRWArchaeopteryxReconstruct.label>Archaeopteryx</JRWArchaeopteryxReconstruct.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #023423-1861 [ARCHAEOPTERYX SIEMENSII] CODENAME: URVOGEL >150\n\nAn extremely important dinosaur in the quest to understand their evolution, this avialan critter solidified the link between dinosaurs and modern day birds. Archaeopteryx were thought to be the first dinosaurs capable of powered flight. They are often found wandering forest floors looking for grubs or other insects to nibble, and are generally a quite peaceful animal. -->
+  <JRWArchaeopteryxReconstruct.description>-- > INGEN INTERNAL CASE FILE #023423-1861 [ARCHAEOPTERYX SIEMENSII] CODENAME: URVOGEL >150
+
+An extremely important dinosaur in the quest to understand their evolution, this avialan critter solidified the link between dinosaurs and modern day birds. Archaeopteryx were thought to be the first dinosaurs capable of powered flight. They are often found wandering forest floors looking for grubs or other insects to nibble, and are generally a quite peaceful animal.</JRWArchaeopteryxReconstruct.description>
+  <!-- EN: left claw -->
+  <JRWArchaeopteryxReconstruct.tools.left_claw.label>left claw</JRWArchaeopteryxReconstruct.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <JRWArchaeopteryxReconstruct.tools.right_claw.label>right claw</JRWArchaeopteryxReconstruct.tools.right_claw.label>
+  <!-- EN: teeth -->
+  <JRWArchaeopteryxReconstruct.tools.teeth.label>teeth</JRWArchaeopteryxReconstruct.tools.teeth.label>
+  <!-- EN: head -->
+  <JRWArchaeopteryxReconstruct.tools.head.label>head</JRWArchaeopteryxReconstruct.tools.head.label>
+</LanguageData>

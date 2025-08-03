@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: extract DNA -->
+  <ExtractDNA.label>extract DNA</ExtractDNA.label>
+  <!-- EN: extract DNA -->
+  <ExtractDNA.description>extract DNA</ExtractDNA.description>
+  <!-- EN: extracting DNA -->
+  <ExtractDNA.jobString>extracting DNA</ExtractDNA.jobString>
+</LanguageData>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Hylonomus -->
+  <JRWHylonomusReconstruct.label>Hylonomus</JRWHylonomusReconstruct.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #023982-1860 [HYLONOMUS LYELLI] CODENAME: DWELLER >221\n\nThe earliest known reptile, unquestionable due to their fossil record, as other 'earlier' reptiles are potentially amphibians or too fragmentary to truly understand. Hylnomus are brightly oloured and friendly by nature, and make good pets. In the wild, they often compete with iguanas, filling a similar niche. -->
+  <JRWHylonomusReconstruct.description>-- > INGEN INTERNAL CASE FILE #023982-1860 [HYLONOMUS LYELLI] CODENAME: DWELLER >221
+
+The earliest known reptile, unquestionable due to their fossil record, as other 'earlier' reptiles are potentially amphibians or too fragmentary to truly understand. Hylnomus are brightly oloured and friendly by nature, and make good pets. In the wild, they often compete with iguanas, filling a similar niche.</JRWHylonomusReconstruct.description>
+  <!-- EN: left claw -->
+  <JRWHylonomusReconstruct.tools.left_claw.label>left claw</JRWHylonomusReconstruct.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <JRWHylonomusReconstruct.tools.right_claw.label>right claw</JRWHylonomusReconstruct.tools.right_claw.label>
+  <!-- EN: teeth -->
+  <JRWHylonomusReconstruct.tools.teeth.label>teeth</JRWHylonomusReconstruct.tools.teeth.label>
+  <!-- EN: head -->
+  <JRWHylonomusReconstruct.tools.head.label>head</JRWHylonomusReconstruct.tools.head.label>
+</LanguageData>

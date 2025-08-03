@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: small infoboard -->
+  <InfoboardSmall.label>small infoboard</InfoboardSmall.label>
+  <!-- EN: A small information board holding various entries on different dinosaurs. Glows slightly without power. -->
+  <InfoboardSmall.description>A small information board holding various entries on different dinosaurs. Glows slightly without power.</InfoboardSmall.description>
+</LanguageData>

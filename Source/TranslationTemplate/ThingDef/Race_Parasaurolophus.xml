@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Parasaurolophus -->
+  <JRWParasaurolophus.label>Parasaurolophus</JRWParasaurolophus.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #02839-1922 [PARASAUROLOPHUS WALKERI] CODENAME: NEAR-CREST >3228\n\nAn ornithopod dinosaur that walked in both a quadrupedal and bipedal stance. They are perhaps one of the most well known hadrosaurs. -->
+  <JRWParasaurolophus.description>-- > INGEN INTERNAL CASE FILE #02839-1922 [PARASAUROLOPHUS WALKERI] CODENAME: NEAR-CREST >3228
+
+An ornithopod dinosaur that walked in both a quadrupedal and bipedal stance. They are perhaps one of the most well known hadrosaurs.</JRWParasaurolophus.description>
+  <!-- EN: head -->
+  <JRWParasaurolophus.tools.head.label>head</JRWParasaurolophus.tools.head.label>
+</LanguageData>

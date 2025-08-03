@@ -9,7 +9,6 @@ internal class Main
 {
     static Main()
     {
-        var harmony = new Harmony("com.serpyderpy.rimworld.mod.JurassicRimworld");
-        harmony.PatchAll(Assembly.GetExecutingAssembly());
+        new Harmony("com.serpyderpy.rimworld.mod.JurassicRimworld").PatchAll(Assembly.GetExecutingAssembly());
     }
 }

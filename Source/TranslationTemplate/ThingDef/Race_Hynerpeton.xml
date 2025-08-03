@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Hynerpeton -->
+  <JRWHynerpeton.label>Hynerpeton</JRWHynerpeton.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #05911-1994 [HYNERPETON BASSETTI] CODENAME: CREEPER >494\n\nA amphibious creature that is well known from the shoulder girdle bone that allowed deeper understanding of how early amphibious vertebrates possibly moved, as well as interal muscular structures. They are small and often make popular pets in swampy regions. -->
+  <JRWHynerpeton.description>-- > INGEN INTERNAL CASE FILE #05911-1994 [HYNERPETON BASSETTI] CODENAME: CREEPER >494
+
+A amphibious creature that is well known from the shoulder girdle bone that allowed deeper understanding of how early amphibious vertebrates possibly moved, as well as interal muscular structures. They are small and often make popular pets in swampy regions.</JRWHynerpeton.description>
+  <!-- EN: left foot -->
+  <JRWHynerpeton.tools.left_foot.label>left foot</JRWHynerpeton.tools.left_foot.label>
+  <!-- EN: right foot -->
+  <JRWHynerpeton.tools.right_foot.label>right foot</JRWHynerpeton.tools.right_foot.label>
+  <!-- EN: jaw -->
+  <JRWHynerpeton.tools.jaw.label>jaw</JRWHynerpeton.tools.jaw.label>
+  <!-- EN: head -->
+  <JRWHynerpeton.tools.head.label>head</JRWHynerpeton.tools.head.label>
+</LanguageData>

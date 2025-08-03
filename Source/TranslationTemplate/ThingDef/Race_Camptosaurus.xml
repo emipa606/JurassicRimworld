@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Camptosaurus -->
+  <JRWCamptosaurus.label>Camptosaurus</JRWCamptosaurus.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #07183-1885 [CAMPTOSAURUS DISPAR] CODENAME: FLEX >37\n\nA docile ornithischian with a spotty hide. Their beak has thick ridges along the inside to help with shredding plant matter - and for nipping curious colonists. -->
+  <JRWCamptosaurus.description>-- > INGEN INTERNAL CASE FILE #07183-1885 [CAMPTOSAURUS DISPAR] CODENAME: FLEX >37
+
+A docile ornithischian with a spotty hide. Their beak has thick ridges along the inside to help with shredding plant matter - and for nipping curious colonists.</JRWCamptosaurus.description>
+  <!-- EN: head -->
+  <JRWCamptosaurus.tools.head.label>head</JRWCamptosaurus.tools.head.label>
+</LanguageData>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Caihong -->
+  <JRWCaihong.label>Caihong</JRWCaihong.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #03923-2018 [CAIHONG JUJI] CODENAME: PRISM >96\n\nA fairly new species of paravian theropod that shines a brilliant hue of rainbow colours. While not exactly strong, they are quite viscious and are not afraid to attack things bigger than itself. -->
+  <JRWCaihong.description>-- > INGEN INTERNAL CASE FILE #03923-2018 [CAIHONG JUJI] CODENAME: PRISM >96
+
+A fairly new species of paravian theropod that shines a brilliant hue of rainbow colours. While not exactly strong, they are quite viscious and are not afraid to attack things bigger than itself.</JRWCaihong.description>
+  <!-- EN: left claw -->
+  <JRWCaihong.tools.left_claw.label>left claw</JRWCaihong.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <JRWCaihong.tools.right_claw.label>right claw</JRWCaihong.tools.right_claw.label>
+  <!-- EN: teeth -->
+  <JRWCaihong.tools.teeth.label>teeth</JRWCaihong.tools.teeth.label>
+  <!-- EN: head -->
+  <JRWCaihong.tools.head.label>head</JRWCaihong.tools.head.label>
+</LanguageData>

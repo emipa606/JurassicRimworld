@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Homalocephale -->
+  <JRWHomalocephaleReconstruct.label>Homalocephale</JRWHomalocephaleReconstruct.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #093627-1974 [HOMALOCEPHALE CALATHOCERCOS] CODENAME: VALENTINE >4\n\nA small and generally docile pachycephalosaurid with a flat, heart shaped head. They can be seen gathering in large family herds for protection as they forage. -->
+  <JRWHomalocephaleReconstruct.description>-- > INGEN INTERNAL CASE FILE #093627-1974 [HOMALOCEPHALE CALATHOCERCOS] CODENAME: VALENTINE >4
+
+A small and generally docile pachycephalosaurid with a flat, heart shaped head. They can be seen gathering in large family herds for protection as they forage.</JRWHomalocephaleReconstruct.description>
+  <!-- EN: left claw -->
+  <JRWHomalocephaleReconstruct.tools.left_claw.label>left claw</JRWHomalocephaleReconstruct.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <JRWHomalocephaleReconstruct.tools.right_claw.label>right claw</JRWHomalocephaleReconstruct.tools.right_claw.label>
+  <!-- EN: teeth -->
+  <JRWHomalocephaleReconstruct.tools.teeth.label>teeth</JRWHomalocephaleReconstruct.tools.teeth.label>
+  <!-- EN: head -->
+  <JRWHomalocephaleReconstruct.tools.head.label>head</JRWHomalocephaleReconstruct.tools.head.label>
+</LanguageData>

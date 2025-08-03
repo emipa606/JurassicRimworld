@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Deinonychus -->
+  <JRWDeinonychus.label>Deinonychus</JRWDeinonychus.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #092743-1969 [DEINONYCHUS ANTIRRHOPUS] CODENAME: SICKLE >482\n\nA vicious dromaeosaurid that takes down prey via deadly lunge attacks. Known for practically infesting many of the abandoned facilities on Sorna during the 1997 incident, resembling Velociraptor sornaensis in appearence. When Masrani corp. acquired InGen, the design of the Deinonychus was altered quite significantly. The following specimens gained amphibious traits and frills along their body, as a result of splicing their genome with Basiliscus basiliscus DNA to fit their supposed marshland environment in which they lived. -->
+  <JRWDeinonychus.description>-- > INGEN INTERNAL CASE FILE #092743-1969 [DEINONYCHUS ANTIRRHOPUS] CODENAME: SICKLE >482
+
+A vicious dromaeosaurid that takes down prey via deadly lunge attacks. Known for practically infesting many of the abandoned facilities on Sorna during the 1997 incident, resembling Velociraptor sornaensis in appearence. When Masrani corp. acquired InGen, the design of the Deinonychus was altered quite significantly. The following specimens gained amphibious traits and frills along their body, as a result of splicing their genome with Basiliscus basiliscus DNA to fit their supposed marshland environment in which they lived.</JRWDeinonychus.description>
+  <!-- EN: left claw -->
+  <JRWDeinonychus.tools.left_claw.label>left claw</JRWDeinonychus.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <JRWDeinonychus.tools.right_claw.label>right claw</JRWDeinonychus.tools.right_claw.label>
+  <!-- EN: teeth -->
+  <JRWDeinonychus.tools.teeth.label>teeth</JRWDeinonychus.tools.teeth.label>
+</LanguageData>

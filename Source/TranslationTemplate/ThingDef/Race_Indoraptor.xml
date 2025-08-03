@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Indoraptor -->
+  <JRWIndoraptor.label>Indoraptor</JRWIndoraptor.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #???-??? [INDORAPTOR]\n\nTHE INDOMITABLE THIEF\n\nPosessing amazing intelligent capabilities and the ability to process and follow orders, the Indoraptor was built to be the ultimate machine in combat. Their razor sharp claws allow them slice through skin and bone, their jaws boasting incredible strength, as well as the ability to echolocate. The Indominus genome was supposedly lost during the 2018 incident at Lockewood manor, but determined genome replicators brought it back from extinction. Unlike the prototype, these specimens possess empathy. As long as they're on your side. -->
+  <JRWIndoraptor.description>-- > INGEN INTERNAL CASE FILE #???-??? [INDORAPTOR]
+
+THE INDOMITABLE THIEF
+
+Posessing amazing intelligent capabilities and the ability to process and follow orders, the Indoraptor was built to be the ultimate machine in combat. Their razor sharp claws allow them slice through skin and bone, their jaws boasting incredible strength, as well as the ability to echolocate. The Indominus genome was supposedly lost during the 2018 incident at Lockewood manor, but determined genome replicators brought it back from extinction. Unlike the prototype, these specimens possess empathy. As long as they're on your side.</JRWIndoraptor.description>
+  <!-- EN: left claw -->
+  <JRWIndoraptor.tools.left_claw.label>left claw</JRWIndoraptor.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <JRWIndoraptor.tools.right_claw.label>right claw</JRWIndoraptor.tools.right_claw.label>
+  <!-- EN: head -->
+  <JRWIndoraptor.tools.head.label>head</JRWIndoraptor.tools.head.label>
+</LanguageData>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: polymer -->
+  <PolymerSnail.label>polymer</PolymerSnail.label>
+  <!-- EN: A paste excreted from a Bernicia specimen, bright orange as if decorated with embers. This polymer can be reinforced to make a strong, but flammable, building material.\n\nIt can be processed at a biofuel refining station. -->
+  <PolymerSnail.description>A paste excreted from a Bernicia specimen, bright orange as if decorated with embers. This polymer can be reinforced to make a strong, but flammable, building material.
+
+It can be processed at a biofuel refining station.</PolymerSnail.description>
+  <!-- EN: snailglass -->
+  <Snailglass.label>snailglass</Snailglass.label>
+  <!-- EN: Reinforced polymer paste from a Bernicia, compressed to make colourful fibreglass. While strong, this plastic is very flammable. -->
+  <Snailglass.description>Reinforced polymer paste from a Bernicia, compressed to make colourful fibreglass. While strong, this plastic is very flammable.</Snailglass.description>
+  <!-- EN: polymer -->
+  <Snailglass.stuffProps.stuffAdjective>polymer</Snailglass.stuffProps.stuffAdjective>
+</LanguageData>

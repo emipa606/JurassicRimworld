@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: concrete dinosaur fence -->
+  <ConcreteFence.label>concrete dinosaur fence</ConcreteFence.label>
+  <!-- EN: A reinforced concrete fence designed to keep dinosaurs contained within, or to act as a rather strong border fence. Whilst not as discouraging as an electric fence, they are rather effective. -->
+  <ConcreteFence.description>A reinforced concrete fence designed to keep dinosaurs contained within, or to act as a rather strong border fence. Whilst not as discouraging as an electric fence, they are rather effective.</ConcreteFence.description>
+  <!-- EN: dinosaur security fence gate -->
+  <DinoFenceGate.label>dinosaur security fence gate</DinoFenceGate.label>
+  <!-- EN: A gate designed to fit along with dinosaur security fences. -->
+  <DinoFenceGate.description>A gate designed to fit along with dinosaur security fences.</DinoFenceGate.description>
+</LanguageData>

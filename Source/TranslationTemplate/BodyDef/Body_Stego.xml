@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: tail utilising animal -->
+  <JRWTailAttacker.label>tail utilising animal</JRWTailAttacker.label>
+  <!-- EN: left lung -->
+  <JRWTailAttacker.corePart.parts.left_lung.customLabel>left lung</JRWTailAttacker.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <JRWTailAttacker.corePart.parts.right_lung.customLabel>right lung</JRWTailAttacker.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <JRWTailAttacker.corePart.parts.left_kidney.customLabel>left kidney</JRWTailAttacker.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <JRWTailAttacker.corePart.parts.right_kidney.customLabel>right kidney</JRWTailAttacker.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <JRWTailAttacker.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>left eye</JRWTailAttacker.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <JRWTailAttacker.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>right eye</JRWTailAttacker.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <JRWTailAttacker.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>left ear</JRWTailAttacker.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <JRWTailAttacker.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>right ear</JRWTailAttacker.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: front left leg -->
+  <JRWTailAttacker.corePart.parts.front_left_leg.customLabel>front left leg</JRWTailAttacker.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front left hoof -->
+  <JRWTailAttacker.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>front left hoof</JRWTailAttacker.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>
+  <!-- EN: front right leg -->
+  <JRWTailAttacker.corePart.parts.front_right_leg.customLabel>front right leg</JRWTailAttacker.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: front right hoof -->
+  <JRWTailAttacker.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>front right hoof</JRWTailAttacker.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>
+  <!-- EN: rear left leg -->
+  <JRWTailAttacker.corePart.parts.rear_left_leg.customLabel>rear left leg</JRWTailAttacker.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear left hoof -->
+  <JRWTailAttacker.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>rear left hoof</JRWTailAttacker.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>
+  <!-- EN: rear right leg -->
+  <JRWTailAttacker.corePart.parts.rear_right_leg.customLabel>rear right leg</JRWTailAttacker.corePart.parts.rear_right_leg.customLabel>
+  <!-- EN: rear right hoof -->
+  <JRWTailAttacker.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>rear right hoof</JRWTailAttacker.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
+</LanguageData>

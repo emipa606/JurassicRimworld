@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Pachycephalosaurus -->
+  <JRWPachycephalosaurus.label>Pachycephalosaurus</JRWPachycephalosaurus.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #03521-1931 [PACHYCEPHALOSAURUS WYOMINGENSIS] CODENAME: FRIAR-TUCK >9482\n\nA pachycephalosaurid with a thick dome and a mottled cream and blue hide. Their calls have made them a nuisance, so much so small tribal villages will actively ward them away, lest they attract larger threats. -->
+  <JRWPachycephalosaurus.description>-- > INGEN INTERNAL CASE FILE #03521-1931 [PACHYCEPHALOSAURUS WYOMINGENSIS] CODENAME: FRIAR-TUCK >9482
+
+A pachycephalosaurid with a thick dome and a mottled cream and blue hide. Their calls have made them a nuisance, so much so small tribal villages will actively ward them away, lest they attract larger threats.</JRWPachycephalosaurus.description>
+  <!-- EN: teeth -->
+  <JRWPachycephalosaurus.tools.teeth.label>teeth</JRWPachycephalosaurus.tools.teeth.label>
+  <!-- EN: head -->
+  <JRWPachycephalosaurus.tools.head.label>head</JRWPachycephalosaurus.tools.head.label>
+</LanguageData>

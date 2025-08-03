@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Dryosaurus -->
+  <JRWDryosaurusReconstruct.label>Dryosaurus</JRWDryosaurusReconstruct.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #032119-1878 [DRYOSAURUS ALTUS] CODENAME: OAK >512\n\nA small and lively ornithopod with a speckled green hide, perfect for playing hide and seek in tall grasses. They are very weak, but quite speedy. -->
+  <JRWDryosaurusReconstruct.description>-- > INGEN INTERNAL CASE FILE #032119-1878 [DRYOSAURUS ALTUS] CODENAME: OAK >512
+
+A small and lively ornithopod with a speckled green hide, perfect for playing hide and seek in tall grasses. They are very weak, but quite speedy.</JRWDryosaurusReconstruct.description>
+  <!-- EN: left claw -->
+  <JRWDryosaurusReconstruct.tools.left_claw.label>left claw</JRWDryosaurusReconstruct.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <JRWDryosaurusReconstruct.tools.right_claw.label>right claw</JRWDryosaurusReconstruct.tools.right_claw.label>
+  <!-- EN: teeth -->
+  <JRWDryosaurusReconstruct.tools.teeth.label>teeth</JRWDryosaurusReconstruct.tools.teeth.label>
+  <!-- EN: head -->
+  <JRWDryosaurusReconstruct.tools.head.label>head</JRWDryosaurusReconstruct.tools.head.label>
+</LanguageData>

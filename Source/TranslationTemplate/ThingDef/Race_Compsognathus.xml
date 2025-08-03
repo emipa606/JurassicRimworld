@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Compsognathus -->
+  <JRWCompsognathus.label>Compsognathus</JRWCompsognathus.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #05618-1875 [COMPSOGNATHUS LONGIPES] CODENAME: ELEGANCE >80\n\nA tiny bipedal carnivore that primarily eats insects and fish, yet has been observed swarming unfortunate victims in mass groups. Do not let their size - or adorableness - fool you. -->
+  <JRWCompsognathus.description>-- > INGEN INTERNAL CASE FILE #05618-1875 [COMPSOGNATHUS LONGIPES] CODENAME: ELEGANCE >80
+
+A tiny bipedal carnivore that primarily eats insects and fish, yet has been observed swarming unfortunate victims in mass groups. Do not let their size - or adorableness - fool you.</JRWCompsognathus.description>
+  <!-- EN: left claw -->
+  <JRWCompsognathus.tools.left_claw.label>left claw</JRWCompsognathus.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <JRWCompsognathus.tools.right_claw.label>right claw</JRWCompsognathus.tools.right_claw.label>
+  <!-- EN: teeth -->
+  <JRWCompsognathus.tools.teeth.label>teeth</JRWCompsognathus.tools.teeth.label>
+  <!-- EN: head -->
+  <JRWCompsognathus.tools.head.label>head</JRWCompsognathus.tools.head.label>
+</LanguageData>

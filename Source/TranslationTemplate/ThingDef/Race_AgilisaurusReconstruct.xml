@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Agilisaurus -->
+  <JRWAgilisaurusReconstruct.label>Agilisaurus</JRWAgilisaurusReconstruct.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #06234456-1990 [AGILISAURUS LOUDERBACKI] CODENAME: ALACRITY >391\n\nA common sight on the rim, Agilisaurus are often seen during the evening, travelling in large groups as they speed through the grasses and foliage forging for food. Unfortunately, they often become food themselves. -->
+  <JRWAgilisaurusReconstruct.description>-- > INGEN INTERNAL CASE FILE #06234456-1990 [AGILISAURUS LOUDERBACKI] CODENAME: ALACRITY >391
+
+A common sight on the rim, Agilisaurus are often seen during the evening, travelling in large groups as they speed through the grasses and foliage forging for food. Unfortunately, they often become food themselves.</JRWAgilisaurusReconstruct.description>
+  <!-- EN: left claw -->
+  <JRWAgilisaurusReconstruct.tools.left_claw.label>left claw</JRWAgilisaurusReconstruct.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <JRWAgilisaurusReconstruct.tools.right_claw.label>right claw</JRWAgilisaurusReconstruct.tools.right_claw.label>
+  <!-- EN: teeth -->
+  <JRWAgilisaurusReconstruct.tools.teeth.label>teeth</JRWAgilisaurusReconstruct.tools.teeth.label>
+  <!-- EN: head -->
+  <JRWAgilisaurusReconstruct.tools.head.label>head</JRWAgilisaurusReconstruct.tools.head.label>
+</LanguageData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: viewing dome entrance -->
+  <ViewingDomeEntrance.label>viewing dome entrance</ViewingDomeEntrance.label>
+  <!-- EN: A viewing dome entrance meant to be built alongside the viewing dome. Visitors will enjoy entering the tunnel to get up close and personal with dinosaurs in their exhibits! An exciting way to fufill recreational needs.\n		\n		NOTE: the viewing dome entrance does not need the viewing dome to work. The dome is a purely aesthetical add-on. -->
+  <ViewingDomeEntrance.description>A viewing dome entrance meant to be built alongside the viewing dome. Visitors will enjoy entering the tunnel to get up close and personal with dinosaurs in their exhibits! An exciting way to fufill recreational needs.
+		
+		NOTE: the viewing dome entrance does not need the viewing dome to work. The dome is a purely aesthetical add-on.</ViewingDomeEntrance.description>
+</LanguageData>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Euphoberia -->
+  <JRWEuphoberiaReconstruct.label>Euphoberia</JRWEuphoberiaReconstruct.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #02843-1868 [EUPHOBERIA ARMIGERA] CODENAME: TRAIN >844\n\nA small and narrow myriapod that scoots in the underbrush, eating dead leaves and decaying corpses. A prehistoric cleanup crew, if you will. -->
+  <JRWEuphoberiaReconstruct.description>-- > INGEN INTERNAL CASE FILE #02843-1868 [EUPHOBERIA ARMIGERA] CODENAME: TRAIN >844
+
+A small and narrow myriapod that scoots in the underbrush, eating dead leaves and decaying corpses. A prehistoric cleanup crew, if you will.</JRWEuphoberiaReconstruct.description>
+  <!-- EN: mandibles -->
+  <JRWEuphoberiaReconstruct.tools.mandibles.label>mandibles</JRWEuphoberiaReconstruct.tools.mandibles.label>
+  <!-- EN: head -->
+  <JRWEuphoberiaReconstruct.tools.head.label>head</JRWEuphoberiaReconstruct.tools.head.label>
+</LanguageData>

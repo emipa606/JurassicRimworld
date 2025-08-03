@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Styracosaurus -->
+  <JRWStyracosaurus.label>Styracosaurus</JRWStyracosaurus.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #039902-1913 [STYRACOSAURUS ALBERTENSIS] CODENAME: STYRAX >230\n\nA ceratopsian well known for the multitude of spikes decorating its head. Smaller than most ceratopsians, they often use their lesser stature for speed rather than strength. -->
+  <JRWStyracosaurus.description>-- > INGEN INTERNAL CASE FILE #039902-1913 [STYRACOSAURUS ALBERTENSIS] CODENAME: STYRAX >230
+
+A ceratopsian well known for the multitude of spikes decorating its head. Smaller than most ceratopsians, they often use their lesser stature for speed rather than strength.</JRWStyracosaurus.description>
+  <!-- EN: horn -->
+  <JRWStyracosaurus.tools.horn-0.label>horn</JRWStyracosaurus.tools.horn-0.label>
+  <!-- EN: horn -->
+  <JRWStyracosaurus.tools.horn-1.label>horn</JRWStyracosaurus.tools.horn-1.label>
+  <!-- EN: head -->
+  <JRWStyracosaurus.tools.head.label>head</JRWStyracosaurus.tools.head.label>
+</LanguageData>

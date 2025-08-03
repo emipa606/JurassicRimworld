@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: collecting paste -->
+  <Paste.label>collecting paste</Paste.label>
+  <!-- EN: collecting from -->
+  <Paste.gerund>collecting from</Paste.gerund>
+  <!-- EN: collect paste -->
+  <Paste.verb>collect paste</Paste.verb>
+  <!-- EN: collecting silk -->
+  <Silk.label>collecting silk</Silk.label>
+  <!-- EN: collecting from -->
+  <Silk.gerund>collecting from</Silk.gerund>
+  <!-- EN: collect silk -->
+  <Silk.verb>collect silk</Silk.verb>
+</LanguageData>

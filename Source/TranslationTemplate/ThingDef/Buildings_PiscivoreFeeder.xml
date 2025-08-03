@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: piscivore feeder -->
+  <PiscivoreFeeder.label>piscivore feeder</PiscivoreFeeder.label>
+  <!-- EN: An automated feeding system designed to dispense sustenance for piscivores. -->
+  <PiscivoreFeeder.description>An automated feeding system designed to dispense sustenance for piscivores.</PiscivoreFeeder.description>
+  <!-- EN: small piscivore feeder -->
+  <PiscivoreFeederSmall.label>small piscivore feeder</PiscivoreFeederSmall.label>
+  <!-- EN: A small automated feeding system designed to dispense sustenance for piscivores. Cost less than a normal feeder, but dispenses smaller amounts of food. -->
+  <PiscivoreFeederSmall.description>A small automated feeding system designed to dispense sustenance for piscivores. Cost less than a normal feeder, but dispenses smaller amounts of food.</PiscivoreFeederSmall.description>
+</LanguageData>

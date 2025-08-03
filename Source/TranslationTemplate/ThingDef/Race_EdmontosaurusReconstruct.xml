@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Edmontosaurus -->
+  <JRWEdmontosaurusReconstruct.label>Edmontosaurus</JRWEdmontosaurusReconstruct.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #0883-1940 [EDMONTOSAURUS REGALIS] CODENAME: CAMO >382\n\nA striped hadrosaurid with a bellowing call. They are heavyset, more so than other hadrosaurs, and use this to their advantage in combat. -->
+  <JRWEdmontosaurusReconstruct.description>-- > INGEN INTERNAL CASE FILE #0883-1940 [EDMONTOSAURUS REGALIS] CODENAME: CAMO >382
+
+A striped hadrosaurid with a bellowing call. They are heavyset, more so than other hadrosaurs, and use this to their advantage in combat.</JRWEdmontosaurusReconstruct.description>
+  <!-- EN: head -->
+  <JRWEdmontosaurusReconstruct.tools.head.label>head</JRWEdmontosaurusReconstruct.tools.head.label>
+</LanguageData>

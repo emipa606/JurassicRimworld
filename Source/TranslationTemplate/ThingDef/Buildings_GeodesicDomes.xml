@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: geodisic dome door -->
+  <AviaryDoor.label>geodisic dome door</AviaryDoor.label>
+  <!-- EN: A door designed to fit along the front of a geodisic dome. -->
+  <AviaryDoor.description>A door designed to fit along the front of a geodisic dome.</AviaryDoor.description>
+  <!-- EN: small geodisic dome back fence -->
+  <DomeSmallFenceBack.label>small geodisic dome back fence</DomeSmallFenceBack.label>
+  <!-- EN: A fence to adorn the back of a small geodisic dome for an aviary structure. -->
+  <DomeSmallFenceBack.description>A fence to adorn the back of a small geodisic dome for an aviary structure.</DomeSmallFenceBack.description>
+  <!-- EN: small geodisic dome front fence -->
+  <DomeSmallFenceFront.label>small geodisic dome front fence</DomeSmallFenceFront.label>
+  <!-- EN: A fence to adorn the front of a small geodisic dome for an aviary structure. -->
+  <DomeSmallFenceFront.description>A fence to adorn the front of a small geodisic dome for an aviary structure.</DomeSmallFenceFront.description>
+  <!-- EN: small geodisic dome right side fence -->
+  <DomeSmallFenceLeftSide.label>small geodisic dome right side fence</DomeSmallFenceLeftSide.label>
+  <!-- EN: A fence to adorn the right side of a small geodisic dome for an aviary structure. -->
+  <DomeSmallFenceLeftSide.description>A fence to adorn the right side of a small geodisic dome for an aviary structure.</DomeSmallFenceLeftSide.description>
+  <!-- EN: small geodisic dome left side fence -->
+  <DomeSmallFenceRightSide.label>small geodisic dome left side fence</DomeSmallFenceRightSide.label>
+  <!-- EN: A fence to adorn the left side of a small geodisic dome for an aviary structure. -->
+  <DomeSmallFenceRightSide.description>A fence to adorn the left side of a small geodisic dome for an aviary structure.</DomeSmallFenceRightSide.description>
+  <!-- EN: small geodesic dome -->
+  <GeodesicDomeSmall.label>small geodesic dome</GeodesicDomeSmall.label>
+  <!-- EN: A small dome with a tesselated framework intersected with panes of glass. -->
+  <GeodesicDomeSmall.description>A small dome with a tesselated framework intersected with panes of glass.</GeodesicDomeSmall.description>
+</LanguageData>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: venom sting -->
+  <PulVenomSting.label>venom sting</PulVenomSting.label>
+  <!-- EN: A puncture wound from injected venom. Can cause infection if left untreated, and may cause dementia or carcinomas if allowed to build up from repeated attacks. -->
+  <PulVenomSting.description>A puncture wound from injected venom. Can cause infection if left untreated, and may cause dementia or carcinomas if allowed to build up from repeated attacks.</PulVenomSting.description>
+  <!-- EN: sting scar -->
+  <PulVenomSting.comps.HediffComp_GetsPermanent.permanentLabel>sting scar</PulVenomSting.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: heavily punctured -->
+  <PulVenomSting.injuryProps.destroyedOutLabel>heavily punctured</PulVenomSting.injuryProps.destroyedOutLabel>
+  <!-- EN: a venom sting wound -->
+  <PulVenomSting.labelNoun>a venom sting wound</PulVenomSting.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <PulVenomSting.labelNounPretty>{0} in the {1}</PulVenomSting.labelNounPretty>
+  <!-- EN: venom buildup -->
+  <VenomBuildup.label>venom buildup</VenomBuildup.label>
+  <!-- EN: Venom built up in the system from repeated attacks. Can cause mobility issues, loss of consciousness, and even dementia and/or carcinomas. -->
+  <VenomBuildup.description>Venom built up in the system from repeated attacks. Can cause mobility issues, loss of consciousness, and even dementia and/or carcinomas.</VenomBuildup.description>
+  <!-- EN: initial -->
+  <VenomBuildup.stages.initial-0.label>initial</VenomBuildup.stages.initial-0.label>
+  <!-- EN: initial -->
+  <VenomBuildup.stages.initial-1.label>initial</VenomBuildup.stages.initial-1.label>
+  <!-- EN: minor -->
+  <VenomBuildup.stages.minor.label>minor</VenomBuildup.stages.minor.label>
+  <!-- EN: moderate -->
+  <VenomBuildup.stages.moderate.label>moderate</VenomBuildup.stages.moderate.label>
+  <!-- EN: serious -->
+  <VenomBuildup.stages.serious.label>serious</VenomBuildup.stages.serious.label>
+  <!-- EN: extreme -->
+  <VenomBuildup.stages.extreme.label>extreme</VenomBuildup.stages.extreme.label>
+</LanguageData>

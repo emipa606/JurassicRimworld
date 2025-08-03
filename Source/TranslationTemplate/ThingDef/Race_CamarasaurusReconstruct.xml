@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Camarasaurus -->
+  <JRWCamarasaurusReconstruct.label>Camarasaurus</JRWCamarasaurusReconstruct.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #0928-1877 [CAMARASAURUS SUPREMUS] CODENAME: CHAMBER >20\n\nA stocky sauropod that has a soothing call. While not massive or all too powerful, they are still capable of fending for themselves if need be. Gentle when unprovoked. -->
+  <JRWCamarasaurusReconstruct.description>-- > INGEN INTERNAL CASE FILE #0928-1877 [CAMARASAURUS SUPREMUS] CODENAME: CHAMBER >20
+
+A stocky sauropod that has a soothing call. While not massive or all too powerful, they are still capable of fending for themselves if need be. Gentle when unprovoked.</JRWCamarasaurusReconstruct.description>
+  <!-- EN: left foot -->
+  <JRWCamarasaurusReconstruct.tools.left_foot.label>left foot</JRWCamarasaurusReconstruct.tools.left_foot.label>
+  <!-- EN: right foot -->
+  <JRWCamarasaurusReconstruct.tools.right_foot.label>right foot</JRWCamarasaurusReconstruct.tools.right_foot.label>
+  <!-- EN: head -->
+  <JRWCamarasaurusReconstruct.tools.head.label>head</JRWCamarasaurusReconstruct.tools.head.label>
+</LanguageData>

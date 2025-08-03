@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Gallimimus -->
+  <JRWGallimimusReconstruct.label>Gallimimus</JRWGallimimusReconstruct.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #09922-1972 [GALLIMIMUS BULLATUS] CODENAME: BULLET >445\n\nA speedy omnivorous ornithomimid, the largest of its kind discovered. They have been observed engaging in flocking behaviour when danger is nearby. Don't get in their way. -->
+  <JRWGallimimusReconstruct.description>-- > INGEN INTERNAL CASE FILE #09922-1972 [GALLIMIMUS BULLATUS] CODENAME: BULLET >445
+
+A speedy omnivorous ornithomimid, the largest of its kind discovered. They have been observed engaging in flocking behaviour when danger is nearby. Don't get in their way.</JRWGallimimusReconstruct.description>
+  <!-- EN: left claw -->
+  <JRWGallimimusReconstruct.tools.left_claw.label>left claw</JRWGallimimusReconstruct.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <JRWGallimimusReconstruct.tools.right_claw.label>right claw</JRWGallimimusReconstruct.tools.right_claw.label>
+  <!-- EN: teeth -->
+  <JRWGallimimusReconstruct.tools.teeth.label>teeth</JRWGallimimusReconstruct.tools.teeth.label>
+  <!-- EN: head -->
+  <JRWGallimimusReconstruct.tools.head.label>head</JRWGallimimusReconstruct.tools.head.label>
+</LanguageData>

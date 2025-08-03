@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: holoscape -->
+  <Holoscape.label>holoscape</Holoscape.label>
+  <!-- EN: A holographic table that displays 3D projections. Colonists can learn about and interact with life-like, tiny dinosaurs. Isn't that neat!\n\nUsing this table gives experience in the intellectual skill. Needs chairs! -->
+  <Holoscape.description>A holographic table that displays 3D projections. Colonists can learn about and interact with life-like, tiny dinosaurs. Isn't that neat!
+
+Using this table gives experience in the intellectual skill. Needs chairs!</Holoscape.description>
+</LanguageData>

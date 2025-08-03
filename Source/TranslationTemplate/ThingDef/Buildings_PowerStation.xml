@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: power station -->
+  <PowerStation.label>power station</PowerStation.label>
+  <!-- EN: A power plant that provides a decent energy output. Can be built almost anywhere, but requires some hefty materials to build. -->
+  <PowerStation.description>A power plant that provides a decent energy output. Can be built almost anywhere, but requires some hefty materials to build.</PowerStation.description>
+</LanguageData>

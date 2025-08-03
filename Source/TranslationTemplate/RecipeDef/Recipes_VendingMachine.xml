@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: buy some Coprolite Rocks -->
+  <VMCoprolite.label>buy some Coprolite Rocks</VMCoprolite.label>
+  <!-- EN: Buy some Coprolite rocks from a vending machine. -->
+  <VMCoprolite.description>Buy some Coprolite rocks from a vending machine.</VMCoprolite.description>
+  <!-- EN: buying snack. -->
+  <VMCoprolite.jobString>buying snack.</VMCoprolite.jobString>
+  <!-- EN: buy a bottle of Lava Flow -->
+  <VMLavaFlow.label>buy a bottle of Lava Flow</VMLavaFlow.label>
+  <!-- EN: Buy a bottle of Lava Flow from a vending machine. -->
+  <VMLavaFlow.description>Buy a bottle of Lava Flow from a vending machine.</VMLavaFlow.description>
+  <!-- EN: buying drink. -->
+  <VMLavaFlow.jobString>buying drink.</VMLavaFlow.jobString>
+  <!-- EN: buy a Paleobar -->
+  <VMPaleobar.label>buy a Paleobar</VMPaleobar.label>
+  <!-- EN: Buy a Paleobar from a vending machine. -->
+  <VMPaleobar.description>Buy a Paleobar from a vending machine.</VMPaleobar.description>
+  <!-- EN: buying snack. -->
+  <VMPaleobar.jobString>buying snack.</VMPaleobar.jobString>
+  <!-- EN: buy a can of Sorna Punch -->
+  <VMSornaPunch.label>buy a can of Sorna Punch</VMSornaPunch.label>
+  <!-- EN: Buy a can of Sorna Punch from a vending machine. -->
+  <VMSornaPunch.description>Buy a can of Sorna Punch from a vending machine.</VMSornaPunch.description>
+  <!-- EN: buying drink. -->
+  <VMSornaPunch.jobString>buying drink.</VMSornaPunch.jobString>
+</LanguageData>

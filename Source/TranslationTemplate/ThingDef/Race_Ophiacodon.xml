@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Ophiacodon -->
+  <JRWOphiacodon.label>Ophiacodon</JRWOphiacodon.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #02019-1878 [OPHIACODON MIRUS] CODENAME: SNAKE-TOOTH >492\n\nA basal synapsid very close to the evolutionary chain leading up to mammals. Ophicodons true nature was rather speculative, with some arguing for a terrestrial lifestyle while others believe the creature was more suited to a amphibious lifestyle instead. Their jaws are lined with razor sharp, needle like teeth, perfect for gnawing up small lizards, tetrapods and amphibians. -->
+  <JRWOphiacodon.description>-- > INGEN INTERNAL CASE FILE #02019-1878 [OPHIACODON MIRUS] CODENAME: SNAKE-TOOTH >492
+
+A basal synapsid very close to the evolutionary chain leading up to mammals. Ophicodons true nature was rather speculative, with some arguing for a terrestrial lifestyle while others believe the creature was more suited to a amphibious lifestyle instead. Their jaws are lined with razor sharp, needle like teeth, perfect for gnawing up small lizards, tetrapods and amphibians.</JRWOphiacodon.description>
+  <!-- EN: left claw -->
+  <JRWOphiacodon.tools.left_claw.label>left claw</JRWOphiacodon.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <JRWOphiacodon.tools.right_claw.label>right claw</JRWOphiacodon.tools.right_claw.label>
+  <!-- EN: teeth -->
+  <JRWOphiacodon.tools.teeth.label>teeth</JRWOphiacodon.tools.teeth.label>
+  <!-- EN: head -->
+  <JRWOphiacodon.tools.head.label>head</JRWOphiacodon.tools.head.label>
+</LanguageData>

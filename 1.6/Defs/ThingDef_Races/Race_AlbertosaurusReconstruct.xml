@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="AnimalDinoThingBase">
+    <defName>JRWAlbertosaurusReconstruct</defName>
+    <label>Albertosaurus</label>
+    <description>-- > INGEN INTERNAL CASE FILE #09382-1905 [ALBERTOSAURUS SARCOPHAGUS] CODENAME: SERRATOR >92
+
+A medium sized theropod that often hunt in small packs. They overwhelm prey with a mix of both brawn and numbers.</description>
+    <statBases>
+      <MoveSpeed>6.0</MoveSpeed>
+      <ComfyTemperatureMin>-10</ComfyTemperatureMin>
+      <MarketValue>800</MarketValue>
+      <Wildness>0</Wildness>
+    </statBases>
+    <tools>
+      <li>
+        <capacities>
+          <li>Bite</li>
+        </capacities>
+        <power>20</power>
+        <cooldownTime>2.6</cooldownTime>
+        <linkedBodyPartsGroup>Teeth</linkedBodyPartsGroup>
+        <chanceFactor>1</chanceFactor>
+        <surpriseAttack>
+          <extraMeleeDamages>
+            <li>
+              <def>Stun</def>
+              <amount>8</amount>
+            </li>
+          </extraMeleeDamages>
+        </surpriseAttack>
+      </li>
+    </tools>
+    <comps>
+      <li Class="CompProperties_EggLayer">
+        <eggFertilizedDef>AlbertosaurusEggReconstructed</eggFertilizedDef>
+        <eggUnfertilizedDef>AlbertosaurusEggReconstructed</eggUnfertilizedDef>
+        <eggFertilizationCountMax>1</eggFertilizationCountMax>
+        <eggLayIntervalDays>14.0</eggLayIntervalDays>
+        <eggProgressUnfertilizedMax>0.5</eggProgressUnfertilizedMax>
+        <eggCountRange>
+          <min>1</min>
+          <max>3</max>
+        </eggCountRange>
+      </li>
+    </comps>
+    <race>
+      <body>QuadrupedAnimalWithPawsAndTail</body>
+      <herdAnimal>false</herdAnimal>
+      <baseHungerRate>1.0</baseHungerRate>
+      <baseBodySize>3.5</baseBodySize>
+      <baseHealthScale>4.0</baseHealthScale>
+      <packAnimal>true</packAnimal>
+      <predator>true</predator>
+      <foodType>CarnivoreAnimal</foodType>
+      <leatherDef>Leather_MediumDino</leatherDef>
+      <gestationPeriodDays>30</gestationPeriodDays>
+      <trainability>Advanced</trainability>
+      <manhunterOnTameFailChance>0</manhunterOnTameFailChance>
+      <manhunterOnDamageChance>0.99</manhunterOnDamageChance>
+      <useMeatFrom>JRWAcrocanthosaurus</useMeatFrom>
+      <nuzzleMtbHours>120</nuzzleMtbHours>
+      <lifeExpectancy>80</lifeExpectancy>
+      <lifeStageAges>
+        <li>
+          <def>AnimalBaby</def>
+          <minAge>0</minAge>
+        </li>
+        <li>
+          <def>AnimalJuvenile</def>
+          <minAge>0.01</minAge>
+        </li>
+        <li>
+          <def>AnimalAdult</def>
+          <minAge>0.02</minAge>
+          <soundWounded>Pawn_Albertosaurus_Wounded</soundWounded>
+          <soundDeath>Pawn_Albertosaurus_Death</soundDeath>
+          <soundCall>Pawn_Albertosaurus_Call</soundCall>
+          <soundAngry>Pawn_Albertosaurus_Angry</soundAngry>
+        </li>
+      </lifeStageAges>
+      <soundMeleeHitPawn>Pawn_Melee_BigBash_HitPawn</soundMeleeHitPawn>
+      <soundMeleeHitBuilding>Pawn_Melee_BigBash_HitBuilding</soundMeleeHitBuilding>
+      <soundMeleeMiss>Pawn_Melee_BigBash_Miss</soundMeleeMiss>
+      <wildBiomes>
+        <TropicalRainforest>0</TropicalRainforest>
+        <BorealForest>0</BorealForest>
+      </wildBiomes>
+    </race>
+    <tradeTags>
+      <li>CarnivoreDinosaur</li>
+    </tradeTags>
+  </ThingDef>
+  <PawnKindDef ParentName="AnimalKindBase">
+    <defName>JRWAlbertosaurusReconstruct</defName>
+    <label>Albertosaurus</label>
+    <race>JRWAlbertosaurusReconstruct</race>
+    <combatPower>60</combatPower>
+    <ecoSystemWeight>0</ecoSystemWeight>
+    <lifeStages>
+      <li>
+        <label>Albertosaurus hatchling</label>
+        <bodyGraphicData>
+          <texPath>Things/Pawn/Animal/Albertosaurus</texPath>
+          <drawSize>6</drawSize>
+          <shadowData>
+            <volume>(0.3, 0.3, 0.3)</volume>
+            <offset>(0,0,0)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Spooky/TyrannoDessicated</texPath>
+          <drawSize>1.0</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Pawn/Animal/Albertosaurus</texPath>
+          <drawSize>6</drawSize>
+          <shadowData>
+            <volume>(0.3, 0.3, 0.3)</volume>
+            <offset>(0,0,-0.2)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Spooky/TyrannoDessicated</texPath>
+          <drawSize>2.0</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Pawn/Animal/Albertosaurus</texPath>
+          <drawSize>6</drawSize>
+          <shadowData>
+            <volume>(0.3, 0.3, 0.3)</volume>
+            <offset>(0,0,-0.3)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Spooky/TyrannoDessicated</texPath>
+          <drawSize>2.0</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+    </lifeStages>
+  </PawnKindDef>
+</Defs>

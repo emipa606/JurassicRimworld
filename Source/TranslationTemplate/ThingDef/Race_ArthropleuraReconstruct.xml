@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Arthropleura -->
+  <JRWArthropleuraReconstruct.label>Arthropleura</JRWArthropleuraReconstruct.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #0291-1933 [ARTHROPLEURA ARMATA] CODENAME: MYRIA >437\n\nA herbivorous arthropod that can reach gigantic proportions. They often eat low lying shrubbery and decaying leaves, rummaging through the undergrowth. They are weak and easy to hunt, but their meat is undersirable. -->
+  <JRWArthropleuraReconstruct.description>-- > INGEN INTERNAL CASE FILE #0291-1933 [ARTHROPLEURA ARMATA] CODENAME: MYRIA >437
+
+A herbivorous arthropod that can reach gigantic proportions. They often eat low lying shrubbery and decaying leaves, rummaging through the undergrowth. They are weak and easy to hunt, but their meat is undersirable.</JRWArthropleuraReconstruct.description>
+  <!-- EN: mandibles -->
+  <JRWArthropleuraReconstruct.tools.mandibles.label>mandibles</JRWArthropleuraReconstruct.tools.mandibles.label>
+  <!-- EN: head -->
+  <JRWArthropleuraReconstruct.tools.head.label>head</JRWArthropleuraReconstruct.tools.head.label>
+</LanguageData>

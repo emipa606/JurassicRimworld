@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: carnivore feeder -->
+  <CarnivoreFeeder.label>carnivore feeder</CarnivoreFeeder.label>
+  <!-- EN: An automated feeding system designed to dispense sustenance for carnivores. Cost more than a small feeder, but dispenses larger amounts of food. -->
+  <CarnivoreFeeder.description>An automated feeding system designed to dispense sustenance for carnivores. Cost more than a small feeder, but dispenses larger amounts of food.</CarnivoreFeeder.description>
+  <!-- EN: small carnivore feeder -->
+  <CarnivoreFeederSmall.label>small carnivore feeder</CarnivoreFeederSmall.label>
+  <!-- EN: A small automated feeding system designed to dispense sustenance for carnivores. Cost less than a normal feeder, but dispenses smaller amounts of food. -->
+  <CarnivoreFeederSmall.description>A small automated feeding system designed to dispense sustenance for carnivores. Cost less than a normal feeder, but dispenses smaller amounts of food.</CarnivoreFeederSmall.description>
+</LanguageData>

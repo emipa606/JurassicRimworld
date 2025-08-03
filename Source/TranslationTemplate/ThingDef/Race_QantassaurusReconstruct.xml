@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Qantassaurus -->
+  <JRWQantassaurusReconstruct.label>Qantassaurus</JRWQantassaurusReconstruct.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #02012-1999 [QANTASSAURUS INTREPIDUS] CODENAME: DAUNTLESS >993\n\nA small striped ornithischian. Obscure, but perhaps most well known for the mass stampede tracks created by this creature and Timimus hermani in the australian flats. -->
+  <JRWQantassaurusReconstruct.description>-- > INGEN INTERNAL CASE FILE #02012-1999 [QANTASSAURUS INTREPIDUS] CODENAME: DAUNTLESS >993
+
+A small striped ornithischian. Obscure, but perhaps most well known for the mass stampede tracks created by this creature and Timimus hermani in the australian flats.</JRWQantassaurusReconstruct.description>
+  <!-- EN: left claw -->
+  <JRWQantassaurusReconstruct.tools.left_claw.label>left claw</JRWQantassaurusReconstruct.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <JRWQantassaurusReconstruct.tools.right_claw.label>right claw</JRWQantassaurusReconstruct.tools.right_claw.label>
+  <!-- EN: teeth -->
+  <JRWQantassaurusReconstruct.tools.teeth.label>teeth</JRWQantassaurusReconstruct.tools.teeth.label>
+  <!-- EN: head -->
+  <JRWQantassaurusReconstruct.tools.head.label>head</JRWQantassaurusReconstruct.tools.head.label>
+</LanguageData>

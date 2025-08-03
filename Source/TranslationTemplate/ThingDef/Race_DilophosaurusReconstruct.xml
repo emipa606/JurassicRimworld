@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Dilophosaurus -->
+  <JRWDilophosaurusReconstruct.label>Dilophosaurus</JRWDilophosaurusReconstruct.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #084729-1970 [DILOPHOSAURUS WETHERILLI] CODENAME: SPITTER >990\n\nA small, crepuscular carnivore that is known for its large frill and the ability to spit toxic mucus. -->
+  <JRWDilophosaurusReconstruct.description>-- > INGEN INTERNAL CASE FILE #084729-1970 [DILOPHOSAURUS WETHERILLI] CODENAME: SPITTER >990
+
+A small, crepuscular carnivore that is known for its large frill and the ability to spit toxic mucus.</JRWDilophosaurusReconstruct.description>
+  <!-- EN: left claw -->
+  <JRWDilophosaurusReconstruct.tools.left_claw.label>left claw</JRWDilophosaurusReconstruct.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <JRWDilophosaurusReconstruct.tools.right_claw.label>right claw</JRWDilophosaurusReconstruct.tools.right_claw.label>
+  <!-- EN: venom-fangs -->
+  <JRWDilophosaurusReconstruct.tools.venomfangs.label>venom-fangs</JRWDilophosaurusReconstruct.tools.venomfangs.label>
+  <!-- EN: head -->
+  <JRWDilophosaurusReconstruct.tools.head.label>head</JRWDilophosaurusReconstruct.tools.head.label>
+</LanguageData>

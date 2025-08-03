@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Protoceratops -->
+  <JRWProtoceratops.label>Protoceratops</JRWProtoceratops.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #0344532-1923 [PROTOCERATOPS ANDREWSKI] CODENAME: FIRST >5330\n\nA small ceratopsian which is fairly well understood in terms of life stages and behaviour. Most famously known for the fossil that depicts it and Velociraptor in a death duel, this small dinosaur has won the hearts of many with its small stature and fierce tenacity. Unlike other ceratopsian dinosaurs the family in which this dinosaur belongs to was rather primitive, with a less regal frill and lacking horns unlike its descendants. -->
+  <JRWProtoceratops.description>-- > INGEN INTERNAL CASE FILE #0344532-1923 [PROTOCERATOPS ANDREWSKI] CODENAME: FIRST >5330
+
+A small ceratopsian which is fairly well understood in terms of life stages and behaviour. Most famously known for the fossil that depicts it and Velociraptor in a death duel, this small dinosaur has won the hearts of many with its small stature and fierce tenacity. Unlike other ceratopsian dinosaurs the family in which this dinosaur belongs to was rather primitive, with a less regal frill and lacking horns unlike its descendants.</JRWProtoceratops.description>
+  <!-- EN: nose -->
+  <JRWProtoceratops.tools.nose.label>nose</JRWProtoceratops.tools.nose.label>
+  <!-- EN: head -->
+  <JRWProtoceratops.tools.head.label>head</JRWProtoceratops.tools.head.label>
+</LanguageData>

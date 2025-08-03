@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Zephyrosaurus -->
+  <JRWZephyrosaurus.label>Zephyrosaurus</JRWZephyrosaurus.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #04828-1980 [ZEPHYROSAURUS SCHAFFI] CODENAME: WESTWARD-WIND >472\n\nA small orodromin ornithopod with a silky blue hide. They sport a flurry of grey feathers along their back, and are quite graceful to observe. -->
+  <JRWZephyrosaurus.description>-- > INGEN INTERNAL CASE FILE #04828-1980 [ZEPHYROSAURUS SCHAFFI] CODENAME: WESTWARD-WIND >472
+
+A small orodromin ornithopod with a silky blue hide. They sport a flurry of grey feathers along their back, and are quite graceful to observe.</JRWZephyrosaurus.description>
+  <!-- EN: left claw -->
+  <JRWZephyrosaurus.tools.left_claw.label>left claw</JRWZephyrosaurus.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <JRWZephyrosaurus.tools.right_claw.label>right claw</JRWZephyrosaurus.tools.right_claw.label>
+  <!-- EN: teeth -->
+  <JRWZephyrosaurus.tools.teeth.label>teeth</JRWZephyrosaurus.tools.teeth.label>
+  <!-- EN: head -->
+  <JRWZephyrosaurus.tools.head.label>head</JRWZephyrosaurus.tools.head.label>
+</LanguageData>

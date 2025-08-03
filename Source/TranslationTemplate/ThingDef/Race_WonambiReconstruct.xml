@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: wonambi -->
+  <JRWWonambiReconstruct.label>wonambi</JRWWonambiReconstruct.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #00211-1976 [WONAMBI NARACOORTENSIS] CODENAME: RIVERSLEIGH >932\n\nWonambi was a genus of non-venomous, constrictor snakes, and seems to have been an ambush predator that killed its prey by constriction. The head of the animal was small, restricting the size of its prey. -->
+  <JRWWonambiReconstruct.description>-- > INGEN INTERNAL CASE FILE #00211-1976 [WONAMBI NARACOORTENSIS] CODENAME: RIVERSLEIGH >932
+
+Wonambi was a genus of non-venomous, constrictor snakes, and seems to have been an ambush predator that killed its prey by constriction. The head of the animal was small, restricting the size of its prey.</JRWWonambiReconstruct.description>
+  <!-- EN: fangs -->
+  <JRWWonambiReconstruct.tools.fangs.label>fangs</JRWWonambiReconstruct.tools.fangs.label>
+  <!-- EN: head -->
+  <JRWWonambiReconstruct.tools.head.label>head</JRWWonambiReconstruct.tools.head.label>
+</LanguageData>

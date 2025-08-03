@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: make polymer into snailglass -->
+  <PolymerSnailglass.label>make polymer into snailglass</PolymerSnailglass.label>
+  <!-- EN: Turn polymer into snailglass. -->
+  <PolymerSnailglass.description>Turn polymer into snailglass.</PolymerSnailglass.description>
+  <!-- EN: making snailglass. -->
+  <PolymerSnailglass.jobString>making snailglass.</PolymerSnailglass.jobString>
+</LanguageData>

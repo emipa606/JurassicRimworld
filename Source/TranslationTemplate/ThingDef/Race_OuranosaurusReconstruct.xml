@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Ouranosaurus -->
+  <JRWOuranosaurusReconstruct.label>Ouranosaurus</JRWOuranosaurusReconstruct.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #03093-1976 [OURANOSAURUS NIGERIENSIS] CODENAME: DAWN >3722\n\nA beautiful hadrosaur with an orange crest, rising like the sun over the hillbanks. They are skittish but generally docile. -->
+  <JRWOuranosaurusReconstruct.description>-- > INGEN INTERNAL CASE FILE #03093-1976 [OURANOSAURUS NIGERIENSIS] CODENAME: DAWN >3722
+
+A beautiful hadrosaur with an orange crest, rising like the sun over the hillbanks. They are skittish but generally docile.</JRWOuranosaurusReconstruct.description>
+  <!-- EN: head -->
+  <JRWOuranosaurusReconstruct.tools.head.label>head</JRWOuranosaurusReconstruct.tools.head.label>
+</LanguageData>

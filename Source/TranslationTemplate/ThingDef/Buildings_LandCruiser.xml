@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: land cruiser -->
+  <LandCruiser.label>land cruiser</LandCruiser.label>
+  <!-- EN: A land cruiser. A vehicle designed to traverse past exhibits for viewing pleasure.\n\nUnfortunately, not T-rex proof. -->
+  <LandCruiser.description>A land cruiser. A vehicle designed to traverse past exhibits for viewing pleasure.
+
+Unfortunately, not T-rex proof.</LandCruiser.description>
+</LanguageData>

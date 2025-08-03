@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Nasutoceratops -->
+  <JRWNasutoceratopsReconstruct.label>Nasutoceratops</JRWNasutoceratopsReconstruct.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #013729-1985 [NASUTOCERATOPS TITUSI] CODENAME: EL-TAURO >5\n\nA hardy ceratopsian with two forward facing horns and a large snout. Their powerful horns can skewer threats with ease. -->
+  <JRWNasutoceratopsReconstruct.description>-- > INGEN INTERNAL CASE FILE #013729-1985 [NASUTOCERATOPS TITUSI] CODENAME: EL-TAURO >5
+
+A hardy ceratopsian with two forward facing horns and a large snout. Their powerful horns can skewer threats with ease.</JRWNasutoceratopsReconstruct.description>
+  <!-- EN: horn -->
+  <JRWNasutoceratopsReconstruct.tools.horn-0.label>horn</JRWNasutoceratopsReconstruct.tools.horn-0.label>
+  <!-- EN: horn -->
+  <JRWNasutoceratopsReconstruct.tools.horn-1.label>horn</JRWNasutoceratopsReconstruct.tools.horn-1.label>
+  <!-- EN: head -->
+  <JRWNasutoceratopsReconstruct.tools.head.label>head</JRWNasutoceratopsReconstruct.tools.head.label>
+</LanguageData>

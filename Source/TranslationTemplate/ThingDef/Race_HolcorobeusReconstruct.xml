@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Holcorobeus -->
+  <JRWHolcorobeusReconstruct.label>Holcorobeus</JRWHolcorobeusReconstruct.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #02739-1992 [HOLCOROBEUS ATROSULCATUS] CODENAME: HERCULES >380\n\nA large extinct rhinoceros beetle that has a brilliant purple hue. Primitive, but gentle, they have often been used as hauling animals after their introduction on the rim. -->
+  <JRWHolcorobeusReconstruct.description>-- > INGEN INTERNAL CASE FILE #02739-1992 [HOLCOROBEUS ATROSULCATUS] CODENAME: HERCULES >380
+
+A large extinct rhinoceros beetle that has a brilliant purple hue. Primitive, but gentle, they have often been used as hauling animals after their introduction on the rim.</JRWHolcorobeusReconstruct.description>
+  <!-- EN: head claw -->
+  <JRWHolcorobeusReconstruct.tools.head_claw.label>head claw</JRWHolcorobeusReconstruct.tools.head_claw.label>
+  <!-- EN: head -->
+  <JRWHolcorobeusReconstruct.tools.head.label>head</JRWHolcorobeusReconstruct.tools.head.label>
+</LanguageData>

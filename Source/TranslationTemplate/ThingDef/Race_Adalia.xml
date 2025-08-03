@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Adalia -->
+  <JRWAdalia.label>Adalia</JRWAdalia.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #03918-1900 [ADALIA SUBVERSA] CODENAME: LADYBIRD >39822\n\nA large extinct ladybird - or ladybug - with a shiny black carapace and red spots decorating its shell. While not the strongest nor fastest creature on the Rim, their ability to haul items has lead them to be quite desirable in the swampy, tropical lands in which they live. Despite being friendly, their mandibles are more than capable of rendering flesh. -->
+  <JRWAdalia.description>-- > INGEN INTERNAL CASE FILE #03918-1900 [ADALIA SUBVERSA] CODENAME: LADYBIRD >39822
+
+A large extinct ladybird - or ladybug - with a shiny black carapace and red spots decorating its shell. While not the strongest nor fastest creature on the Rim, their ability to haul items has lead them to be quite desirable in the swampy, tropical lands in which they live. Despite being friendly, their mandibles are more than capable of rendering flesh.</JRWAdalia.description>
+  <!-- EN: mandibles -->
+  <JRWAdalia.tools.mandibles.label>mandibles</JRWAdalia.tools.mandibles.label>
+  <!-- EN: head -->
+  <JRWAdalia.tools.head.label>head</JRWAdalia.tools.head.label>
+</LanguageData>

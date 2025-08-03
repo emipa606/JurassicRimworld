@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Baseopsis -->
+  <JRWBaseopsisReconstruct.label>Baseopsis</JRWBaseopsisReconstruct.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #04831-1889 [BASEOPSIS SIBIRICA] CODENAME: ORIGAMI >4910\n\nA humongous species of earwig with a pair of terrifying looking pincers. While generally docile and would prefer to flee at smaller sizes, the enlarge proportions of this invertebrate makes them more hardy and a dangerous foe to deal with. Their wings fold like paper, and shine in the light. -->
+  <JRWBaseopsisReconstruct.description>-- > INGEN INTERNAL CASE FILE #04831-1889 [BASEOPSIS SIBIRICA] CODENAME: ORIGAMI >4910
+
+A humongous species of earwig with a pair of terrifying looking pincers. While generally docile and would prefer to flee at smaller sizes, the enlarge proportions of this invertebrate makes them more hardy and a dangerous foe to deal with. Their wings fold like paper, and shine in the light.</JRWBaseopsisReconstruct.description>
+  <!-- EN: mandibles -->
+  <JRWBaseopsisReconstruct.tools.mandibles.label>mandibles</JRWBaseopsisReconstruct.tools.mandibles.label>
+</LanguageData>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Manipulator -->
+  <JRWManipulatorReconstruct.label>Manipulator</JRWManipulatorReconstruct.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #08362-2015 [MANIPULATOR MODIFICAPUTIS] CODENAME: MANTIS >645\n\nAn extinct predatory cockroach altered to massive proportions. It is an ancestor to modern day mantids, and acts similarly, with large, grasping legs to grapple prey. -->
+  <JRWManipulatorReconstruct.description>-- > INGEN INTERNAL CASE FILE #08362-2015 [MANIPULATOR MODIFICAPUTIS] CODENAME: MANTIS >645
+
+An extinct predatory cockroach altered to massive proportions. It is an ancestor to modern day mantids, and acts similarly, with large, grasping legs to grapple prey.</JRWManipulatorReconstruct.description>
+  <!-- EN: scythes -->
+  <JRWManipulatorReconstruct.tools.scythes.label>scythes</JRWManipulatorReconstruct.tools.scythes.label>
+  <!-- EN: head -->
+  <JRWManipulatorReconstruct.tools.head.label>head</JRWManipulatorReconstruct.tools.head.label>
+</LanguageData>

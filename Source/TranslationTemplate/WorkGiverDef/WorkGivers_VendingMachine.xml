@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: buy drink -->
+  <VMBuyDrink.label>buy drink</VMBuyDrink.label>
+  <!-- EN: buying from -->
+  <VMBuyDrink.gerund>buying from</VMBuyDrink.gerund>
+  <!-- EN: buy from -->
+  <VMBuyDrink.verb>buy from</VMBuyDrink.verb>
+  <!-- EN: buy snack -->
+  <VMBuyFood.label>buy snack</VMBuyFood.label>
+  <!-- EN: buying from -->
+  <VMBuyFood.gerund>buying from</VMBuyFood.gerund>
+  <!-- EN: buy from -->
+  <VMBuyFood.verb>buy from</VMBuyFood.verb>
+</LanguageData>

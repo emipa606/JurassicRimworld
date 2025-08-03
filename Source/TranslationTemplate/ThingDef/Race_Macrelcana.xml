@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Macrelcana -->
+  <JRWMacrelcana.label>Macrelcana</JRWMacrelcana.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #037229-8491 [MACRELCANA UNGERI] CODENAME: CRICKET >392\n\nAn extinct species of wetapunga. Though they are generally non hostile, the wont hesitate to fight back if threatened or encroached. Their voracious appetite for detritus and wood bark often leaves large portions of the forests and swamps they inhabit desolate. -->
+  <JRWMacrelcana.description>-- > INGEN INTERNAL CASE FILE #037229-8491 [MACRELCANA UNGERI] CODENAME: CRICKET >392
+
+An extinct species of wetapunga. Though they are generally non hostile, the wont hesitate to fight back if threatened or encroached. Their voracious appetite for detritus and wood bark often leaves large portions of the forests and swamps they inhabit desolate.</JRWMacrelcana.description>
+  <!-- EN: jaws -->
+  <JRWMacrelcana.tools.jaws.label>jaws</JRWMacrelcana.tools.jaws.label>
+  <!-- EN: head -->
+  <JRWMacrelcana.tools.head.label>head</JRWMacrelcana.tools.head.label>
+</LanguageData>

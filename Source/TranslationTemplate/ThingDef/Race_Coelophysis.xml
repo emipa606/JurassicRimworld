@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Coelophysis -->
+  <JRWCoelophysis.label>Coelophysis</JRWCoelophysis.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #03728-1887 [COELOPHYSIS BAURI] CODENAME: SPRINTER >282\n\nA sleek and agile coelophysid theropod that show gregarious behaviour. They make a distinct barking sound that serves as a kind warning for any colonists in the vicinity of a hungry pack. -->
+  <JRWCoelophysis.description>-- > INGEN INTERNAL CASE FILE #03728-1887 [COELOPHYSIS BAURI] CODENAME: SPRINTER >282
+
+A sleek and agile coelophysid theropod that show gregarious behaviour. They make a distinct barking sound that serves as a kind warning for any colonists in the vicinity of a hungry pack.</JRWCoelophysis.description>
+  <!-- EN: left claw -->
+  <JRWCoelophysis.tools.left_claw.label>left claw</JRWCoelophysis.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <JRWCoelophysis.tools.right_claw.label>right claw</JRWCoelophysis.tools.right_claw.label>
+  <!-- EN: teeth -->
+  <JRWCoelophysis.tools.teeth.label>teeth</JRWCoelophysis.tools.teeth.label>
+  <!-- EN: head -->
+  <JRWCoelophysis.tools.head.label>head</JRWCoelophysis.tools.head.label>
+</LanguageData>

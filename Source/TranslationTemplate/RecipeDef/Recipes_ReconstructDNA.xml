@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: reconstruct Abrictosaurus DNA -->
+  <ReconstructDNAAbrictosaurus.label>reconstruct Abrictosaurus DNA</ReconstructDNAAbrictosaurus.label>
+  <!-- EN: reconstruct Abrictosaurus DNA. -->
+  <ReconstructDNAAbrictosaurus.description>reconstruct Abrictosaurus DNA.</ReconstructDNAAbrictosaurus.description>
+  <!-- EN: reconstructing Abrictosaurus DNA. -->
+  <ReconstructDNAAbrictosaurus.jobString>reconstructing Abrictosaurus DNA.</ReconstructDNAAbrictosaurus.jobString>
+  <!-- EN: reconstruct Acrocanthosaurus DNA -->
+  <ReconstructDNAAcrocanthosaurus.label>reconstruct Acrocanthosaurus DNA</ReconstructDNAAcrocanthosaurus.label>
+  <!-- EN: reconstruct Acrocanthosaurus DNA. -->
+  <ReconstructDNAAcrocanthosaurus.description>reconstruct Acrocanthosaurus DNA.</ReconstructDNAAcrocanthosaurus.description>
+  <!-- EN: reconstructing Acrocanthosaurus DNA. -->
+  <ReconstructDNAAcrocanthosaurus.jobString>reconstructing Acrocanthosaurus DNA.</ReconstructDNAAcrocanthosaurus.jobString>
+  <!-- EN: reconstruct Adalia DNA -->
+  <ReconstructDNAAdalia.label>reconstruct Adalia DNA</ReconstructDNAAdalia.label>
+  <!-- EN: reconstruct Adalia DNA. -->
+  <ReconstructDNAAdalia.description>reconstruct Adalia DNA.</ReconstructDNAAdalia.description>
+  <!-- EN: reconstructing Adalia DNA. -->
+  <ReconstructDNAAdalia.jobString>reconstructing Adalia DNA.</ReconstructDNAAdalia.jobString>
+  <!-- EN: reconstruct Agilisaurus DNA -->
+  <ReconstructDNAAgilisaurus.label>reconstruct Agilisaurus DNA</ReconstructDNAAgilisaurus.label>
+  <!-- EN: reconstruct Agilisaurus DNA. -->
+  <ReconstructDNAAgilisaurus.description>reconstruct Agilisaurus DNA.</ReconstructDNAAgilisaurus.description>
+  <!-- EN: reconstructing Agilisaurus DNA. -->
+  <ReconstructDNAAgilisaurus.jobString>reconstructing Agilisaurus DNA.</ReconstructDNAAgilisaurus.jobString>
+  <!-- EN: reconstruct Albertosaurus DNA -->
+  <ReconstructDNAAlbertosaurus.label>reconstruct Albertosaurus DNA</ReconstructDNAAlbertosaurus.label>
+  <!-- EN: reconstruct Albertosaurus DNA. -->
+  <ReconstructDNAAlbertosaurus.description>reconstruct Albertosaurus DNA.</ReconstructDNAAlbertosaurus.description>
+  <!-- EN: reconstructing Albertosaurus DNA. -->
+  <ReconstructDNAAlbertosaurus.jobString>reconstructing Albertosaurus DNA.</ReconstructDNAAlbertosaurus.jobString>
+  <!-- EN: reconstruct Allosaurus DNA -->
+  <ReconstructDNAAllosaurus.label>reconstruct Allosaurus DNA</ReconstructDNAAllosaurus.label>
+  <!-- EN: reconstruct Allosaurus DNA. -->
+  <ReconstructDNAAllosaurus.description>reconstruct Allosaurus DNA.</ReconstructDNAAllosaurus.description>
+  <!-- EN: reconstructing Allosaurus DNA. -->
+  <ReconstructDNAAllosaurus.jobString>reconstructing Allosaurus DNA.</ReconstructDNAAllosaurus.jobString>
+  <!-- EN: reconstruct Ankylosaurus DNA -->
+  <ReconstructDNAAnkylosaurus.label>reconstruct Ankylosaurus DNA</ReconstructDNAAnkylosaurus.label>
+  <!-- EN: reconstruct Ankylosaurus DNA. -->
+  <ReconstructDNAAnkylosaurus.description>reconstruct Ankylosaurus DNA.</ReconstructDNAAnkylosaurus.description>
+  <!-- EN: reconstructing Ankylosaurus DNA. -->
+  <ReconstructDNAAnkylosaurus.jobString>reconstructing Ankylosaurus DNA.</ReconstructDNAAnkylosaurus.jobString>
+  <!-- EN: reconstruct Antarctopelta DNA -->
+  <ReconstructDNAAntarctopelta.label>reconstruct Antarctopelta DNA</ReconstructDNAAntarctopelta.label>
+  <!-- EN: reconstruct Antarctopelta DNA. -->
+  <ReconstructDNAAntarctopelta.description>reconstruct Antarctopelta DNA.</ReconstructDNAAntarctopelta.description>
+  <!-- EN: reconstructing Antarctopelta DNA. -->
+  <ReconstructDNAAntarctopelta.jobString>reconstructing Antarctopelta DNA.</ReconstructDNAAntarctopelta.jobString>
+  <!-- EN: reconstruct Apatosaurus DNA -->
+  <ReconstructDNAApatosaurus.label>reconstruct Apatosaurus DNA</ReconstructDNAApatosaurus.label>
+  <!-- EN: reconstruct Apatosaurus DNA. -->
+  <ReconstructDNAApatosaurus.description>reconstruct Apatosaurus DNA.</ReconstructDNAApatosaurus.description>
+  <!-- EN: reconstructing Apatosaurus DNA. -->
+  <ReconstructDNAApatosaurus.jobString>reconstructing Apatosaurus DNA.</ReconstructDNAApatosaurus.jobString>
+  <!-- EN: reconstruct Archaeopteryx DNA -->
+  <ReconstructDNAArchaeopteryx.label>reconstruct Archaeopteryx DNA</ReconstructDNAArchaeopteryx.label>
+  <!-- EN: reconstruct Archaeopteryx DNA. -->
+  <ReconstructDNAArchaeopteryx.description>reconstruct Archaeopteryx DNA.</ReconstructDNAArchaeopteryx.description>
+  <!-- EN: reconstructing Archaeopteryx DNA. -->
+  <ReconstructDNAArchaeopteryx.jobString>reconstructing Archaeopteryx DNA.</ReconstructDNAArchaeopteryx.jobString>
+  <!-- EN: reconstruct Argentinosaurus DNA -->
+  <ReconstructDNAArgentinosaurus.label>reconstruct Argentinosaurus DNA</ReconstructDNAArgentinosaurus.label>
+  <!-- EN: reconstruct Argentinosaurus DNA. -->
+  <ReconstructDNAArgentinosaurus.description>reconstruct Argentinosaurus DNA.</ReconstructDNAArgentinosaurus.description>
+  <!-- EN: reconstructing Argentinosaurus DNA. -->
+  <ReconstructDNAArgentinosaurus.jobString>reconstructing Argentinosaurus DNA.</ReconstructDNAArgentinosaurus.jobString>
+  <!-- EN: reconstruct Arthropleura DNA -->
+  <ReconstructDNAArthropleura.label>reconstruct Arthropleura DNA</ReconstructDNAArthropleura.label>
+  <!-- EN: reconstruct Arthropleura DNA. -->
+  <ReconstructDNAArthropleura.description>reconstruct Arthropleura DNA.</ReconstructDNAArthropleura.description>
+  <!-- EN: reconstructing Arthropleura DNA. -->
+  <ReconstructDNAArthropleura.jobString>reconstructing Arthropleura DNA.</ReconstructDNAArthropleura.jobString>
+  <!-- EN: reconstruct Bagaceratops DNA -->
+  <ReconstructDNABagaceratops.label>reconstruct Bagaceratops DNA</ReconstructDNABagaceratops.label>
+  <!-- EN: reconstruct Bagaceratops DNA. -->
+  <ReconstructDNABagaceratops.description>reconstruct Bagaceratops DNA.</ReconstructDNABagaceratops.description>
+  <!-- EN: reconstructing Bagaceratops DNA. -->
+  <ReconstructDNABagaceratops.jobString>reconstructing Bagaceratops DNA.</ReconstructDNABagaceratops.jobString>
+  <!-- EN: reconstruct Baryonyx DNA -->
+  <ReconstructDNABaryonyx.label>reconstruct Baryonyx DNA</ReconstructDNABaryonyx.label>
+  <!-- EN: reconstruct Baryonyx DNA. -->
+  <ReconstructDNABaryonyx.description>reconstruct Baryonyx DNA.</ReconstructDNABaryonyx.description>
+  <!-- EN: reconstructing Baryonyx DNA. -->
+  <ReconstructDNABaryonyx.jobString>reconstructing Baryonyx DNA.</ReconstructDNABaryonyx.jobString>
+  <!-- EN: reconstruct Baseopsis DNA -->
+  <ReconstructDNABaseopsis.label>reconstruct Baseopsis DNA</ReconstructDNABaseopsis.label>
+  <!-- EN: reconstruct Baseopsis DNA. -->
+  <ReconstructDNABaseopsis.description>reconstruct Baseopsis DNA.</ReconstructDNABaseopsis.description>
+  <!-- EN: reconstructing Baseopsis DNA. -->
+  <ReconstructDNABaseopsis.jobString>reconstructing Baseopsis DNA.</ReconstructDNABaseopsis.jobString>
+  <!-- EN: reconstruct Becklespinax DNA -->
+  <ReconstructDNABecklespinax.label>reconstruct Becklespinax DNA</ReconstructDNABecklespinax.label>
+  <!-- EN: reconstruct Becklespinax DNA. -->
+  <ReconstructDNABecklespinax.description>reconstruct Becklespinax DNA.</ReconstructDNABecklespinax.description>
+  <!-- EN: reconstructing Becklespinax DNA. -->
+  <ReconstructDNABecklespinax.jobString>reconstructing Becklespinax DNA.</ReconstructDNABecklespinax.jobString>
+  <!-- EN: reconstruct Beelzebufo DNA -->
+  <ReconstructDNABeelzebufo.label>reconstruct Beelzebufo DNA</ReconstructDNABeelzebufo.label>
+  <!-- EN: reconstruct Beelzebufo DNA. -->
+  <ReconstructDNABeelzebufo.description>reconstruct Beelzebufo DNA.</ReconstructDNABeelzebufo.description>
+  <!-- EN: reconstructing Beelzebufo DNA. -->
+  <ReconstructDNABeelzebufo.jobString>reconstructing Beelzebufo DNA.</ReconstructDNABeelzebufo.jobString>
+  <!-- EN: reconstruct Bernicia DNA -->
+  <ReconstructDNABernicia.label>reconstruct Bernicia DNA</ReconstructDNABernicia.label>
+  <!-- EN: reconstruct Bernicia DNA. -->
+  <ReconstructDNABernicia.description>reconstruct Bernicia DNA.</ReconstructDNABernicia.description>
+  <!-- EN: reconstructing Bernicia DNA. -->
+  <ReconstructDNABernicia.jobString>reconstructing Bernicia DNA.</ReconstructDNABernicia.jobString>
+  <!-- EN: reconstruct Brachiosaurus DNA -->
+  <ReconstructDNABrachiosaurus.label>reconstruct Brachiosaurus DNA</ReconstructDNABrachiosaurus.label>
+  <!-- EN: reconstruct Brachiosaurus DNA. -->
+  <ReconstructDNABrachiosaurus.description>reconstruct Brachiosaurus DNA.</ReconstructDNABrachiosaurus.description>
+  <!-- EN: reconstructing Brachiosaurus DNA. -->
+  <ReconstructDNABrachiosaurus.jobString>reconstructing Brachiosaurus DNA.</ReconstructDNABrachiosaurus.jobString>
+  <!-- EN: reconstruct Brachytrachelopan DNA -->
+  <ReconstructDNABrachytrachelopan.label>reconstruct Brachytrachelopan DNA</ReconstructDNABrachytrachelopan.label>
+  <!-- EN: reconstruct Brachytrachelopan DNA. -->
+  <ReconstructDNABrachytrachelopan.description>reconstruct Brachytrachelopan DNA.</ReconstructDNABrachytrachelopan.description>
+  <!-- EN: reconstructing Brachytrachelopan DNA. -->
+  <ReconstructDNABrachytrachelopan.jobString>reconstructing Brachytrachelopan DNA.</ReconstructDNABrachytrachelopan.jobString>
+  <!-- EN: reconstruct Caihong DNA -->
+  <ReconstructDNACaihong.label>reconstruct Caihong DNA</ReconstructDNACaihong.label>
+  <!-- EN: reconstruct Caihong DNA. -->
+  <ReconstructDNACaihong.description>reconstruct Caihong DNA.</ReconstructDNACaihong.description>
+  <!-- EN: reconstructing Caihong DNA. -->
+  <ReconstructDNACaihong.jobString>reconstructing Caihong DNA.</ReconstructDNACaihong.jobString>
+  <!-- EN: reconstruct Camarasaurus DNA -->
+  <ReconstructDNACamarasaurus.label>reconstruct Camarasaurus DNA</ReconstructDNACamarasaurus.label>
+  <!-- EN: reconstruct Camarasaurus DNA. -->
+  <ReconstructDNACamarasaurus.description>reconstruct Camarasaurus DNA.</ReconstructDNACamarasaurus.description>
+  <!-- EN: reconstructing Camarasaurus DNA. -->
+  <ReconstructDNACamarasaurus.jobString>reconstructing Camarasaurus DNA.</ReconstructDNACamarasaurus.jobString>
+  <!-- EN: reconstruct Camptosaurus DNA -->
+  <ReconstructDNACamptosaurus.label>reconstruct Camptosaurus DNA</ReconstructDNACamptosaurus.label>
+  <!-- EN: reconstruct Camptosaurus DNA. -->
+  <ReconstructDNACamptosaurus.description>reconstruct Camptosaurus DNA.</ReconstructDNACamptosaurus.description>
+  <!-- EN: reconstructing Camptosaurus DNA. -->
+  <ReconstructDNACamptosaurus.jobString>reconstructing Camptosaurus DNA.</ReconstructDNACamptosaurus.jobString>
+  <!-- EN: reconstruct Carcharodontosaurus DNA -->
+  <ReconstructDNACarcharadontosaurus.label>reconstruct Carcharodontosaurus DNA</ReconstructDNACarcharadontosaurus.label>
+  <!-- EN: reconstruct Carcharodontosaurus DNA. -->
+  <ReconstructDNACarcharadontosaurus.description>reconstruct Carcharodontosaurus DNA.</ReconstructDNACarcharadontosaurus.description>
+  <!-- EN: reconstructing Carcharodontosaurus DNA. -->
+  <ReconstructDNACarcharadontosaurus.jobString>reconstructing Carcharodontosaurus DNA.</ReconstructDNACarcharadontosaurus.jobString>
+  <!-- EN: reconstruct Carnotaurus DNA -->
+  <ReconstructDNACarnotaurus.label>reconstruct Carnotaurus DNA</ReconstructDNACarnotaurus.label>
+  <!-- EN: reconstruct Carnotaurus DNA. -->
+  <ReconstructDNACarnotaurus.description>reconstruct Carnotaurus DNA.</ReconstructDNACarnotaurus.description>
+  <!-- EN: reconstructing Carnotaurus DNA. -->
+  <ReconstructDNACarnotaurus.jobString>reconstructing Carnotaurus DNA.</ReconstructDNACarnotaurus.jobString>
+  <!-- EN: reconstruct Ceratosaurus DNA -->
+  <ReconstructDNACeratosaurus.label>reconstruct Ceratosaurus DNA</ReconstructDNACeratosaurus.label>
+  <!-- EN: reconstruct Ceratosaurus DNA. -->
+  <ReconstructDNACeratosaurus.description>reconstruct Ceratosaurus DNA.</ReconstructDNACeratosaurus.description>
+  <!-- EN: reconstructing Ceratosaurus DNA. -->
+  <ReconstructDNACeratosaurus.jobString>reconstructing Ceratosaurus DNA.</ReconstructDNACeratosaurus.jobString>
+  <!-- EN: reconstruct Coahuilaceratops DNA -->
+  <ReconstructDNACoahuilaceratops.label>reconstruct Coahuilaceratops DNA</ReconstructDNACoahuilaceratops.label>
+  <!-- EN: reconstruct Coahuilaceratops DNA. -->
+  <ReconstructDNACoahuilaceratops.description>reconstruct Coahuilaceratops DNA.</ReconstructDNACoahuilaceratops.description>
+  <!-- EN: reconstructing Coahuilaceratops DNA. -->
+  <ReconstructDNACoahuilaceratops.jobString>reconstructing Coahuilaceratops DNA.</ReconstructDNACoahuilaceratops.jobString>
+  <!-- EN: reconstruct Coelophysis DNA -->
+  <ReconstructDNACoelophysis.label>reconstruct Coelophysis DNA</ReconstructDNACoelophysis.label>
+  <!-- EN: reconstruct Coelophysis DNA. -->
+  <ReconstructDNACoelophysis.description>reconstruct Coelophysis DNA.</ReconstructDNACoelophysis.description>
+  <!-- EN: reconstructing Coelophysis DNA. -->
+  <ReconstructDNACoelophysis.jobString>reconstructing Coelophysis DNA.</ReconstructDNACoelophysis.jobString>
+  <!-- EN: reconstruct Compsognathus DNA -->
+  <ReconstructDNACompsognathus.label>reconstruct Compsognathus DNA</ReconstructDNACompsognathus.label>
+  <!-- EN: reconstruct Compsognathus DNA. -->
+  <ReconstructDNACompsognathus.description>reconstruct Compsognathus DNA.</ReconstructDNACompsognathus.description>
+  <!-- EN: reconstructing Compsognathus DNA. -->
+  <ReconstructDNACompsognathus.jobString>reconstructing Compsognathus DNA.</ReconstructDNACompsognathus.jobString>
+  <!-- EN: reconstruct Corythosaurus DNA -->
+  <ReconstructDNACorythosaurus.label>reconstruct Corythosaurus DNA</ReconstructDNACorythosaurus.label>
+  <!-- EN: reconstruct Corythosaurus DNA. -->
+  <ReconstructDNACorythosaurus.description>reconstruct Corythosaurus DNA.</ReconstructDNACorythosaurus.description>
+  <!-- EN: reconstructing Corythosaurus DNA. -->
+  <ReconstructDNACorythosaurus.jobString>reconstructing Corythosaurus DNA.</ReconstructDNACorythosaurus.jobString>
+  <!-- EN: reconstruct Cryolophosaurus DNA -->
+  <ReconstructDNACryolophosaurus.label>reconstruct Cryolophosaurus DNA</ReconstructDNACryolophosaurus.label>
+  <!-- EN: reconstruct Cryolophosaurus DNA. -->
+  <ReconstructDNACryolophosaurus.description>reconstruct Cryolophosaurus DNA.</ReconstructDNACryolophosaurus.description>
+  <!-- EN: reconstructing Cryolophosaurus DNA. -->
+  <ReconstructDNACryolophosaurus.jobString>reconstructing Cryolophosaurus DNA.</ReconstructDNACryolophosaurus.jobString>
+  <!-- EN: reconstruct Cyclosphaeroma DNA -->
+  <ReconstructDNACyclosphaeroma.label>reconstruct Cyclosphaeroma DNA</ReconstructDNACyclosphaeroma.label>
+  <!-- EN: reconstruct Cyclosphaeroma DNA. -->
+  <ReconstructDNACyclosphaeroma.description>reconstruct Cyclosphaeroma DNA.</ReconstructDNACyclosphaeroma.description>
+  <!-- EN: reconstructing Cyclosphaeroma DNA. -->
+  <ReconstructDNACyclosphaeroma.jobString>reconstructing Cyclosphaeroma DNA.</ReconstructDNACyclosphaeroma.jobString>
+  <!-- EN: reconstruct Deinonychus DNA -->
+  <ReconstructDNADeinonychus.label>reconstruct Deinonychus DNA</ReconstructDNADeinonychus.label>
+  <!-- EN: reconstruct Deinonychus DNA. -->
+  <ReconstructDNADeinonychus.description>reconstruct Deinonychus DNA.</ReconstructDNADeinonychus.description>
+  <!-- EN: reconstructing Deinonychus DNA. -->
+  <ReconstructDNADeinonychus.jobString>reconstructing Deinonychus DNA.</ReconstructDNADeinonychus.jobString>
+  <!-- EN: reconstruct Deinosuchus DNA -->
+  <ReconstructDNADeinosuchus.label>reconstruct Deinosuchus DNA</ReconstructDNADeinosuchus.label>
+  <!-- EN: reconstruct Deinosuchus DNA. -->
+  <ReconstructDNADeinosuchus.description>reconstruct Deinosuchus DNA.</ReconstructDNADeinosuchus.description>
+  <!-- EN: reconstructing Deinosuchus DNA. -->
+  <ReconstructDNADeinosuchus.jobString>reconstructing Deinosuchus DNA.</ReconstructDNADeinosuchus.jobString>
+  <!-- EN: reconstruct Desmatosuchus DNA -->
+  <ReconstructDNADesmatosuchus.label>reconstruct Desmatosuchus DNA</ReconstructDNADesmatosuchus.label>
+  <!-- EN: reconstruct Desmatosuchus DNA. -->
+  <ReconstructDNADesmatosuchus.description>reconstruct Desmatosuchus DNA.</ReconstructDNADesmatosuchus.description>
+  <!-- EN: reconstructing Desmatosuchus DNA. -->
+  <ReconstructDNADesmatosuchus.jobString>reconstructing Desmatosuchus DNA.</ReconstructDNADesmatosuchus.jobString>
+  <!-- EN: reconstruct Dilophosaurus DNA -->
+  <ReconstructDNADilophosaurus.label>reconstruct Dilophosaurus DNA</ReconstructDNADilophosaurus.label>
+  <!-- EN: reconstruct Dilophosaurus DNA. -->
+  <ReconstructDNADilophosaurus.description>reconstruct Dilophosaurus DNA.</ReconstructDNADilophosaurus.description>
+  <!-- EN: reconstructing Dilophosaurus DNA. -->
+  <ReconstructDNADilophosaurus.jobString>reconstructing Dilophosaurus DNA.</ReconstructDNADilophosaurus.jobString>
+  <!-- EN: reconstruct Dimetrodon DNA -->
+  <ReconstructDNADimetrodon.label>reconstruct Dimetrodon DNA</ReconstructDNADimetrodon.label>
+  <!-- EN: reconstruct Dimetrodon DNA. -->
+  <ReconstructDNADimetrodon.description>reconstruct Dimetrodon DNA.</ReconstructDNADimetrodon.description>
+  <!-- EN: reconstructing Dimetrodon DNA. -->
+  <ReconstructDNADimetrodon.jobString>reconstructing Dimetrodon DNA.</ReconstructDNADimetrodon.jobString>
+  <!-- EN: reconstruct Dinilysia DNA -->
+  <ReconstructDNADinilysia.label>reconstruct Dinilysia DNA</ReconstructDNADinilysia.label>
+  <!-- EN: reconstruct Dinilysia DNA. -->
+  <ReconstructDNADinilysia.description>reconstruct Dinilysia DNA.</ReconstructDNADinilysia.description>
+  <!-- EN: reconstructing Dinilysia DNA. -->
+  <ReconstructDNADinilysia.jobString>reconstructing Dinilysia DNA.</ReconstructDNADinilysia.jobString>
+  <!-- EN: reconstruct Diplocaulus DNA -->
+  <ReconstructDNADiplocaulus.label>reconstruct Diplocaulus DNA</ReconstructDNADiplocaulus.label>
+  <!-- EN: reconstruct Diplocaulus DNA. -->
+  <ReconstructDNADiplocaulus.description>reconstruct Diplocaulus DNA.</ReconstructDNADiplocaulus.description>
+  <!-- EN: reconstructing Diplocaulus DNA. -->
+  <ReconstructDNADiplocaulus.jobString>reconstructing Diplocaulus DNA.</ReconstructDNADiplocaulus.jobString>
+  <!-- EN: reconstruct Dracorex DNA -->
+  <ReconstructDNADracorex.label>reconstruct Dracorex DNA</ReconstructDNADracorex.label>
+  <!-- EN: reconstruct Dracorex DNA. -->
+  <ReconstructDNADracorex.description>reconstruct Dracorex DNA.</ReconstructDNADracorex.description>
+  <!-- EN: reconstructing Dracorex DNA. -->
+  <ReconstructDNADracorex.jobString>reconstructing Dracorex DNA.</ReconstructDNADracorex.jobString>
+  <!-- EN: reconstruct Drinker DNA -->
+  <ReconstructDNADrinker.label>reconstruct Drinker DNA</ReconstructDNADrinker.label>
+  <!-- EN: reconstruct Drinker DNA. -->
+  <ReconstructDNADrinker.description>reconstruct Drinker DNA.</ReconstructDNADrinker.description>
+  <!-- EN: reconstructing Drinker DNA. -->
+  <ReconstructDNADrinker.jobString>reconstructing Drinker DNA.</ReconstructDNADrinker.jobString>
+  <!-- EN: reconstruct Dromaeosaurus DNA -->
+  <ReconstructDNADromaeosaurus.label>reconstruct Dromaeosaurus DNA</ReconstructDNADromaeosaurus.label>
+  <!-- EN: reconstruct Dromaeosaurus DNA. -->
+  <ReconstructDNADromaeosaurus.description>reconstruct Dromaeosaurus DNA.</ReconstructDNADromaeosaurus.description>
+  <!-- EN: reconstructing Dromaeosaurus DNA. -->
+  <ReconstructDNADromaeosaurus.jobString>reconstructing Dromaeosaurus DNA.</ReconstructDNADromaeosaurus.jobString>
+  <!-- EN: reconstruct Dryosaurus DNA -->
+  <ReconstructDNADryosaurus.label>reconstruct Dryosaurus DNA</ReconstructDNADryosaurus.label>
+  <!-- EN: reconstruct Dryosaurus DNA. -->
+  <ReconstructDNADryosaurus.description>reconstruct Dryosaurus DNA.</ReconstructDNADryosaurus.description>
+  <!-- EN: reconstructing Dryosaurus DNA. -->
+  <ReconstructDNADryosaurus.jobString>reconstructing Dryosaurus DNA.</ReconstructDNADryosaurus.jobString>
+  <!-- EN: reconstruct Edaphosaurus DNA -->
+  <ReconstructDNAEdaphosaurus.label>reconstruct Edaphosaurus DNA</ReconstructDNAEdaphosaurus.label>
+  <!-- EN: reconstruct Edaphosaurus DNA. -->
+  <ReconstructDNAEdaphosaurus.description>reconstruct Edaphosaurus DNA.</ReconstructDNAEdaphosaurus.description>
+  <!-- EN: reconstructing Edaphosaurus DNA. -->
+  <ReconstructDNAEdaphosaurus.jobString>reconstructing Edaphosaurus DNA.</ReconstructDNAEdaphosaurus.jobString>
+  <!-- EN: reconstruct Edmontosaurus DNA -->
+  <ReconstructDNAEdmontosaurus.label>reconstruct Edmontosaurus DNA</ReconstructDNAEdmontosaurus.label>
+  <!-- EN: reconstruct Edmontosaurus DNA. -->
+  <ReconstructDNAEdmontosaurus.description>reconstruct Edmontosaurus DNA.</ReconstructDNAEdmontosaurus.description>
+  <!-- EN: reconstructing Edmontosaurus DNA. -->
+  <ReconstructDNAEdmontosaurus.jobString>reconstructing Edmontosaurus DNA.</ReconstructDNAEdmontosaurus.jobString>
+  <!-- EN: reconstruct Enigmosaurus DNA -->
+  <ReconstructDNAEnigmosaurus.label>reconstruct Enigmosaurus DNA</ReconstructDNAEnigmosaurus.label>
+  <!-- EN: reconstruct Enigmosaurus DNA. -->
+  <ReconstructDNAEnigmosaurus.description>reconstruct Enigmosaurus DNA.</ReconstructDNAEnigmosaurus.description>
+  <!-- EN: reconstructing Enigmosaurus DNA. -->
+  <ReconstructDNAEnigmosaurus.jobString>reconstructing Enigmosaurus DNA.</ReconstructDNAEnigmosaurus.jobString>
+  <!-- EN: reconstruct Estemmenosuchus DNA -->
+  <ReconstructDNAEstemmenosuchus.label>reconstruct Estemmenosuchus DNA</ReconstructDNAEstemmenosuchus.label>
+  <!-- EN: reconstruct Estemmenosuchus DNA. -->
+  <ReconstructDNAEstemmenosuchus.description>reconstruct Estemmenosuchus DNA.</ReconstructDNAEstemmenosuchus.description>
+  <!-- EN: reconstructing Estemmenosuchus DNA. -->
+  <ReconstructDNAEstemmenosuchus.jobString>reconstructing Estemmenosuchus DNA.</ReconstructDNAEstemmenosuchus.jobString>
+  <!-- EN: reconstruct Euoplocephalus DNA -->
+  <ReconstructDNAEuoplocephalus.label>reconstruct Euoplocephalus DNA</ReconstructDNAEuoplocephalus.label>
+  <!-- EN: reconstruct Euoplocephalus DNA. -->
+  <ReconstructDNAEuoplocephalus.description>reconstruct Euoplocephalus DNA.</ReconstructDNAEuoplocephalus.description>
+  <!-- EN: reconstructing Euoplocephalus DNA. -->
+  <ReconstructDNAEuoplocephalus.jobString>reconstructing Euoplocephalus DNA.</ReconstructDNAEuoplocephalus.jobString>
+  <!-- EN: reconstruct Euphoberia DNA -->
+  <ReconstructDNAEuphoberia.label>reconstruct Euphoberia DNA</ReconstructDNAEuphoberia.label>
+  <!-- EN: reconstruct Euphoberia DNA. -->
+  <ReconstructDNAEuphoberia.description>reconstruct Euphoberia DNA.</ReconstructDNAEuphoberia.description>
+  <!-- EN: reconstructing Euphoberia DNA. -->
+  <ReconstructDNAEuphoberia.jobString>reconstructing Euphoberia DNA.</ReconstructDNAEuphoberia.jobString>
+  <!-- EN: reconstruct Gallimimus DNA -->
+  <ReconstructDNAGallimimus.label>reconstruct Gallimimus DNA</ReconstructDNAGallimimus.label>
+  <!-- EN: reconstruct Gallimimus DNA. -->
+  <ReconstructDNAGallimimus.description>reconstruct Gallimimus DNA.</ReconstructDNAGallimimus.description>
+  <!-- EN: reconstructing Gallimimus DNA. -->
+  <ReconstructDNAGallimimus.jobString>reconstructing Gallimimus DNA.</ReconstructDNAGallimimus.jobString>
+  <!-- EN: reconstruct Gasosaurus DNA -->
+  <ReconstructDNAGasosaurus.label>reconstruct Gasosaurus DNA</ReconstructDNAGasosaurus.label>
+  <!-- EN: reconstruct Gasosaurus DNA. -->
+  <ReconstructDNAGasosaurus.description>reconstruct Gasosaurus DNA.</ReconstructDNAGasosaurus.description>
+  <!-- EN: reconstructing Gasosaurus DNA. -->
+  <ReconstructDNAGasosaurus.jobString>reconstructing Gasosaurus DNA.</ReconstructDNAGasosaurus.jobString>
+  <!-- EN: reconstruct Geosternbergia DNA -->
+  <ReconstructDNAGeosternbergia.label>reconstruct Geosternbergia DNA</ReconstructDNAGeosternbergia.label>
+  <!-- EN: reconstruct Geosternbergia DNA. -->
+  <ReconstructDNAGeosternbergia.description>reconstruct Geosternbergia DNA.</ReconstructDNAGeosternbergia.description>
+  <!-- EN: reconstructing Geosternbergia DNA. -->
+  <ReconstructDNAGeosternbergia.jobString>reconstructing Geosternbergia DNA.</ReconstructDNAGeosternbergia.jobString>
+  <!-- EN: reconstruct Geralinura DNA -->
+  <ReconstructDNAGeralinura.label>reconstruct Geralinura DNA</ReconstructDNAGeralinura.label>
+  <!-- EN: reconstruct Geralinura DNA. -->
+  <ReconstructDNAGeralinura.description>reconstruct Geralinura DNA.</ReconstructDNAGeralinura.description>
+  <!-- EN: reconstructing Geralinura DNA. -->
+  <ReconstructDNAGeralinura.jobString>reconstructing Geralinura DNA.</ReconstructDNAGeralinura.jobString>
+  <!-- EN: reconstruct Giganotosaurus DNA -->
+  <ReconstructDNAGiganotosaurus.label>reconstruct Giganotosaurus DNA</ReconstructDNAGiganotosaurus.label>
+  <!-- EN: reconstruct Giganotosaurus rex DNA. -->
+  <ReconstructDNAGiganotosaurus.description>reconstruct Giganotosaurus rex DNA.</ReconstructDNAGiganotosaurus.description>
+  <!-- EN: reconstructing Giganotosaurus rex DNA. -->
+  <ReconstructDNAGiganotosaurus.jobString>reconstructing Giganotosaurus rex DNA.</ReconstructDNAGiganotosaurus.jobString>
+  <!-- EN: reconstruct Gigantophis DNA -->
+  <ReconstructDNAGigantophis.label>reconstruct Gigantophis DNA</ReconstructDNAGigantophis.label>
+  <!-- EN: reconstruct Gigantophis DNA. -->
+  <ReconstructDNAGigantophis.description>reconstruct Gigantophis DNA.</ReconstructDNAGigantophis.description>
+  <!-- EN: reconstructing Gigantophis DNA. -->
+  <ReconstructDNAGigantophis.jobString>reconstructing Gigantophis DNA.</ReconstructDNAGigantophis.jobString>
+  <!-- EN: reconstruct Gorgonops DNA -->
+  <ReconstructDNAGorgonops.label>reconstruct Gorgonops DNA</ReconstructDNAGorgonops.label>
+  <!-- EN: reconstruct Gorgonops DNA. -->
+  <ReconstructDNAGorgonops.description>reconstruct Gorgonops DNA.</ReconstructDNAGorgonops.description>
+  <!-- EN: reconstructing Gorgonops DNA. -->
+  <ReconstructDNAGorgonops.jobString>reconstructing Gorgonops DNA.</ReconstructDNAGorgonops.jobString>
+  <!-- EN: reconstruct Halszkaraptor DNA -->
+  <ReconstructDNAHalszkaraptor.label>reconstruct Halszkaraptor DNA</ReconstructDNAHalszkaraptor.label>
+  <!-- EN: reconstruct Halszkaraptor DNA. -->
+  <ReconstructDNAHalszkaraptor.description>reconstruct Halszkaraptor DNA.</ReconstructDNAHalszkaraptor.description>
+  <!-- EN: reconstructing Halszkaraptor DNA. -->
+  <ReconstructDNAHalszkaraptor.jobString>reconstructing Halszkaraptor DNA.</ReconstructDNAHalszkaraptor.jobString>
+  <!-- EN: reconstruct Holcorobeus DNA -->
+  <ReconstructDNAHolcorobeus.label>reconstruct Holcorobeus DNA</ReconstructDNAHolcorobeus.label>
+  <!-- EN: reconstruct Holcorobeus DNA. -->
+  <ReconstructDNAHolcorobeus.description>reconstruct Holcorobeus DNA.</ReconstructDNAHolcorobeus.description>
+  <!-- EN: reconstructing Holcorobeus DNA. -->
+  <ReconstructDNAHolcorobeus.jobString>reconstructing Holcorobeus DNA.</ReconstructDNAHolcorobeus.jobString>
+  <!-- EN: reconstruct Homalocephale DNA -->
+  <ReconstructDNAHomalocephale.label>reconstruct Homalocephale DNA</ReconstructDNAHomalocephale.label>
+  <!-- EN: reconstruct Homalocephale DNA. -->
+  <ReconstructDNAHomalocephale.description>reconstruct Homalocephale DNA.</ReconstructDNAHomalocephale.description>
+  <!-- EN: reconstructing Homalocephale DNA. -->
+  <ReconstructDNAHomalocephale.jobString>reconstructing Homalocephale DNA.</ReconstructDNAHomalocephale.jobString>
+  <!-- EN: reconstruct Hylonomus DNA -->
+  <ReconstructDNAHylonomus.label>reconstruct Hylonomus DNA</ReconstructDNAHylonomus.label>
+  <!-- EN: reconstruct Hylonomus DNA. -->
+  <ReconstructDNAHylonomus.description>reconstruct Hylonomus DNA.</ReconstructDNAHylonomus.description>
+  <!-- EN: reconstructing Hylonomus DNA. -->
+  <ReconstructDNAHylonomus.jobString>reconstructing Hylonomus DNA.</ReconstructDNAHylonomus.jobString>
+  <!-- EN: reconstruct Hynerpeton DNA -->
+  <ReconstructDNAHynerpeton.label>reconstruct Hynerpeton DNA</ReconstructDNAHynerpeton.label>
+  <!-- EN: reconstruct Hynerpeton DNA. -->
+  <ReconstructDNAHynerpeton.description>reconstruct Hynerpeton DNA.</ReconstructDNAHynerpeton.description>
+  <!-- EN: reconstructing Hynerpeton DNA. -->
+  <ReconstructDNAHynerpeton.jobString>reconstructing Hynerpeton DNA.</ReconstructDNAHynerpeton.jobString>
+  <!-- EN: reconstruct Hypsilophodon DNA -->
+  <ReconstructDNAHypsilophodon.label>reconstruct Hypsilophodon DNA</ReconstructDNAHypsilophodon.label>
+  <!-- EN: reconstruct Hypsilophodon DNA. -->
+  <ReconstructDNAHypsilophodon.description>reconstruct Hypsilophodon DNA.</ReconstructDNAHypsilophodon.description>
+  <!-- EN: reconstructing Hypsilophodon DNA. -->
+  <ReconstructDNAHypsilophodon.jobString>reconstructing Hypsilophodon DNA.</ReconstructDNAHypsilophodon.jobString>
+  <!-- EN: reconstruct Indominus rex DNA -->
+  <ReconstructDNAIndominus.label>reconstruct Indominus rex DNA</ReconstructDNAIndominus.label>
+  <!-- EN: reconstruct Indominus rex DNA. -->
+  <ReconstructDNAIndominus.description>reconstruct Indominus rex DNA.</ReconstructDNAIndominus.description>
+  <!-- EN: reconstructing Indominus rex DNA. -->
+  <ReconstructDNAIndominus.jobString>reconstructing Indominus rex DNA.</ReconstructDNAIndominus.jobString>
+  <!-- EN: reconstruct Indoraptor DNA -->
+  <ReconstructDNAIndoraptor.label>reconstruct Indoraptor DNA</ReconstructDNAIndoraptor.label>
+  <!-- EN: reconstruct Indoraptor DNA. -->
+  <ReconstructDNAIndoraptor.description>reconstruct Indoraptor DNA.</ReconstructDNAIndoraptor.description>
+  <!-- EN: reconstructing Indoraptor DNA. -->
+  <ReconstructDNAIndoraptor.jobString>reconstructing Indoraptor DNA.</ReconstructDNAIndoraptor.jobString>
+  <!-- EN: reconstruct Ischigualastia DNA -->
+  <ReconstructDNAIschigualastia.label>reconstruct Ischigualastia DNA</ReconstructDNAIschigualastia.label>
+  <!-- EN: reconstruct Ischigualastia DNA. -->
+  <ReconstructDNAIschigualastia.description>reconstruct Ischigualastia DNA.</ReconstructDNAIschigualastia.description>
+  <!-- EN: reconstructing Ischigualastia DNA. -->
+  <ReconstructDNAIschigualastia.jobString>reconstructing Ischigualastia DNA.</ReconstructDNAIschigualastia.jobString>
+  <!-- EN: reconstruct Kaprosuchus DNA -->
+  <ReconstructDNAKaprosuchus.label>reconstruct Kaprosuchus DNA</ReconstructDNAKaprosuchus.label>
+  <!-- EN: reconstruct Kaprosuchus DNA. -->
+  <ReconstructDNAKaprosuchus.description>reconstruct Kaprosuchus DNA.</ReconstructDNAKaprosuchus.description>
+  <!-- EN: reconstructing Kaprosuchus DNA. -->
+  <ReconstructDNAKaprosuchus.jobString>reconstructing Kaprosuchus DNA.</ReconstructDNAKaprosuchus.jobString>
+  <!-- EN: reconstruct Kentrosaurus DNA -->
+  <ReconstructDNAKentrosaurus.label>reconstruct Kentrosaurus DNA</ReconstructDNAKentrosaurus.label>
+  <!-- EN: reconstruct Kentrosaurus DNA. -->
+  <ReconstructDNAKentrosaurus.description>reconstruct Kentrosaurus DNA.</ReconstructDNAKentrosaurus.description>
+  <!-- EN: reconstructing Kentrosaurus DNA. -->
+  <ReconstructDNAKentrosaurus.jobString>reconstructing Kentrosaurus DNA.</ReconstructDNAKentrosaurus.jobString>
+  <!-- EN: reconstruct Kileskus DNA -->
+  <ReconstructDNAKileskus.label>reconstruct Kileskus DNA</ReconstructDNAKileskus.label>
+  <!-- EN: reconstruct Kileskus DNA. -->
+  <ReconstructDNAKileskus.description>reconstruct Kileskus DNA.</ReconstructDNAKileskus.description>
+  <!-- EN: reconstructing Kileskus DNA. -->
+  <ReconstructDNAKileskus.jobString>reconstructing Kileskus DNA.</ReconstructDNAKileskus.jobString>
+  <!-- EN: reconstruct Kosmoceratops DNA -->
+  <ReconstructDNAKosmoceratops.label>reconstruct Kosmoceratops DNA</ReconstructDNAKosmoceratops.label>
+  <!-- EN: reconstruct Kosmoceratops DNA. -->
+  <ReconstructDNAKosmoceratops.description>reconstruct Kosmoceratops DNA.</ReconstructDNAKosmoceratops.description>
+  <!-- EN: reconstructing Kosmoceratops DNA. -->
+  <ReconstructDNAKosmoceratops.jobString>reconstructing Kosmoceratops DNA.</ReconstructDNAKosmoceratops.jobString>
+  <!-- EN: reconstruct Lycaenops DNA -->
+  <ReconstructDNALycaenops.label>reconstruct Lycaenops DNA</ReconstructDNALycaenops.label>
+  <!-- EN: reconstruct Lycaenops DNA. -->
+  <ReconstructDNALycaenops.description>reconstruct Lycaenops DNA.</ReconstructDNALycaenops.description>
+  <!-- EN: reconstructing Lycaenops DNA. -->
+  <ReconstructDNALycaenops.jobString>reconstructing Lycaenops DNA.</ReconstructDNALycaenops.jobString>
+  <!-- EN: reconstruct Macrelcana DNA -->
+  <ReconstructDNAMacrelcana.label>reconstruct Macrelcana DNA</ReconstructDNAMacrelcana.label>
+  <!-- EN: reconstruct Macrelcana DNA. -->
+  <ReconstructDNAMacrelcana.description>reconstruct Macrelcana DNA.</ReconstructDNAMacrelcana.description>
+  <!-- EN: reconstructing Macrelcana DNA. -->
+  <ReconstructDNAMacrelcana.jobString>reconstructing Macrelcana DNA.</ReconstructDNAMacrelcana.jobString>
+  <!-- EN: reconstruct Manipulator DNA -->
+  <ReconstructDNAManipulator.label>reconstruct Manipulator DNA</ReconstructDNAManipulator.label>
+  <!-- EN: reconstruct Manipulator DNA. -->
+  <ReconstructDNAManipulator.description>reconstruct Manipulator DNA.</ReconstructDNAManipulator.description>
+  <!-- EN: reconstructing Manipulator DNA. -->
+  <ReconstructDNAManipulator.jobString>reconstructing Manipulator DNA.</ReconstructDNAManipulator.jobString>
+  <!-- EN: reconstruct Meganeura DNA -->
+  <ReconstructDNAMeganeura.label>reconstruct Meganeura DNA</ReconstructDNAMeganeura.label>
+  <!-- EN: reconstruct Meganeura DNA. -->
+  <ReconstructDNAMeganeura.description>reconstruct Meganeura DNA.</ReconstructDNAMeganeura.description>
+  <!-- EN: reconstructing Meganeura DNA. -->
+  <ReconstructDNAMeganeura.jobString>reconstructing Meganeura DNA.</ReconstructDNAMeganeura.jobString>
+  <!-- EN: reconstruct Metriacanthosaurus DNA -->
+  <ReconstructDNAMetriacanthosaurus.label>reconstruct Metriacanthosaurus DNA</ReconstructDNAMetriacanthosaurus.label>
+  <!-- EN: reconstruct Metriacanthosaurus DNA. -->
+  <ReconstructDNAMetriacanthosaurus.description>reconstruct Metriacanthosaurus DNA.</ReconstructDNAMetriacanthosaurus.description>
+  <!-- EN: reconstructing Metriacanthosaurus DNA. -->
+  <ReconstructDNAMetriacanthosaurus.jobString>reconstructing Metriacanthosaurus DNA.</ReconstructDNAMetriacanthosaurus.jobString>
+  <!-- EN: reconstruct Microceratus DNA -->
+  <ReconstructDNAMicroceratus.label>reconstruct Microceratus DNA</ReconstructDNAMicroceratus.label>
+  <!-- EN: reconstruct Microceratus DNA. -->
+  <ReconstructDNAMicroceratus.description>reconstruct Microceratus DNA.</ReconstructDNAMicroceratus.description>
+  <!-- EN: reconstructing Microceratus DNA. -->
+  <ReconstructDNAMicroceratus.jobString>reconstructing Microceratus DNA.</ReconstructDNAMicroceratus.jobString>
+  <!-- EN: reconstruct Mochlodon DNA -->
+  <ReconstructDNAMochlodon.label>reconstruct Mochlodon DNA</ReconstructDNAMochlodon.label>
+  <!-- EN: reconstruct Mochlodon DNA. -->
+  <ReconstructDNAMochlodon.description>reconstruct Mochlodon DNA.</ReconstructDNAMochlodon.description>
+  <!-- EN: reconstructing Mochlodon DNA. -->
+  <ReconstructDNAMochlodon.jobString>reconstructing Mochlodon DNA.</ReconstructDNAMochlodon.jobString>
+  <!-- EN: reconstruct Nanuqsaurus DNA -->
+  <ReconstructDNANanuqsaurus.label>reconstruct Nanuqsaurus DNA</ReconstructDNANanuqsaurus.label>
+  <!-- EN: reconstruct Nanuqsaurus DNA. -->
+  <ReconstructDNANanuqsaurus.description>reconstruct Nanuqsaurus DNA.</ReconstructDNANanuqsaurus.description>
+  <!-- EN: reconstructing Nanuqsaurus DNA. -->
+  <ReconstructDNANanuqsaurus.jobString>reconstructing Nanuqsaurus DNA.</ReconstructDNANanuqsaurus.jobString>
+  <!-- EN: reconstruct Nasutoceratops DNA -->
+  <ReconstructDNANasutoceratops.label>reconstruct Nasutoceratops DNA</ReconstructDNANasutoceratops.label>
+  <!-- EN: reconstruct Nasutoceratops DNA. -->
+  <ReconstructDNANasutoceratops.description>reconstruct Nasutoceratops DNA.</ReconstructDNANasutoceratops.description>
+  <!-- EN: reconstructing Nasutoceratops DNA. -->
+  <ReconstructDNANasutoceratops.jobString>reconstructing Nasutoceratops DNA.</ReconstructDNANasutoceratops.jobString>
+  <!-- EN: reconstruct Nyctosaurus DNA -->
+  <ReconstructDNANyctosaurus.label>reconstruct Nyctosaurus DNA</ReconstructDNANyctosaurus.label>
+  <!-- EN: reconstruct Nyctosaurus DNA. -->
+  <ReconstructDNANyctosaurus.description>reconstruct Nyctosaurus DNA.</ReconstructDNANyctosaurus.description>
+  <!-- EN: reconstructing Nyctosaurus DNA. -->
+  <ReconstructDNANyctosaurus.jobString>reconstructing Nyctosaurus DNA.</ReconstructDNANyctosaurus.jobString>
+  <!-- EN: reconstruct Ophiacodon DNA -->
+  <ReconstructDNAOphiacodon.label>reconstruct Ophiacodon DNA</ReconstructDNAOphiacodon.label>
+  <!-- EN: reconstruct Ophiacodon DNA. -->
+  <ReconstructDNAOphiacodon.description>reconstruct Ophiacodon DNA.</ReconstructDNAOphiacodon.description>
+  <!-- EN: reconstructing Ophiacodon DNA. -->
+  <ReconstructDNAOphiacodon.jobString>reconstructing Ophiacodon DNA.</ReconstructDNAOphiacodon.jobString>
+  <!-- EN: reconstruct Ornithosuchus DNA -->
+  <ReconstructDNAOrnithosuchus.label>reconstruct Ornithosuchus DNA</ReconstructDNAOrnithosuchus.label>
+  <!-- EN: reconstruct Ornithosuchus DNA. -->
+  <ReconstructDNAOrnithosuchus.description>reconstruct Ornithosuchus DNA.</ReconstructDNAOrnithosuchus.description>
+  <!-- EN: reconstructing Ornithosuchus DNA. -->
+  <ReconstructDNAOrnithosuchus.jobString>reconstructing Ornithosuchus DNA.</ReconstructDNAOrnithosuchus.jobString>
+  <!-- EN: reconstruct Ouranosaurus DNA -->
+  <ReconstructDNAOuranosaurus.label>reconstruct Ouranosaurus DNA</ReconstructDNAOuranosaurus.label>
+  <!-- EN: reconstruct Ouranosaurus DNA. -->
+  <ReconstructDNAOuranosaurus.description>reconstruct Ouranosaurus DNA.</ReconstructDNAOuranosaurus.description>
+  <!-- EN: reconstructing Ouranosaurus DNA. -->
+  <ReconstructDNAOuranosaurus.jobString>reconstructing Ouranosaurus DNA.</ReconstructDNAOuranosaurus.jobString>
+  <!-- EN: reconstruct Oviraptor DNA -->
+  <ReconstructDNAOviraptor.label>reconstruct Oviraptor DNA</ReconstructDNAOviraptor.label>
+  <!-- EN: reconstruct Oviraptor DNA. -->
+  <ReconstructDNAOviraptor.description>reconstruct Oviraptor DNA.</ReconstructDNAOviraptor.description>
+  <!-- EN: reconstructing Oviraptor DNA. -->
+  <ReconstructDNAOviraptor.jobString>reconstructing Oviraptor DNA.</ReconstructDNAOviraptor.jobString>
+  <!-- EN: reconstruct Pachycephalosaurus DNA -->
+  <ReconstructDNAPachycephalosaurus.label>reconstruct Pachycephalosaurus DNA</ReconstructDNAPachycephalosaurus.label>
+  <!-- EN: reconstruct Pachycephalosaurus DNA. -->
+  <ReconstructDNAPachycephalosaurus.description>reconstruct Pachycephalosaurus DNA.</ReconstructDNAPachycephalosaurus.description>
+  <!-- EN: reconstructing Pachycephalosaurus DNA. -->
+  <ReconstructDNAPachycephalosaurus.jobString>reconstructing Pachycephalosaurus DNA.</ReconstructDNAPachycephalosaurus.jobString>
+  <!-- EN: reconstruct Pachyrhinosaurus DNA -->
+  <ReconstructDNAPachyrhinosaurus.label>reconstruct Pachyrhinosaurus DNA</ReconstructDNAPachyrhinosaurus.label>
+  <!-- EN: reconstruct Pachyrhinosaurus DNA. -->
+  <ReconstructDNAPachyrhinosaurus.description>reconstruct Pachyrhinosaurus DNA.</ReconstructDNAPachyrhinosaurus.description>
+  <!-- EN: reconstructing Pachyrhinosaurus DNA. -->
+  <ReconstructDNAPachyrhinosaurus.jobString>reconstructing Pachyrhinosaurus DNA.</ReconstructDNAPachyrhinosaurus.jobString>
+  <!-- EN: reconstruct Parasaurolophus DNA -->
+  <ReconstructDNAParasaurolophus.label>reconstruct Parasaurolophus DNA</ReconstructDNAParasaurolophus.label>
+  <!-- EN: reconstruct Parasaurolophus DNA. -->
+  <ReconstructDNAParasaurolophus.description>reconstruct Parasaurolophus DNA.</ReconstructDNAParasaurolophus.description>
+  <!-- EN: reconstructing Parasaurolophus DNA. -->
+  <ReconstructDNAParasaurolophus.jobString>reconstructing Parasaurolophus DNA.</ReconstructDNAParasaurolophus.jobString>
+  <!-- EN: reconstruct Parksosaurus DNA -->
+  <ReconstructDNAParksosaurus.label>reconstruct Parksosaurus DNA</ReconstructDNAParksosaurus.label>
+  <!-- EN: reconstruct Parksosaurus DNA. -->
+  <ReconstructDNAParksosaurus.description>reconstruct Parksosaurus DNA.</ReconstructDNAParksosaurus.description>
+  <!-- EN: reconstructing Parksosaurus DNA. -->
+  <ReconstructDNAParksosaurus.jobString>reconstructing Parksosaurus DNA.</ReconstructDNAParksosaurus.jobString>
+  <!-- EN: reconstruct Platyhystrix DNA -->
+  <ReconstructDNAPlatyhystrix.label>reconstruct Platyhystrix DNA</ReconstructDNAPlatyhystrix.label>
+  <!-- EN: reconstruct Platyhystrix DNA. -->
+  <ReconstructDNAPlatyhystrix.description>reconstruct Platyhystrix DNA.</ReconstructDNAPlatyhystrix.description>
+  <!-- EN: reconstructing Platyhystrix DNA. -->
+  <ReconstructDNAPlatyhystrix.jobString>reconstructing Platyhystrix DNA.</ReconstructDNAPlatyhystrix.jobString>
+  <!-- EN: reconstruct Prestosuchus DNA -->
+  <ReconstructDNAPrestosuchus.label>reconstruct Prestosuchus DNA</ReconstructDNAPrestosuchus.label>
+  <!-- EN: reconstruct Prestosuchus DNA. -->
+  <ReconstructDNAPrestosuchus.description>reconstruct Prestosuchus DNA.</ReconstructDNAPrestosuchus.description>
+  <!-- EN: reconstructing Prestosuchus DNA. -->
+  <ReconstructDNAPrestosuchus.jobString>reconstructing Prestosuchus DNA.</ReconstructDNAPrestosuchus.jobString>
+  <!-- EN: reconstruct Protoceratops DNA -->
+  <ReconstructDNAProtoceratops.label>reconstruct Protoceratops DNA</ReconstructDNAProtoceratops.label>
+  <!-- EN: reconstruct Protoceratops DNA. -->
+  <ReconstructDNAProtoceratops.description>reconstruct Protoceratops DNA.</ReconstructDNAProtoceratops.description>
+  <!-- EN: reconstructing Protoceratops DNA. -->
+  <ReconstructDNAProtoceratops.jobString>reconstructing Protoceratops DNA.</ReconstructDNAProtoceratops.jobString>
+  <!-- EN: reconstruct Protosolpuga DNA -->
+  <ReconstructDNAProtosolpuga.label>reconstruct Protosolpuga DNA</ReconstructDNAProtosolpuga.label>
+  <!-- EN: reconstruct Protosolpuga DNA. -->
+  <ReconstructDNAProtosolpuga.description>reconstruct Protosolpuga DNA.</ReconstructDNAProtosolpuga.description>
+  <!-- EN: reconstructing Protosolpuga DNA. -->
+  <ReconstructDNAProtosolpuga.jobString>reconstructing Protosolpuga DNA.</ReconstructDNAProtosolpuga.jobString>
+  <!-- EN: reconstruct Protovermes DNA -->
+  <ReconstructDNAProtovermes.label>reconstruct Protovermes DNA</ReconstructDNAProtovermes.label>
+  <!-- EN: reconstruct Protovermes DNA. -->
+  <ReconstructDNAProtovermes.description>reconstruct Protovermes DNA.</ReconstructDNAProtovermes.description>
+  <!-- EN: reconstructing Protovermes DNA. -->
+  <ReconstructDNAProtovermes.jobString>reconstructing Protovermes DNA.</ReconstructDNAProtovermes.jobString>
+  <!-- EN: reconstruct Psittacosaurus DNA -->
+  <ReconstructDNAPsittacosaurus.label>reconstruct Psittacosaurus DNA</ReconstructDNAPsittacosaurus.label>
+  <!-- EN: reconstruct Psittacosaurus DNA. -->
+  <ReconstructDNAPsittacosaurus.description>reconstruct Psittacosaurus DNA.</ReconstructDNAPsittacosaurus.description>
+  <!-- EN: reconstructing Psittacosaurus DNA. -->
+  <ReconstructDNAPsittacosaurus.jobString>reconstructing Psittacosaurus DNA.</ReconstructDNAPsittacosaurus.jobString>
+  <!-- EN: reconstruct Pteranodon DNA -->
+  <ReconstructDNAPteranodon.label>reconstruct Pteranodon DNA</ReconstructDNAPteranodon.label>
+  <!-- EN: reconstruct Pteranodon DNA. -->
+  <ReconstructDNAPteranodon.description>reconstruct Pteranodon DNA.</ReconstructDNAPteranodon.description>
+  <!-- EN: reconstructing Pteranodon DNA. -->
+  <ReconstructDNAPteranodon.jobString>reconstructing Pteranodon DNA.</ReconstructDNAPteranodon.jobString>
+  <!-- EN: reconstruct Pulmonoscorpius DNA -->
+  <ReconstructDNAPulmonoscorpius.label>reconstruct Pulmonoscorpius DNA</ReconstructDNAPulmonoscorpius.label>
+  <!-- EN: reconstruct Pulmonoscorpius DNA. -->
+  <ReconstructDNAPulmonoscorpius.description>reconstruct Pulmonoscorpius DNA.</ReconstructDNAPulmonoscorpius.description>
+  <!-- EN: reconstructing Pulmonoscorpius DNA. -->
+  <ReconstructDNAPulmonoscorpius.jobString>reconstructing Pulmonoscorpius DNA.</ReconstructDNAPulmonoscorpius.jobString>
+  <!-- EN: reconstruct Qantassaurus DNA -->
+  <ReconstructDNAQantassaurus.label>reconstruct Qantassaurus DNA</ReconstructDNAQantassaurus.label>
+  <!-- EN: reconstruct Qantassaurus DNA. -->
+  <ReconstructDNAQantassaurus.description>reconstruct Qantassaurus DNA.</ReconstructDNAQantassaurus.description>
+  <!-- EN: reconstructing Qantassaurus DNA. -->
+  <ReconstructDNAQantassaurus.jobString>reconstructing Qantassaurus DNA.</ReconstructDNAQantassaurus.jobString>
+  <!-- EN: reconstruct Quetzalcoatlus DNA -->
+  <ReconstructDNAQuetzalcoatlus.label>reconstruct Quetzalcoatlus DNA</ReconstructDNAQuetzalcoatlus.label>
+  <!-- EN: reconstruct Quetzalcoatlus DNA. -->
+  <ReconstructDNAQuetzalcoatlus.description>reconstruct Quetzalcoatlus DNA.</ReconstructDNAQuetzalcoatlus.description>
+  <!-- EN: reconstructing Quetzalcoatlus DNA. -->
+  <ReconstructDNAQuetzalcoatlus.jobString>reconstructing Quetzalcoatlus DNA.</ReconstructDNAQuetzalcoatlus.jobString>
+  <!-- EN: reconstruct Rajasaurus DNA -->
+  <ReconstructDNARajasaurus.label>reconstruct Rajasaurus DNA</ReconstructDNARajasaurus.label>
+  <!-- EN: reconstruct Rajasaurus DNA. -->
+  <ReconstructDNARajasaurus.description>reconstruct Rajasaurus DNA.</ReconstructDNARajasaurus.description>
+  <!-- EN: reconstructing Rajasaurus DNA. -->
+  <ReconstructDNARajasaurus.jobString>reconstructing Rajasaurus DNA.</ReconstructDNARajasaurus.jobString>
+  <!-- EN: reconstruct Rhabdodon DNA -->
+  <ReconstructDNARhabdodon.label>reconstruct Rhabdodon DNA</ReconstructDNARhabdodon.label>
+  <!-- EN: reconstruct Rhabdodon DNA. -->
+  <ReconstructDNARhabdodon.description>reconstruct Rhabdodon DNA.</ReconstructDNARhabdodon.description>
+  <!-- EN: reconstructing Rhabdodon DNA. -->
+  <ReconstructDNARhabdodon.jobString>reconstructing Rhabdodon DNA.</ReconstructDNARhabdodon.jobString>
+  <!-- EN: reconstruct Rhamphorhynchus DNA -->
+  <ReconstructDNARhamphorhynchus.label>reconstruct Rhamphorhynchus DNA</ReconstructDNARhamphorhynchus.label>
+  <!-- EN: reconstruct Rhamphorhynchus DNA. -->
+  <ReconstructDNARhamphorhynchus.description>reconstruct Rhamphorhynchus DNA.</ReconstructDNARhamphorhynchus.description>
+  <!-- EN: reconstructing Rhamphorhynchus DNA. -->
+  <ReconstructDNARhamphorhynchus.jobString>reconstructing Rhamphorhynchus DNA.</ReconstructDNARhamphorhynchus.jobString>
+  <!-- EN: reconstruct Saltasaurus DNA -->
+  <ReconstructDNASaltasaurus.label>reconstruct Saltasaurus DNA</ReconstructDNASaltasaurus.label>
+  <!-- EN: reconstruct Saltasaurus DNA. -->
+  <ReconstructDNASaltasaurus.description>reconstruct Saltasaurus DNA.</ReconstructDNASaltasaurus.description>
+  <!-- EN: reconstructing Saltasaurus DNA. -->
+  <ReconstructDNASaltasaurus.jobString>reconstructing Saltasaurus DNA.</ReconstructDNASaltasaurus.jobString>
+  <!-- EN: reconstruct Sarcosuchus DNA -->
+  <ReconstructDNASarcosuchus.label>reconstruct Sarcosuchus DNA</ReconstructDNASarcosuchus.label>
+  <!-- EN: reconstruct Sarcosuchus DNA. -->
+  <ReconstructDNASarcosuchus.description>reconstruct Sarcosuchus DNA.</ReconstructDNASarcosuchus.description>
+  <!-- EN: reconstructing Sarcosuchus DNA. -->
+  <ReconstructDNASarcosuchus.jobString>reconstructing Sarcosuchus DNA.</ReconstructDNASarcosuchus.jobString>
+  <!-- EN: reconstruct Scutosaurus DNA -->
+  <ReconstructDNAScutosaurus.label>reconstruct Scutosaurus DNA</ReconstructDNAScutosaurus.label>
+  <!-- EN: reconstruct Scutosaurus DNA. -->
+  <ReconstructDNAScutosaurus.description>reconstruct Scutosaurus DNA.</ReconstructDNAScutosaurus.description>
+  <!-- EN: reconstructing Scutosaurus DNA. -->
+  <ReconstructDNAScutosaurus.jobString>reconstructing Scutosaurus DNA.</ReconstructDNAScutosaurus.jobString>
+  <!-- EN: reconstruct Segnosaurus DNA -->
+  <ReconstructDNASegnosaurus.label>reconstruct Segnosaurus DNA</ReconstructDNASegnosaurus.label>
+  <!-- EN: reconstruct Segnosaurus DNA. -->
+  <ReconstructDNASegnosaurus.description>reconstruct Segnosaurus DNA.</ReconstructDNASegnosaurus.description>
+  <!-- EN: reconstructing Segnosaurus DNA. -->
+  <ReconstructDNASegnosaurus.jobString>reconstructing Segnosaurus DNA.</ReconstructDNASegnosaurus.jobString>
+  <!-- EN: reconstruct Spinosaurus DNA -->
+  <ReconstructDNASpinosaurus.label>reconstruct Spinosaurus DNA</ReconstructDNASpinosaurus.label>
+  <!-- EN: reconstruct Spinosaurus DNA. -->
+  <ReconstructDNASpinosaurus.description>reconstruct Spinosaurus DNA.</ReconstructDNASpinosaurus.description>
+  <!-- EN: reconstructing Spinosaurus DNA. -->
+  <ReconstructDNASpinosaurus.jobString>reconstructing Spinosaurus DNA.</ReconstructDNASpinosaurus.jobString>
+  <!-- EN: reconstruct Staurikosaurus DNA -->
+  <ReconstructDNAStaurikosaurus.label>reconstruct Staurikosaurus DNA</ReconstructDNAStaurikosaurus.label>
+  <!-- EN: reconstruct Staurikosaurus DNA. -->
+  <ReconstructDNAStaurikosaurus.description>reconstruct Staurikosaurus DNA.</ReconstructDNAStaurikosaurus.description>
+  <!-- EN: reconstructing Staurikosaurus DNA. -->
+  <ReconstructDNAStaurikosaurus.jobString>reconstructing Staurikosaurus DNA.</ReconstructDNAStaurikosaurus.jobString>
+  <!-- EN: reconstruct Stegosaurus DNA -->
+  <ReconstructDNAStegosaurus.label>reconstruct Stegosaurus DNA</ReconstructDNAStegosaurus.label>
+  <!-- EN: reconstruct Stegosaurus DNA. -->
+  <ReconstructDNAStegosaurus.description>reconstruct Stegosaurus DNA.</ReconstructDNAStegosaurus.description>
+  <!-- EN: reconstructing Stegosaurus DNA. -->
+  <ReconstructDNAStegosaurus.jobString>reconstructing Stegosaurus DNA.</ReconstructDNAStegosaurus.jobString>
+  <!-- EN: reconstruct Stygimoloch DNA -->
+  <ReconstructDNAStygimoloch.label>reconstruct Stygimoloch DNA</ReconstructDNAStygimoloch.label>
+  <!-- EN: reconstruct Stygimoloch DNA. -->
+  <ReconstructDNAStygimoloch.description>reconstruct Stygimoloch DNA.</ReconstructDNAStygimoloch.description>
+  <!-- EN: reconstructing Stygimoloch DNA. -->
+  <ReconstructDNAStygimoloch.jobString>reconstructing Stygimoloch DNA.</ReconstructDNAStygimoloch.jobString>
+  <!-- EN: reconstruct Styracosaurus DNA -->
+  <ReconstructDNAStyracosaurus.label>reconstruct Styracosaurus DNA</ReconstructDNAStyracosaurus.label>
+  <!-- EN: reconstruct Styracosaurus DNA. -->
+  <ReconstructDNAStyracosaurus.description>reconstruct Styracosaurus DNA.</ReconstructDNAStyracosaurus.description>
+  <!-- EN: reconstructing Styracosaurus DNA. -->
+  <ReconstructDNAStyracosaurus.jobString>reconstructing Styracosaurus DNA.</ReconstructDNAStyracosaurus.jobString>
+  <!-- EN: reconstruct Suchomimus DNA -->
+  <ReconstructDNASuchomimus.label>reconstruct Suchomimus DNA</ReconstructDNASuchomimus.label>
+  <!-- EN: reconstruct Suchomimus DNA. -->
+  <ReconstructDNASuchomimus.description>reconstruct Suchomimus DNA.</ReconstructDNASuchomimus.description>
+  <!-- EN: reconstructing Suchomimus DNA. -->
+  <ReconstructDNASuchomimus.jobString>reconstructing Suchomimus DNA.</ReconstructDNASuchomimus.jobString>
+  <!-- EN: reconstruct Supersaurus DNA -->
+  <ReconstructDNASupersaurus.label>reconstruct Supersaurus DNA</ReconstructDNASupersaurus.label>
+  <!-- EN: reconstruct Supersaurus DNA. -->
+  <ReconstructDNASupersaurus.description>reconstruct Supersaurus DNA.</ReconstructDNASupersaurus.description>
+  <!-- EN: reconstructing Supersaurus DNA. -->
+  <ReconstructDNASupersaurus.jobString>reconstructing Supersaurus DNA.</ReconstructDNASupersaurus.jobString>
+  <!-- EN: reconstruct Tanystropheus DNA -->
+  <ReconstructDNATanystropheus.label>reconstruct Tanystropheus DNA</ReconstructDNATanystropheus.label>
+  <!-- EN: reconstruct Tanystropheus DNA. -->
+  <ReconstructDNATanystropheus.description>reconstruct Tanystropheus DNA.</ReconstructDNATanystropheus.description>
+  <!-- EN: reconstructing Tanystropheus DNA. -->
+  <ReconstructDNATanystropheus.jobString>reconstructing Tanystropheus DNA.</ReconstructDNATanystropheus.jobString>
+  <!-- EN: reconstruct Tenontosaurus DNA -->
+  <ReconstructDNATenontosaurus.label>reconstruct Tenontosaurus DNA</ReconstructDNATenontosaurus.label>
+  <!-- EN: reconstruct Tenontosaurus DNA. -->
+  <ReconstructDNATenontosaurus.description>reconstruct Tenontosaurus DNA.</ReconstructDNATenontosaurus.description>
+  <!-- EN: reconstructing Tenontosaurus DNA. -->
+  <ReconstructDNATenontosaurus.jobString>reconstructing Tenontosaurus DNA.</ReconstructDNATenontosaurus.jobString>
+  <!-- EN: reconstruct Termitotron DNA -->
+  <ReconstructDNATermitotron.label>reconstruct Termitotron DNA</ReconstructDNATermitotron.label>
+  <!-- EN: reconstruct Termitotron DNA. -->
+  <ReconstructDNATermitotron.description>reconstruct Termitotron DNA.</ReconstructDNATermitotron.description>
+  <!-- EN: reconstructing Termitotron DNA. -->
+  <ReconstructDNATermitotron.jobString>reconstructing Termitotron DNA.</ReconstructDNATermitotron.jobString>
+  <!-- EN: reconstruct Therizinosaurus DNA -->
+  <ReconstructDNATherizinosaurus.label>reconstruct Therizinosaurus DNA</ReconstructDNATherizinosaurus.label>
+  <!-- EN: reconstruct Therizinosaurus DNA. -->
+  <ReconstructDNATherizinosaurus.description>reconstruct Therizinosaurus DNA.</ReconstructDNATherizinosaurus.description>
+  <!-- EN: reconstructing Therizinosaurus DNA. -->
+  <ReconstructDNATherizinosaurus.jobString>reconstructing Therizinosaurus DNA.</ReconstructDNATherizinosaurus.jobString>
+  <!-- EN: reconstruct Titanoboa DNA -->
+  <ReconstructDNATitanoboa.label>reconstruct Titanoboa DNA</ReconstructDNATitanoboa.label>
+  <!-- EN: reconstruct Titanoboa DNA. -->
+  <ReconstructDNATitanoboa.description>reconstruct Titanoboa DNA.</ReconstructDNATitanoboa.description>
+  <!-- EN: reconstructing Titanoboa DNA. -->
+  <ReconstructDNATitanoboa.jobString>reconstructing Titanoboa DNA.</ReconstructDNATitanoboa.jobString>
+  <!-- EN: reconstruct Torosaurus DNA -->
+  <ReconstructDNATorosaurus.label>reconstruct Torosaurus DNA</ReconstructDNATorosaurus.label>
+  <!-- EN: reconstruct Torosaurus DNA. -->
+  <ReconstructDNATorosaurus.description>reconstruct Torosaurus DNA.</ReconstructDNATorosaurus.description>
+  <!-- EN: reconstructing Torosaurus DNA. -->
+  <ReconstructDNATorosaurus.jobString>reconstructing Torosaurus DNA.</ReconstructDNATorosaurus.jobString>
+  <!-- EN: reconstruct Triceratops DNA -->
+  <ReconstructDNATriceratops.label>reconstruct Triceratops DNA</ReconstructDNATriceratops.label>
+  <!-- EN: reconstruct Triceratops DNA. -->
+  <ReconstructDNATriceratops.description>reconstruct Triceratops DNA.</ReconstructDNATriceratops.description>
+  <!-- EN: reconstructing Triceratops DNA. -->
+  <ReconstructDNATriceratops.jobString>reconstructing Triceratops DNA.</ReconstructDNATriceratops.jobString>
+  <!-- EN: reconstruct Troodon DNA -->
+  <ReconstructDNATroodon.label>reconstruct Troodon DNA</ReconstructDNATroodon.label>
+  <!-- EN: reconstruct Troodon DNA. -->
+  <ReconstructDNATroodon.description>reconstruct Troodon DNA.</ReconstructDNATroodon.description>
+  <!-- EN: reconstructing Troodon DNA. -->
+  <ReconstructDNATroodon.jobString>reconstructing Troodon DNA.</ReconstructDNATroodon.jobString>
+  <!-- EN: reconstruct Tupandactylus DNA -->
+  <ReconstructDNATupandactylus.label>reconstruct Tupandactylus DNA</ReconstructDNATupandactylus.label>
+  <!-- EN: reconstruct Tupandactylus DNA. -->
+  <ReconstructDNATupandactylus.description>reconstruct Tupandactylus DNA.</ReconstructDNATupandactylus.description>
+  <!-- EN: reconstructing Tupandactylus DNA. -->
+  <ReconstructDNATupandactylus.jobString>reconstructing Tupandactylus DNA.</ReconstructDNATupandactylus.jobString>
+  <!-- EN: reconstruct Tyrannosaurus rex DNA -->
+  <ReconstructDNATyrannosaurus.label>reconstruct Tyrannosaurus rex DNA</ReconstructDNATyrannosaurus.label>
+  <!-- EN: reconstruct Tyrannosaurus rex DNA. -->
+  <ReconstructDNATyrannosaurus.description>reconstruct Tyrannosaurus rex DNA.</ReconstructDNATyrannosaurus.description>
+  <!-- EN: reconstructing Tyrannosaurus rex DNA. -->
+  <ReconstructDNATyrannosaurus.jobString>reconstructing Tyrannosaurus rex DNA.</ReconstructDNATyrannosaurus.jobString>
+  <!-- EN: reconstruct Udanoceratops DNA -->
+  <ReconstructDNAUdanoceratops.label>reconstruct Udanoceratops DNA</ReconstructDNAUdanoceratops.label>
+  <!-- EN: reconstruct Udanoceratops DNA. -->
+  <ReconstructDNAUdanoceratops.description>reconstruct Udanoceratops DNA.</ReconstructDNAUdanoceratops.description>
+  <!-- EN: reconstructing Udanoceratops DNA. -->
+  <ReconstructDNAUdanoceratops.jobString>reconstructing Udanoceratops DNA.</ReconstructDNAUdanoceratops.jobString>
+  <!-- EN: reconstruct Valdosaurus DNA -->
+  <ReconstructDNAValdosaurus.label>reconstruct Valdosaurus DNA</ReconstructDNAValdosaurus.label>
+  <!-- EN: reconstruct Valdosaurus DNA. -->
+  <ReconstructDNAValdosaurus.description>reconstruct Valdosaurus DNA.</ReconstructDNAValdosaurus.description>
+  <!-- EN: reconstructing Valdosaurus DNA. -->
+  <ReconstructDNAValdosaurus.jobString>reconstructing Valdosaurus DNA.</ReconstructDNAValdosaurus.jobString>
+  <!-- EN: reconstruct Velociraptor DNA -->
+  <ReconstructDNAVelociraptor.label>reconstruct Velociraptor DNA</ReconstructDNAVelociraptor.label>
+  <!-- EN: reconstruct Velociraptor DNA. -->
+  <ReconstructDNAVelociraptor.description>reconstruct Velociraptor DNA.</ReconstructDNAVelociraptor.description>
+  <!-- EN: reconstructing Velociraptor DNA. -->
+  <ReconstructDNAVelociraptor.jobString>reconstructing Velociraptor DNA.</ReconstructDNAVelociraptor.jobString>
+  <!-- EN: reconstruct Wonambi DNA -->
+  <ReconstructDNAWonambi.label>reconstruct Wonambi DNA</ReconstructDNAWonambi.label>
+  <!-- EN: reconstruct Wonambi DNA. -->
+  <ReconstructDNAWonambi.description>reconstruct Wonambi DNA.</ReconstructDNAWonambi.description>
+  <!-- EN: reconstructing Wonambi DNA. -->
+  <ReconstructDNAWonambi.jobString>reconstructing Wonambi DNA.</ReconstructDNAWonambi.jobString>
+  <!-- EN: reconstruct Yangchuanosaurus DNA -->
+  <ReconstructDNAYangchuanosaurus.label>reconstruct Yangchuanosaurus DNA</ReconstructDNAYangchuanosaurus.label>
+  <!-- EN: reconstruct Yangchuanosaurus DNA. -->
+  <ReconstructDNAYangchuanosaurus.description>reconstruct Yangchuanosaurus DNA.</ReconstructDNAYangchuanosaurus.description>
+  <!-- EN: reconstructing Yangchuanosaurus DNA. -->
+  <ReconstructDNAYangchuanosaurus.jobString>reconstructing Yangchuanosaurus DNA.</ReconstructDNAYangchuanosaurus.jobString>
+  <!-- EN: reconstruct Yi DNA -->
+  <ReconstructDNAYi.label>reconstruct Yi DNA</ReconstructDNAYi.label>
+  <!-- EN: reconstruct Yi DNA. -->
+  <ReconstructDNAYi.description>reconstruct Yi DNA.</ReconstructDNAYi.description>
+  <!-- EN: reconstructing Yi DNA. -->
+  <ReconstructDNAYi.jobString>reconstructing Yi DNA.</ReconstructDNAYi.jobString>
+  <!-- EN: reconstruct Yurlunggur DNA -->
+  <ReconstructDNAYurlunggur.label>reconstruct Yurlunggur DNA</ReconstructDNAYurlunggur.label>
+  <!-- EN: reconstruct Yurlunggur DNA. -->
+  <ReconstructDNAYurlunggur.description>reconstruct Yurlunggur DNA.</ReconstructDNAYurlunggur.description>
+  <!-- EN: reconstructing Yurlunggur DNA. -->
+  <ReconstructDNAYurlunggur.jobString>reconstructing Yurlunggur DNA.</ReconstructDNAYurlunggur.jobString>
+  <!-- EN: reconstruct Yutyrannus DNA -->
+  <ReconstructDNAYutyrannus.label>reconstruct Yutyrannus DNA</ReconstructDNAYutyrannus.label>
+  <!-- EN: reconstruct Yutyrannus DNA. -->
+  <ReconstructDNAYutyrannus.description>reconstruct Yutyrannus DNA.</ReconstructDNAYutyrannus.description>
+  <!-- EN: reconstructing Yutyrannus DNA. -->
+  <ReconstructDNAYutyrannus.jobString>reconstructing Yutyrannus DNA.</ReconstructDNAYutyrannus.jobString>
+  <!-- EN: reconstruct Zalmoxes DNA -->
+  <ReconstructDNAZalmoxes.label>reconstruct Zalmoxes DNA</ReconstructDNAZalmoxes.label>
+  <!-- EN: reconstruct Zalmoxes DNA. -->
+  <ReconstructDNAZalmoxes.description>reconstruct Zalmoxes DNA.</ReconstructDNAZalmoxes.description>
+  <!-- EN: reconstructing Zalmoxes DNA. -->
+  <ReconstructDNAZalmoxes.jobString>reconstructing Zalmoxes DNA.</ReconstructDNAZalmoxes.jobString>
+  <!-- EN: reconstruct Zephyrosaurus DNA -->
+  <ReconstructDNAZephyrosaurus.label>reconstruct Zephyrosaurus DNA</ReconstructDNAZephyrosaurus.label>
+  <!-- EN: reconstruct Zephyrosaurus DNA. -->
+  <ReconstructDNAZephyrosaurus.description>reconstruct Zephyrosaurus DNA.</ReconstructDNAZephyrosaurus.description>
+  <!-- EN: reconstructing Zephyrosaurus DNA. -->
+  <ReconstructDNAZephyrosaurus.jobString>reconstructing Zephyrosaurus DNA.</ReconstructDNAZephyrosaurus.jobString>
+</LanguageData>

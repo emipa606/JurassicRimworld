@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Microceratus -->
+  <JRWMicroceratusReconstruct.label>Microceratus</JRWMicroceratusReconstruct.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #06755-1953 [MICROCERATUS GOBIENSIS] CODENAME: LITTLE-HORN >445\n\nA small ceratopsian dinosaur. Often found living in small herds, juveniles often look after hatchlings as adults forage and scout out new territory. -->
+  <JRWMicroceratusReconstruct.description>-- > INGEN INTERNAL CASE FILE #06755-1953 [MICROCERATUS GOBIENSIS] CODENAME: LITTLE-HORN >445
+
+A small ceratopsian dinosaur. Often found living in small herds, juveniles often look after hatchlings as adults forage and scout out new territory.</JRWMicroceratusReconstruct.description>
+  <!-- EN: left claw -->
+  <JRWMicroceratusReconstruct.tools.left_claw.label>left claw</JRWMicroceratusReconstruct.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <JRWMicroceratusReconstruct.tools.right_claw.label>right claw</JRWMicroceratusReconstruct.tools.right_claw.label>
+  <!-- EN: teeth -->
+  <JRWMicroceratusReconstruct.tools.teeth.label>teeth</JRWMicroceratusReconstruct.tools.teeth.label>
+  <!-- EN: head -->
+  <JRWMicroceratusReconstruct.tools.head.label>head</JRWMicroceratusReconstruct.tools.head.label>
+</LanguageData>

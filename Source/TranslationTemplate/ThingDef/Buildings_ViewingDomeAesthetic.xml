@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: viewing dome -->
+  <ViewingDomeAesthetic.label>viewing dome</ViewingDomeAesthetic.label>
+  <!-- EN: A viewing dome meant to be built alongside the viewing dome entrance.\n		\n		NOTE: the viewing dome entrance does not need the viewing dome to work. This is a purely aesthetical add-on. -->
+  <ViewingDomeAesthetic.description>A viewing dome meant to be built alongside the viewing dome entrance.
+		
+		NOTE: the viewing dome entrance does not need the viewing dome to work. This is a purely aesthetical add-on.</ViewingDomeAesthetic.description>
+</LanguageData>

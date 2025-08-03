@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Kileskus -->
+  <JRWKileskus.label>Kileskus</JRWKileskus.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #03492-2010 [KILESKUS ARISTOTOCUS] CODENAME: KHAKAS >3432\n\nA small theropod with a nasal crest that hunts primarily in a group of two or more. It's often thought that the red on their snout is indictive of how much they hunt depending on how vibrant it is, with tribes often coveting hides of those that have the most garish flesh. Their small size and quick speed make them dangerous around smaller animals and injured humans. -->
+  <JRWKileskus.description>-- > INGEN INTERNAL CASE FILE #03492-2010 [KILESKUS ARISTOTOCUS] CODENAME: KHAKAS >3432
+
+A small theropod with a nasal crest that hunts primarily in a group of two or more. It's often thought that the red on their snout is indictive of how much they hunt depending on how vibrant it is, with tribes often coveting hides of those that have the most garish flesh. Their small size and quick speed make them dangerous around smaller animals and injured humans.</JRWKileskus.description>
+  <!-- EN: left claw -->
+  <JRWKileskus.tools.left_claw.label>left claw</JRWKileskus.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <JRWKileskus.tools.right_claw.label>right claw</JRWKileskus.tools.right_claw.label>
+  <!-- EN: teeth -->
+  <JRWKileskus.tools.teeth.label>teeth</JRWKileskus.tools.teeth.label>
+  <!-- EN: head -->
+  <JRWKileskus.tools.head.label>head</JRWKileskus.tools.head.label>
+</LanguageData>

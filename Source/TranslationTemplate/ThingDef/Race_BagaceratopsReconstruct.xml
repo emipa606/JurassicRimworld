@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Bagaceratops -->
+  <JRWBagaceratopsReconstruct.label>Bagaceratops</JRWBagaceratopsReconstruct.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #389432-1975 [BAGACERATOPS ROZHDESTVENSKYI] CODENAME: SMALL-HORN >5222\n\nA small, primitive ceratopsian that lived in harsh, arid environments. Despite appearing quite late in the mesozoic timeline, this dinosaur was primitive compared to relatives at the time. Its sharp, curved beak allowed it to shred through cyads, confiers and ferns. Bagaceratops would have travelled in large packs, with a eusocial society surrounding the herd. -->
+  <JRWBagaceratopsReconstruct.description>-- > INGEN INTERNAL CASE FILE #389432-1975 [BAGACERATOPS ROZHDESTVENSKYI] CODENAME: SMALL-HORN >5222
+
+A small, primitive ceratopsian that lived in harsh, arid environments. Despite appearing quite late in the mesozoic timeline, this dinosaur was primitive compared to relatives at the time. Its sharp, curved beak allowed it to shred through cyads, confiers and ferns. Bagaceratops would have travelled in large packs, with a eusocial society surrounding the herd.</JRWBagaceratopsReconstruct.description>
+  <!-- EN: nose -->
+  <JRWBagaceratopsReconstruct.tools.nose.label>nose</JRWBagaceratopsReconstruct.tools.nose.label>
+  <!-- EN: head -->
+  <JRWBagaceratopsReconstruct.tools.head.label>head</JRWBagaceratopsReconstruct.tools.head.label>
+</LanguageData>

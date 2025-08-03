@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Termitotron -->
+  <JRWTermitotron.label>Termitotron</JRWTermitotron.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #04821-2014 [TERMITOTRON VENDEENSE] CODENAME: DAMPWOOD >4910\n\nA rather large and nasty species of proto-termite. Their insatiable appetite for wood wouldn't be so bad if their extremely powerful, clicking manidibles couldn't cut through walls and workbenches as if they were made of tissue paper. Avoid at all costs. -->
+  <JRWTermitotron.description>-- > INGEN INTERNAL CASE FILE #04821-2014 [TERMITOTRON VENDEENSE] CODENAME: DAMPWOOD >4910
+
+A rather large and nasty species of proto-termite. Their insatiable appetite for wood wouldn't be so bad if their extremely powerful, clicking manidibles couldn't cut through walls and workbenches as if they were made of tissue paper. Avoid at all costs.</JRWTermitotron.description>
+  <!-- EN: mandibles -->
+  <JRWTermitotron.tools.mandibles.label>mandibles</JRWTermitotron.tools.mandibles.label>
+</LanguageData>

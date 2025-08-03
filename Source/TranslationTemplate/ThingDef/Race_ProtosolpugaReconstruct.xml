@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Protosolpuga -->
+  <JRWProtosolpugaReconstruct.label>Protosolpuga</JRWProtosolpugaReconstruct.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #03459-1913[PROTOSOLPUGA CARBONARIA] CODENAME: SUN-SPIDER >3246\n\nAn extinct genus of solifugae. They do not possess any venom or stinger, but utilise a powerful, pure-strength bite instead. -->
+  <JRWProtosolpugaReconstruct.description>-- > INGEN INTERNAL CASE FILE #03459-1913[PROTOSOLPUGA CARBONARIA] CODENAME: SUN-SPIDER >3246
+
+An extinct genus of solifugae. They do not possess any venom or stinger, but utilise a powerful, pure-strength bite instead.</JRWProtosolpugaReconstruct.description>
+  <!-- EN: setae -->
+  <JRWProtosolpugaReconstruct.tools.setae.label>setae</JRWProtosolpugaReconstruct.tools.setae.label>
+  <!-- EN: head -->
+  <JRWProtosolpugaReconstruct.tools.head.label>head</JRWProtosolpugaReconstruct.tools.head.label>
+</LanguageData>

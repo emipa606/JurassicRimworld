@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Tenontosaurus -->
+  <JRWTenontosaurus.label>Tenontosaurus</JRWTenontosaurus.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #02321-1970 [TENONTOSAURUS TILLETTI] CODENAME: SINEW >412\n\nA large ornithopod with a slender, elongated tail, theorized to have acted as a whip with which it attacked predators, or perhaps other unruly herd members. They are often preyed upon by dinosaurs which hunt in packs. -->
+  <JRWTenontosaurus.description>-- > INGEN INTERNAL CASE FILE #02321-1970 [TENONTOSAURUS TILLETTI] CODENAME: SINEW >412
+
+A large ornithopod with a slender, elongated tail, theorized to have acted as a whip with which it attacked predators, or perhaps other unruly herd members. They are often preyed upon by dinosaurs which hunt in packs.</JRWTenontosaurus.description>
+  <!-- EN: head -->
+  <JRWTenontosaurus.tools.head.label>head</JRWTenontosaurus.tools.head.label>
+</LanguageData>

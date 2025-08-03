@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: bygone chitin -->
+  <DinoChitin.label>bygone chitin</DinoChitin.label>
+  <!-- EN: Overlapping plates of exoskeleton that belong to prehistoric insects. Strong, durable, but somewhat flammable. -->
+  <DinoChitin.description>Overlapping plates of exoskeleton that belong to prehistoric insects. Strong, durable, but somewhat flammable.</DinoChitin.description>
+  <!-- EN: ancient chitin -->
+  <DinoChitinStrong.label>ancient chitin</DinoChitinStrong.label>
+  <!-- EN: Overlapping plates of exoskeleton that belong to prehistoric insects. Black in colour, it glistens like a crystal. It is less flammable than other types of chitin, and loyally protects the wearer. -->
+  <DinoChitinStrong.description>Overlapping plates of exoskeleton that belong to prehistoric insects. Black in colour, it glistens like a crystal. It is less flammable than other types of chitin, and loyally protects the wearer.</DinoChitinStrong.description>
+</LanguageData>

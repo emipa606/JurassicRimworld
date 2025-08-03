@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: large rock -->
+  <FakeRockLarge.label>large rock</FakeRockLarge.label>
+  <!-- EN: Large rocks to go inside an exhibit or a garden. -->
+  <FakeRockLarge.description>Large rocks to go inside an exhibit or a garden.</FakeRockLarge.description>
+  <!-- EN: small rock -->
+  <FakeRockSmall.label>small rock</FakeRockSmall.label>
+  <!-- EN: Small rocks to go inside an exhibit or a garden. -->
+  <FakeRockSmall.description>Small rocks to go inside an exhibit or a garden.</FakeRockSmall.description>
+</LanguageData>

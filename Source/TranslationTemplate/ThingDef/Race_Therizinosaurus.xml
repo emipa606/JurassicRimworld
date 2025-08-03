@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Therizinosaurus -->
+  <JRWTherizinosaurus.label>Therizinosaurus</JRWTherizinosaurus.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #04233-1954 [THERIZINOSAURUS CHELONIFORMIS] CODENAME: RAKE >482\n\nA large  maniraptoran theropod dinosaur that boasts incredible, scythe like claws on each hand. Despite their fearsome appearence, these dinosaurs are actually herbivores, though that doesn't make them any less deadly when angry and provoked. Much of this creatures skeleton is still left to be discoverd, including its skull! -->
+  <JRWTherizinosaurus.description>-- > INGEN INTERNAL CASE FILE #04233-1954 [THERIZINOSAURUS CHELONIFORMIS] CODENAME: RAKE >482
+
+A large  maniraptoran theropod dinosaur that boasts incredible, scythe like claws on each hand. Despite their fearsome appearence, these dinosaurs are actually herbivores, though that doesn't make them any less deadly when angry and provoked. Much of this creatures skeleton is still left to be discoverd, including its skull!</JRWTherizinosaurus.description>
+  <!-- EN: left claw -->
+  <JRWTherizinosaurus.tools.left_claw.label>left claw</JRWTherizinosaurus.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <JRWTherizinosaurus.tools.right_claw.label>right claw</JRWTherizinosaurus.tools.right_claw.label>
+  <!-- EN: head -->
+  <JRWTherizinosaurus.tools.head.label>head</JRWTherizinosaurus.tools.head.label>
+</LanguageData>

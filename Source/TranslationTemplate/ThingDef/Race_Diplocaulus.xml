@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Diplocaulus -->
+  <JRWDiplocaulus.label>Diplocaulus</JRWDiplocaulus.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #03982-1877 [DIPLOCAULUS MAGNICORNUS] CODENAME: CAUL >332\n\nA unique lepospondyl amphibian that lived during the late carboniferous period, related to modern day amphibians such as newts, frogs and caecilians. It has a bowed head that allow it to reduce water drag when striking prey from beneath the currents, a bizarre skeletal structure that is essentially exclusive to this species. -->
+  <JRWDiplocaulus.description>-- > INGEN INTERNAL CASE FILE #03982-1877 [DIPLOCAULUS MAGNICORNUS] CODENAME: CAUL >332
+
+A unique lepospondyl amphibian that lived during the late carboniferous period, related to modern day amphibians such as newts, frogs and caecilians. It has a bowed head that allow it to reduce water drag when striking prey from beneath the currents, a bizarre skeletal structure that is essentially exclusive to this species.</JRWDiplocaulus.description>
+  <!-- EN: left foot -->
+  <JRWDiplocaulus.tools.left_foot.label>left foot</JRWDiplocaulus.tools.left_foot.label>
+  <!-- EN: right foot -->
+  <JRWDiplocaulus.tools.right_foot.label>right foot</JRWDiplocaulus.tools.right_foot.label>
+  <!-- EN: jaw -->
+  <JRWDiplocaulus.tools.jaw.label>jaw</JRWDiplocaulus.tools.jaw.label>
+  <!-- EN: head -->
+  <JRWDiplocaulus.tools.head.label>head</JRWDiplocaulus.tools.head.label>
+</LanguageData>

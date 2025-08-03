@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Protovermes -->
+  <JRWProtovermes.label>Protovermes</JRWProtovermes.label>
+  <!-- EN: - - > BIOSYN INTERNAL CASE FILE #028172-5500 [PROTOVERMES RIMIENSIS] CODENAME: NOSTALGIA >109\n\nA blood-red cynodont that is peaceful unless disturbed. Its modern decendants are still alive on the rim to this day. Interestingly enough the ability to ignite itself after death remains even through normal genome restoration means, implying that the rim underwent a similar - albeit bizarre - motion of prehistory much like Earth did millions of years ago. This suggests that boomrats were not genetically engineered as was previously thought. -->
+  <JRWProtovermes.description>-- > BIOSYN INTERNAL CASE FILE #028172-5500 [PROTOVERMES RIMIENSIS] CODENAME: NOSTALGIA >109
+
+A blood-red cynodont that is peaceful unless disturbed. Its modern decendants are still alive on the rim to this day. Interestingly enough the ability to ignite itself after death remains even through normal genome restoration means, implying that the rim underwent a similar - albeit bizarre - motion of prehistory much like Earth did millions of years ago. This suggests that boomrats were not genetically engineered as was previously thought.</JRWProtovermes.description>
+  <!-- EN: left claw -->
+  <JRWProtovermes.tools.left_claw.label>left claw</JRWProtovermes.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <JRWProtovermes.tools.right_claw.label>right claw</JRWProtovermes.tools.right_claw.label>
+  <!-- EN: head -->
+  <JRWProtovermes.tools.head.label>head</JRWProtovermes.tools.head.label>
+</LanguageData>

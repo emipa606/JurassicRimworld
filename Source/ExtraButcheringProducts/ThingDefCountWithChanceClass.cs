@@ -26,7 +26,7 @@ public sealed class ThingDefCountWithChanceClass
     {
         if (xmlRoot.ChildNodes.Count != 3)
         {
-            Log.Error("Misconfigured ThingDefCountWithChance: " + xmlRoot.OuterXml);
+            Log.Error($"Misconfigured ThingDefCountWithChance: {xmlRoot.OuterXml}");
         }
         else
         {

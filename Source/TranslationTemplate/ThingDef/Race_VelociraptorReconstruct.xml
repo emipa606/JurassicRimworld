@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Velociraptor -->
+  <JRWVelociraptorReconstruct.label>Velociraptor</JRWVelociraptorReconstruct.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #03718-1980 [VELOCIRAPTOR SORNAENSIS] CODENAME: CLEVER GIRL >1924\n\nDangerous and deadly, this dinosaur has caused much chaos and claimed many casualities in InGens earth history regarding several incidents over a span of many years. They are smart, have the ability to think, solve cognitive hazards, and are the one thing you do not want to meet face to face. The others won't be far behind. -->
+  <JRWVelociraptorReconstruct.description>-- > INGEN INTERNAL CASE FILE #03718-1980 [VELOCIRAPTOR SORNAENSIS] CODENAME: CLEVER GIRL >1924
+
+Dangerous and deadly, this dinosaur has caused much chaos and claimed many casualities in InGens earth history regarding several incidents over a span of many years. They are smart, have the ability to think, solve cognitive hazards, and are the one thing you do not want to meet face to face. The others won't be far behind.</JRWVelociraptorReconstruct.description>
+  <!-- EN: left claw -->
+  <JRWVelociraptorReconstruct.tools.left_claw.label>left claw</JRWVelociraptorReconstruct.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <JRWVelociraptorReconstruct.tools.right_claw.label>right claw</JRWVelociraptorReconstruct.tools.right_claw.label>
+  <!-- EN: teeth -->
+  <JRWVelociraptorReconstruct.tools.teeth.label>teeth</JRWVelociraptorReconstruct.tools.teeth.label>
+</LanguageData>

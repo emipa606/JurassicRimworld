@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Desmatosuchus -->
+  <JRWDesmatosuchusReconstruct.label>Desmatosuchus</JRWDesmatosuchusReconstruct.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #035349-1921 [DESMATOSUCHUS SPURENSIS] CODENAME: SCUTE >472\n\nA herbivorous archosaur sporting lateral spines along its back. Often seen foraging, these strange creatures enjoy digging around in foliage with their pointed snout for the freshest mushrooms and berries. Preyed upon by many carnivores despite their jagged appearence. -->
+  <JRWDesmatosuchusReconstruct.description>-- > INGEN INTERNAL CASE FILE #035349-1921 [DESMATOSUCHUS SPURENSIS] CODENAME: SCUTE >472
+
+A herbivorous archosaur sporting lateral spines along its back. Often seen foraging, these strange creatures enjoy digging around in foliage with their pointed snout for the freshest mushrooms and berries. Preyed upon by many carnivores despite their jagged appearence.</JRWDesmatosuchusReconstruct.description>
+  <!-- EN: head -->
+  <JRWDesmatosuchusReconstruct.tools.head.label>head</JRWDesmatosuchusReconstruct.tools.head.label>
+</LanguageData>

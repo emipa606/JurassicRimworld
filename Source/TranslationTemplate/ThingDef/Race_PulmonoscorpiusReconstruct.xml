@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Pulmonoscorpius -->
+  <JRWPulmonoscorpiusReconstruct.label>Pulmonoscorpius</JRWPulmonoscorpiusReconstruct.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #02881-1994 [PULMONOSCORPIUS KIRKTONENSIS] CODENAME: DEATHSTALKER >310\n\nA large extinct species of scorpion with large claws and a nasty sting. Not something you want to run into in the dead of night. -->
+  <JRWPulmonoscorpiusReconstruct.description>-- > INGEN INTERNAL CASE FILE #02881-1994 [PULMONOSCORPIUS KIRKTONENSIS] CODENAME: DEATHSTALKER >310
+
+A large extinct species of scorpion with large claws and a nasty sting. Not something you want to run into in the dead of night.</JRWPulmonoscorpiusReconstruct.description>
+  <!-- EN: pincers -->
+  <JRWPulmonoscorpiusReconstruct.tools.pincers.label>pincers</JRWPulmonoscorpiusReconstruct.tools.pincers.label>
+</LanguageData>

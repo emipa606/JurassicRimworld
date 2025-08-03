@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: herbivore feeder -->
+  <HerbivoreFeeder.label>herbivore feeder</HerbivoreFeeder.label>
+  <!-- EN: An automated feeding system designed to dispense sustenance for herbivores. Cost more than a small feeder, but dispenses larger amounts of food. -->
+  <HerbivoreFeeder.description>An automated feeding system designed to dispense sustenance for herbivores. Cost more than a small feeder, but dispenses larger amounts of food.</HerbivoreFeeder.description>
+  <!-- EN: small herbivore feeder -->
+  <HerbivoreFeederSmall.label>small herbivore feeder</HerbivoreFeederSmall.label>
+  <!-- EN: A small automated feeding system designed to dispense sustenance for herbivores. Cost less than a normal feeder, but dispenses smaller amounts of food. -->
+  <HerbivoreFeederSmall.description>A small automated feeding system designed to dispense sustenance for herbivores. Cost less than a normal feeder, but dispenses smaller amounts of food.</HerbivoreFeederSmall.description>
+</LanguageData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: extract DNA -->
+  <DoBillsExtractDNA.label>extract DNA</DoBillsExtractDNA.label>
+  <!-- EN: extracting at -->
+  <DoBillsExtractDNA.gerund>extracting at</DoBillsExtractDNA.gerund>
+  <!-- EN: extract at -->
+  <DoBillsExtractDNA.verb>extract at</DoBillsExtractDNA.verb>
+</LanguageData>

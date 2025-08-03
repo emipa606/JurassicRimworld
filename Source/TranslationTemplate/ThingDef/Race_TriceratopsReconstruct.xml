@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Triceratops -->
+  <JRWTriceratopsReconstruct.label>Triceratops</JRWTriceratopsReconstruct.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #0481-1889 [TRICERATOPS HORRIDUS] CODENAME: TRINITY >526\n\nAn extremely famous ceratopsid dinosaur. Noble and proud, these incredible forces of nature have stood the test of time and intregrated well into the rim. They are well known for their bravery, and their supposed rivalry with Tyrannosaurus rex. -->
+  <JRWTriceratopsReconstruct.description>-- > INGEN INTERNAL CASE FILE #0481-1889 [TRICERATOPS HORRIDUS] CODENAME: TRINITY >526
+
+An extremely famous ceratopsid dinosaur. Noble and proud, these incredible forces of nature have stood the test of time and intregrated well into the rim. They are well known for their bravery, and their supposed rivalry with Tyrannosaurus rex.</JRWTriceratopsReconstruct.description>
+  <!-- EN: horn -->
+  <JRWTriceratopsReconstruct.tools.horn-0.label>horn</JRWTriceratopsReconstruct.tools.horn-0.label>
+  <!-- EN: horn -->
+  <JRWTriceratopsReconstruct.tools.horn-1.label>horn</JRWTriceratopsReconstruct.tools.horn-1.label>
+  <!-- EN: head -->
+  <JRWTriceratopsReconstruct.tools.head.label>head</JRWTriceratopsReconstruct.tools.head.label>
+</LanguageData>

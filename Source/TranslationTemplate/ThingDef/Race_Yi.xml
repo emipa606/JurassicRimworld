@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Yi -->
+  <JRWYi.label>Yi</JRWYi.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #09820-2015 [YI QI] CODENAME: WYVERN >332\n\nA scansoriopterygid with membrane between their wings, resembling that of a bat or a dragon. They primarily eat insects and fish, but prey on smaller dinosaurs as well. -->
+  <JRWYi.description>-- > INGEN INTERNAL CASE FILE #09820-2015 [YI QI] CODENAME: WYVERN >332
+
+A scansoriopterygid with membrane between their wings, resembling that of a bat or a dragon. They primarily eat insects and fish, but prey on smaller dinosaurs as well.</JRWYi.description>
+  <!-- EN: left claw -->
+  <JRWYi.tools.left_claw.label>left claw</JRWYi.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <JRWYi.tools.right_claw.label>right claw</JRWYi.tools.right_claw.label>
+  <!-- EN: teeth -->
+  <JRWYi.tools.teeth.label>teeth</JRWYi.tools.teeth.label>
+  <!-- EN: head -->
+  <JRWYi.tools.head.label>head</JRWYi.tools.head.label>
+</LanguageData>

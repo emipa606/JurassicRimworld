@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Rhamphorhynchus -->
+  <JRWRhamphorhynchusReconstruct.label>Rhamphorhynchus</JRWRhamphorhynchusReconstruct.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #08721-1839 [RHAMPHORHYNCHUS MUENSTERI] CODENAME: BEAK-SNOUT >382\n\nA small pterosaur with a long tail. Their beak, bright red in colour, is lined with needle like teeth. They use these to eat small lizards, insects, fish, and the occasional finger. -->
+  <JRWRhamphorhynchusReconstruct.description>-- > INGEN INTERNAL CASE FILE #08721-1839 [RHAMPHORHYNCHUS MUENSTERI] CODENAME: BEAK-SNOUT >382
+
+A small pterosaur with a long tail. Their beak, bright red in colour, is lined with needle like teeth. They use these to eat small lizards, insects, fish, and the occasional finger.</JRWRhamphorhynchusReconstruct.description>
+  <!-- EN: left claw -->
+  <JRWRhamphorhynchusReconstruct.tools.left_claw.label>left claw</JRWRhamphorhynchusReconstruct.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <JRWRhamphorhynchusReconstruct.tools.right_claw.label>right claw</JRWRhamphorhynchusReconstruct.tools.right_claw.label>
+  <!-- EN: teeth -->
+  <JRWRhamphorhynchusReconstruct.tools.teeth.label>teeth</JRWRhamphorhynchusReconstruct.tools.teeth.label>
+  <!-- EN: head -->
+  <JRWRhamphorhynchusReconstruct.tools.head.label>head</JRWRhamphorhynchusReconstruct.tools.head.label>
+</LanguageData>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Staurikosaurus -->
+  <JRWStaurikosaurus.label>Staurikosaurus</JRWStaurikosaurus.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #042988-1970 [STAURIKOSAURUS PRICEI] CODENAME: SOUTH >230\n\nA scrawny carnivore that eats small lizards and insects. They are not strong, but they can be a nuisance. -->
+  <JRWStaurikosaurus.description>-- > INGEN INTERNAL CASE FILE #042988-1970 [STAURIKOSAURUS PRICEI] CODENAME: SOUTH >230
+
+A scrawny carnivore that eats small lizards and insects. They are not strong, but they can be a nuisance.</JRWStaurikosaurus.description>
+  <!-- EN: left claw -->
+  <JRWStaurikosaurus.tools.left_claw.label>left claw</JRWStaurikosaurus.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <JRWStaurikosaurus.tools.right_claw.label>right claw</JRWStaurikosaurus.tools.right_claw.label>
+  <!-- EN: teeth -->
+  <JRWStaurikosaurus.tools.teeth.label>teeth</JRWStaurikosaurus.tools.teeth.label>
+  <!-- EN: head -->
+  <JRWStaurikosaurus.tools.head.label>head</JRWStaurikosaurus.tools.head.label>
+</LanguageData>

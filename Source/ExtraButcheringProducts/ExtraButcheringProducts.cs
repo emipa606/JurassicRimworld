@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using System.Reflection;
 using HarmonyLib;
 using Verse;
 
@@ -9,12 +10,14 @@ internal static class ExtraButcheringProducts
 {
     static ExtraButcheringProducts()
     {
-        var harmony = new Harmony("mehni.rimworld.framework.extrabutchering");
-        harmony.Patch(AccessTools.Method(typeof(Thing), "ButcherProducts"), null,
-            new HarmonyMethod(typeof(ExtraButcheringProducts), "MakeButcherProducts_PostFix"));
+        new Harmony("mehni.rimworld.framework.extrabutchering").PatchAll(Assembly.GetExecutingAssembly());
     }
+}
 
-    private static void MakeButcherProducts_PostFix(Thing __instance, ref IEnumerable<Thing> __result,
+[HarmonyPatch(typeof(Thing), nameof(Thing.ButcherProducts))]
+public static class Thing_ButcherProducts
+{
+    public static void Postfix(Thing __instance, ref IEnumerable<Thing> __result,
         float efficiency)
     {
         CompSpecialButcherChance compSpecialButcherChance;

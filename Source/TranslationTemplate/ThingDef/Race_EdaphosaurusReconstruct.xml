@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Edaphosaurus -->
+  <JRWEdaphosaurusReconstruct.label>Edaphosaurus</JRWEdaphosaurusReconstruct.label>
+  <!-- EN: - - > INGEN INTERNAL CASE FILE #0883-1940 [EDAPHOSAURUS BOANERGES] CODENAME: VERMILLION >512\n\nA herbivorous synapsid known for lounging in the sun. Their bright red sails flare up when confronted with danger. -->
+  <JRWEdaphosaurusReconstruct.description>-- > INGEN INTERNAL CASE FILE #0883-1940 [EDAPHOSAURUS BOANERGES] CODENAME: VERMILLION >512
+
+A herbivorous synapsid known for lounging in the sun. Their bright red sails flare up when confronted with danger.</JRWEdaphosaurusReconstruct.description>
+  <!-- EN: teeth -->
+  <JRWEdaphosaurusReconstruct.tools.teeth.label>teeth</JRWEdaphosaurusReconstruct.tools.teeth.label>
+  <!-- EN: head -->
+  <JRWEdaphosaurusReconstruct.tools.head.label>head</JRWEdaphosaurusReconstruct.tools.head.label>
+</LanguageData>
