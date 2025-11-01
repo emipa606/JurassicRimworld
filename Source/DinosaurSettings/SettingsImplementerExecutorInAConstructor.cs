@@ -1,4 +1,3 @@
-using System.Collections.Generic;
 using System.Linq;
 using Verse;
 
@@ -9,17 +8,23 @@ internal static class SettingsImplementerExecutorInAConstructor
 {
     static SettingsImplementerExecutorInAConstructor()
     {
-        if (!DinoSettings.dinosCanSpawnWild)
+        // Ensure the ModContentPack reference is initialized (static constructors may run before Mod ctor)
+        DinosaurSettings.ThisContentPack ??= LoadedModManager.GetMod<DinosaurSettings>()?.Content;
+
+        // Apply wild spawn disabling only if setting off and we have a content pack reference
+        if (!DinoSettings.dinosCanSpawnWild && DinosaurSettings.ThisContentPack != null)
         {
-            var list = DefDatabase<PawnKindDef>.AllDefsListForReading.FindAll(delegate(PawnKindDef x)
+            var dinoList = DefDatabase<PawnKindDef>.AllDefsListForReading.Where(def =>
+                def.modContentPack == DinosaurSettings.ThisContentPack);
+            foreach (var pawnKindDef in dinoList)
             {
-                var wildBiomes = x.RaceProps.wildBiomes;
-                return wildBiomes?.First() != null &&
-                       x.RaceProps.wildBiomes.First().commonality != 0f && x.race.description.StartsWith("-- >");
-            });
-            foreach (var pawnKindDef in list)
-            {
-                foreach (var animalBiomeRecord in pawnKindDef.RaceProps.wildBiomes)
+                var wildBiomes = pawnKindDef.RaceProps?.wildBiomes; // Guard against null RaceProps or wildBiomes
+                if (wildBiomes == null)
+                {
+                    continue;
+                }
+
+                foreach (var animalBiomeRecord in wildBiomes)
                 {
                     animalBiomeRecord.commonality = 0f;
                 }
@@ -36,11 +41,15 @@ internal static class SettingsImplementerExecutorInAConstructor
             DefDatabase<ResearchProjectDef>.GetNamed("DNAReconstruction"),
             DefDatabase<ResearchProjectDef>.GetNamed("AmberExtraction")
         ];
-        var enumerable = DefDatabase<ThingDef>.AllDefsListForReading.Where(delegate(ThingDef x)
+        var enumerable = DefDatabase<ThingDef>.AllDefsListForReading.Where(x =>
         {
-            IEnumerable<ResearchProjectDef> dinoResearchDefs2 = dinoResearchDefs;
-            var researchPrerequisites = x.researchPrerequisites;
-            return dinoResearchDefs2.Contains(researchPrerequisites?.First());
+            var researchPrereqs = x.researchPrerequisites;
+            if (researchPrereqs == null || researchPrereqs.Count == 0)
+            {
+                return false;
+            }
+
+            return dinoResearchDefs.Contains(researchPrereqs[0]);
         });
         foreach (var thingDef in enumerable)
         {

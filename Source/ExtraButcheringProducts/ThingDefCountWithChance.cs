@@ -4,7 +4,7 @@ namespace ExtraButcheringProducts;
 
 public struct ThingDefCountWithChance
 {
-    private ThingDef thingDef;
+    private ThingDef stthingDef;
 
     private int count;
 

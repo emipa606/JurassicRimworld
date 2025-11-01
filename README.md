@@ -1,6 +1,6 @@
-# [Jurassic Rimworld (Continued)]()
+# [Jurassic Rimworld (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=3541468886)
 
-![Image](https://i.imgur.com/buuPQel.png)
+![Image](https://i.postimg.cc/1X4HT06h/Info.png)
 
 Update of Serpyderpys mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1419618659
@@ -10,9 +10,9 @@ To avoid doubling the size of the mod, it was re-released using only Asset Bundl
 
 - Patch by asavikle, lower the amount of traders from this mod: https://steamcommunity.com/sharedfiles/filedetails/?id=2813022846
 
-![Image](https://i.imgur.com/pufA0kM.png)
+![Image](https://i.postimg.cc/8csH3dWV/Notice.png)
 	
-![Image](https://i.imgur.com/Z4GOv8H.png)
+![Image](https://i.postimg.cc/hvhrw8xB/Original-Description.png)
 
 Life finds a way.
 
@@ -34,8 +34,6 @@ An extremely big thank you to: Mehni, Lanilor, Shotty, Flake, JayFoxley, Jules, 
 Able to be added to current saves.
 
 Compatible with Dinosauria and Megafauna.
-
-Got bug reports, want to suggest a feature for the mod? Hop on over to the discord! Have fun! https://discord.gg/3GeZZq5
 
 KNOWN ISSUES:
 If you are having issues with certain buildings not appearing upon constructing the blueprint, please move this mod to the top of your load order underneath Core and Hugslib if you have it. Thank you to NineCities for finding this solution.
@@ -61,16 +59,18 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1903105216
 You are free to use any of the code in this mod as a base, a launchpad, etc.
 Do NOT use any of the art in this mod in other mods without my permission. Thank you.
 
-![Image](https://i.imgur.com/PwoNOj4.png)
+![Image](https://i.postimg.cc/x8qR7GH9/Reporting-Issues.png)
 
 
 
 -  See if the the error persists if you just have this mod and its requirements active.
 -  If not, try adding your other mods until it happens again.
--  Post your error-log using the [Log Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) or the standalone [Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) and command Ctrl+F12
+-  Always post your log using the [Log Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404)
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
 -  Use [RimSort](https://github.com/RimSort/RimSort/releases/latest) to sort your mods
 
+ 
 
+[![Image](https://img.shields.io/github/v/release/emipa606/JurassicRimworld?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/3541468886) | tags:  prehistoric,  animal

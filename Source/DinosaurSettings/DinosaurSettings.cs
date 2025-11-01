@@ -7,11 +7,13 @@ namespace DinosaurSettings;
 public class DinosaurSettings : Mod
 {
     public static string currentVersion;
-    public DinoSettings settings;
+    public static ModContentPack ThisContentPack;
+    private readonly DinoSettings settings;
 
     public DinosaurSettings(ModContentPack content) : base(content)
     {
         settings = GetSettings<DinoSettings>();
+        ThisContentPack = content;
         currentVersion =
             VersionFromManifest.GetVersionFromModMetaData(content.ModMetaData);
     }
@@ -23,6 +25,6 @@ public class DinosaurSettings : Mod
 
     public override void DoSettingsWindowContents(Rect inRect)
     {
-        GetSettings<DinoSettings>().DoWindowContents(inRect);
+        settings.DoWindowContents(inRect);
     }
 }
